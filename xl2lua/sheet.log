@@ -1,0 +1,15 @@
+{"jw_vip":
+"jw_vip:int:vip=key\
+int:rmb\
+int:zuanshi\
+des\
+int:tianti\
+int:pvprefresh\
+int:pvpinbreak\
+int:shopchipbox\
+int:shopbaohu\
+int:fuben\
+int:fubencount\
+Reward<default:itemid=28002,int:count>:skip\
+Reward<int:itemid,default:count=1>:libao\
+"}
