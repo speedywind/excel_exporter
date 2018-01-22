@@ -5,8 +5,8 @@
 #	特别说明default(仅用于struct): list<struct<int:itemid,default:count=1>>:reward
 #	特别说明: IsMyInt0 IsMyInt IsMyString中的字段可以不配类型
 #	特别说明<(<数相同表示同级元素): list<struct<int:hpbar>>:enemy	<list<struct<int:enemyid>>:enemy	string:enemyname	int:count=1	int:lv=0
-	# 导出结构示例: jw_enemy:id=key  name  struct<int:itemid>:cost  struct<int:hpbar=1>:enemygroup  <list<struct<int:itemid>>:lootlist  count  <list<struct<int:id>>:enemy  <<list<struct<int:enemylv=0>>:enemylv
-	# JW_ENEMY    (源自jw_enemy:id=key  name)
+	# 导出结构示例: ld_enemy:id=key  name  struct<int:itemid>:cost  struct<int:hpbar=1>:enemygroup  <list<struct<int:itemid>>:lootlist  count  <list<struct<int:id>>:enemy  <<list<struct<int:enemylv=0>>:enemylv
+	# ld_ENEMY    (源自ld_enemy:id=key  name)
 	# ├──[1]={id = 1, name = "enemy1",
 	# │   ├──cost={itemid = 1001, count = 1},     (源自struct<int:itemid,default:count=1>:cost)
 	# │   └──enemygroup={hpbar = 2,    (源自struct<int:hpbar=1>:enemygroup)
@@ -49,7 +49,7 @@ import shutil
 sheetfields = {}
 imglacks = {}
 isdebug = False
-TFileTag = "jw_"
+TFileTag = "ld_"
 TDefault = "default"
 TInt = "int"
 TBool = "bool"
@@ -61,8 +61,8 @@ TNextLevel = "<"
 TReward = "Reward"
 myrow = 1
 mycol = 0
-filename = "jw_"
-sheetname = "jw_"
+filename = "ld_"
+sheetname = "ld_"
 
 def IsMyInt0(name):
 	return name == "team_ad" \
@@ -395,7 +395,7 @@ def CheckChunk(parses, sheet, row1, row2, col, indent, nodename):
 					jschunk.append(key and key + ":" + val or val)
 				# else:
 				# 	print "ignoring "+key+" = "+val
-				if  filename != "jw_armor" or not key in ["equiplevel", "zhanli", "skill", "skilllevel"]:
+				if  filename != "ld_armor" or not key in ["equiplevel", "zhanli", "skill", "skilllevel"]:
 					xmlchunk.append(key and key + " = " + Quotes(val) or Quotes(val))
 				if parse["default"] == "key":
 					assert not majorkey, "Error[重复的主键]: near " + sheetname + filename + "("+GetColNum(mycol)+str(myrow+1)+")"
@@ -415,21 +415,21 @@ def CheckChunk(parses, sheet, row1, row2, col, indent, nodename):
 				val = CheckString(field, parse["default"])
 				if val != "\"\"" and key in ["img", "icon"]:
 					rval = val[1:-1]
-					# if filename == "jw_state":
+					# if filename == "ld_state":
 					# 	path = "../美术/【乱斗】图片分类/state/"+rval+".png"
 					# 	if not os.path.exists(path):
 					# 		imglacks[rval] = "Warn["+filename+"找不到文件]: "+path
 					# 		print imglacks[rval]
 					# 	else:
 					# 		shutil.copy(path, "../res/state/"+rval+".png")
-					# elif filename in ["jw_touxiang", "jw_touxiangkuang", "jw_taskrichang", "jw_taskkaifu1", "jw_taskkaifu2"]:
+					# elif filename in ["ld_touxiang", "ld_touxiangkuang", "ld_taskrichang", "ld_taskkaifu1", "ld_taskkaifu2"]:
 					# 	path = "../美术/【乱斗】图片分类/res/"+rval+".png"
 					# 	if not os.path.exists(path):
 					# 		imglacks[rval] = "Warn["+filename+"找不到文件]: "+path
 					# 		print imglacks[rval]
 					# 	else:
 					# 		shutil.copy(path, "../res/"+rval+".png")
-					# elif not filename in ["jw_pvpfield", "jw_enemy", "jw_hero", "jw_talent"]:
+					# elif not filename in ["ld_pvpfield", "ld_enemy", "ld_hero", "ld_talent"]:
 					# 	for subpath in ["res/", "skill/", "state/", "材料/", "防具/", "技能/", "武器/"]:
 					# 		path = "../美术/【乱斗】图片分类/"+subpath+rval+".png"
 					# 		if os.path.exists(path):
@@ -441,7 +441,7 @@ def CheckChunk(parses, sheet, row1, row2, col, indent, nodename):
 				if val != "\"\"" or not key in ["img", "ccbi", "starttime", "endtime"]:
 					luachunk.append(key and key + " = " + val or val)
 					jschunk.append(key and key + ":" + val or val)
-				if  not filename in ["jw_armor", "jw_event", "jw_package"] or not key in ["img", "des", "answer"]:
+				if  not filename in ["ld_armor", "ld_event", "ld_package"] or not key in ["img", "des", "answer"]:
 					xmlchunk.append(key and key + " = " + Quotes(CheckString(field, parse["default"])) or Quotes(CheckString(field, parse["default"])))
 				col1 += 1
 			elif parse["func"] == TStruct:
@@ -463,7 +463,7 @@ def CheckChunk(parses, sheet, row1, row2, col, indent, nodename):
 					elif lua:
 						luachunk.append(key and key + " = {" + lua + "}" or "{" + lua + "}")
 						jschunk.append(key and key + ":{" + js + "}" or "{" + js + "}")
-					if xml != "" and (filename == "jw_hero" or filename == "jw_talent" or not (key and key or nodename) in ["increase", "states", "skill"]):
+					if xml != "" and (filename == "ld_hero" or filename == "ld_talent" or not (key and key or nodename) in ["increase", "states", "skill"]):
 						xmlchunk.append((len(xmlchunk) > 0 and xmlchunk[len(xmlchunk)-1][-1:] != ">") and ">" + xml or xml)
 			elif parse["func"] == TList:
 				col1, lua, js, xml = CheckChunk(parse["args"], sheet, row1, newrow2, col1, indent+"\t", key)
@@ -508,7 +508,7 @@ def debug(vals):
 def ExportFile(xlsx):
 	global filename
 	global sheetname
-	oldfilename = "jw_"
+	oldfilename = "ld_"
 	for index, sheet in enumerate(xlsx.sheets()):
 		if sheet.nrows < 3:
 			continue
@@ -542,21 +542,21 @@ def ExportFile(xlsx):
 		else:
 			col, lua, js, xml = CheckChunk(parses, sheet, 2, sheet.nrows, 0, "", "data")
 		#在此进行文件内容的校验
-		# if filename == "jw_ladderseason":
+		# if filename == "ld_ladderseason":
 		# 	ckladderseason.check(sheet, parses);
-		# elif filename == "jw_event1":
+		# elif filename == "ld_event1":
 		# 	ckevent1.check(sheet, parses);
-		# elif filename == "jw_event":
+		# elif filename == "ld_event":
 		# 	ckevent.check(sheet, parses);
 		#save to file
 		oldfilename = filename
-		if not filename in ["jw_fenjie"]:
+		if not filename in ["ld_fenjie"]:
 			with codecs.open("../luanew/" + filename + ".lua", "w", "utf-8") as f:
 				f.write(filename.upper() + " = {" + lua + "}")
-		if not filename in ["jw_fenjie"]:
+		if not filename in ["ld_fenjie"]:
 			with codecs.open("../jsnew/" + filename + ".js", "w", "utf-8") as f:
 				f.write("module.exports = {" + js + "}")
-		if not filename in ["jw_lvattribute"]:
+		if not filename in ["ld_lvattribute"]:
 			with codecs.open("../xmlnew/" + filename + ".xml", "w", "utf-8") as f:
 				f.write("<data>" + xml + "</data>")
 
