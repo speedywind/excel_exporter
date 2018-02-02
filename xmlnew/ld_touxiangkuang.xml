@@ -1,0 +1,21 @@
+<data>
+<data id = "65001" order = "1" name = "银质头像框" img = "icon_bs0" des = "基础头像框"></data> 
+<data id = "65002" order = "2" name = "s1银质头像框" img = "icon_bs1" des = "s1赛季达到白银段位获得"></data> 
+<data id = "65003" order = "3" name = "s2银质头像框" img = "icon_bs2" des = "s2赛季达到白银段位获得"></data> 
+<data id = "65004" order = "4" name = "s3银质头像框" img = "icon_bs3" des = "s3赛季达到白银段位获得"></data> 
+<data id = "65005" order = "5" name = "s4银质头像框" img = "icon_bs4" des = "s4赛季达到白银段位获得"></data> 
+<data id = "65006" order = "6" name = "s5银质头像框" img = "icon_bs5" des = "s5赛季达到白银段位获得"></data> 
+<data id = "65013" order = "7" name = "s6银质头像框" img = "icon_bs6" des = "s6赛季达到白银段位获得"></data> 
+<data id = "65014" order = "8" name = "s7银质头像框" img = "icon_bs7" des = "s7赛季达到白银段位获得"></data> 
+<data id = "65017" order = "9" name = "s8银质头像框" img = "icon_bs8" des = "s8赛季达到白银段位获得"></data> 
+<data id = "65018" order = "10" name = "s9银质头像框" img = "icon_bs9" des = "s9赛季达到白银段位获得"></data> 
+<data id = "65007" order = "11" name = "金质头像框" img = "icon_s0" des = "累计登录60天获得"></data> 
+<data id = "65008" order = "12" name = "s1金质头像框" img = "icon_s1" des = "s1赛季达到王者段位获得"></data> 
+<data id = "65009" order = "13" name = "s2金质头像框" img = "icon_s2" des = "s2赛季达到王者段位获得"></data> 
+<data id = "65010" order = "14" name = "s3金质头像框" img = "icon_s3" des = "s3赛季达到王者段位获得"></data> 
+<data id = "65011" order = "15" name = "s4金质头像框" img = "icon_s4" des = "s4赛季达到王者段位获得"></data> 
+<data id = "65012" order = "16" name = "s5金质头像框" img = "icon_s5" des = "s5赛季达到王者段位获得"></data> 
+<data id = "65015" order = "17" name = "s6金质头像框" img = "icon_s6" des = "s6赛季达到王者段位获得"></data> 
+<data id = "65016" order = "18" name = "s7金质头像框" img = "icon_s7" des = "s7赛季达到王者段位获得"></data> 
+<data id = "65019" order = "19" name = "s8金质头像框" img = "icon_s8" des = "s8赛季达到王者段位获得"></data> 
+<data id = "65020" order = "20" name = "s9金质头像框" img = "icon_s9" des = "s9赛季达到王者段位获得"></data></data>

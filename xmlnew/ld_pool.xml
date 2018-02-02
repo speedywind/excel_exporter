@@ -1,0 +1,27 @@
+<data>
+<data id = "44007" activity = "钻石成长基金" targetid = "23" >
+	<order order = "1" targetcount = "0" des = "立即领取" >
+	<reward itemid = "1002" count = "300"></reward></order> 
+	<order order = "2" targetcount = "5000" des = "战力达到5000可领取" >
+	<reward itemid = "1002" count = "550"></reward></order> 
+	<order order = "3" targetcount = "8000" des = "战力达到8000可领取" >
+	<reward itemid = "1002" count = "750"></reward></order> 
+	<order order = "4" targetcount = "18000" des = "战力达到18000可领取" >
+	<reward itemid = "1002" count = "1000"></reward></order> 
+	<order order = "5" targetcount = "28000" des = "战力达到28000可领取" >
+	<reward itemid = "1002" count = "1250"></reward></order> 
+	<order order = "6" targetcount = "50000" des = "战力达到50000可领取" >
+	<reward itemid = "1002" count = "1650"></reward></order></data> 
+<data id = "44008" activity = "经验成长基金" targetid = "23" >
+	<order order = "1" targetcount = "0" des = "立即领取" >
+	<reward itemid = "1000" count = "5000"></reward></order> 
+	<order order = "2" targetcount = "5000" des = "战力达到5000可领取" >
+	<reward itemid = "1000" count = "720000"></reward></order> 
+	<order order = "3" targetcount = "8000" des = "战力达到8000可领取" >
+	<reward itemid = "1000" count = "5000000"></reward></order> 
+	<order order = "4" targetcount = "18000" des = "战力达到18000可领取" >
+	<reward itemid = "1000" count = "9800000"></reward></order> 
+	<order order = "5" targetcount = "28000" des = "战力达到28000可领取" >
+	<reward itemid = "1000" count = "57600000"></reward></order> 
+	<order order = "6" targetcount = "50000" des = "战力达到50000可领取" >
+	<reward itemid = "1000" count = "300000000"></reward></order></data></data>

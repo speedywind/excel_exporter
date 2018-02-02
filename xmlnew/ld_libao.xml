@@ -1,0 +1,372 @@
+<data>
+<data itemid = "41001" >
+	<reward itemid = "1001" count = "1000"></reward> 
+	<reward itemid = "31001" count = "3"></reward> 
+	<reward itemid = "34092" count = "3"></reward> 
+	<reward itemid = "10004" count = "1"></reward> 
+	<reward itemid = "62001" count = "1"></reward></data> 
+<data itemid = "41002" >
+	<reward itemid = "1001" count = "5000"></reward> 
+	<reward itemid = "31001" count = "5"></reward> 
+	<reward itemid = "15048" count = "1"></reward></data> 
+<data itemid = "41003" >
+	<reward itemid = "1001" count = "10000"></reward> 
+	<reward itemid = "31002" count = "3"></reward> 
+	<reward itemid = "34092" count = "3"></reward> 
+	<reward itemid = "18004" count = "1"></reward></data> 
+<data itemid = "41004" >
+	<reward itemid = "1001" count = "20000"></reward> 
+	<reward itemid = "31002" count = "5"></reward> 
+	<reward itemid = "34092" count = "3"></reward> 
+	<reward itemid = "51004" count = "1"></reward> 
+	<reward itemid = "15049" count = "1"></reward></data> 
+<data itemid = "41005" >
+	<reward itemid = "1001" count = "50000"></reward> 
+	<reward itemid = "31003" count = "3"></reward> 
+	<reward itemid = "34092" count = "5"></reward> 
+	<reward itemid = "51014" count = "1"></reward></data> 
+<data itemid = "41006" >
+	<reward itemid = "1001" count = "100000"></reward> 
+	<reward itemid = "31003" count = "5"></reward> 
+	<reward itemid = "34092" count = "5"></reward> 
+	<reward itemid = "51046" count = "1"></reward> 
+	<reward itemid = "15050" count = "1"></reward></data> 
+<data itemid = "41007" >
+	<reward itemid = "1001" count = "150000"></reward> 
+	<reward itemid = "31003" count = "10"></reward> 
+	<reward itemid = "34092" count = "5"></reward> 
+	<reward itemid = "39006" count = "1"></reward></data> 
+<data itemid = "41008" >
+	<reward itemid = "1001" count = "200000"></reward> 
+	<reward itemid = "31004" count = "3"></reward> 
+	<reward itemid = "34092" count = "5"></reward> 
+	<reward itemid = "39001" count = "1"></reward></data> 
+<data itemid = "41009" >
+	<reward itemid = "1001" count = "500000"></reward> 
+	<reward itemid = "31004" count = "5"></reward> 
+	<reward itemid = "34092" count = "5"></reward> 
+	<reward itemid = "39002" count = "1"></reward> 
+	<reward itemid = "15051" count = "1"></reward></data> 
+<data itemid = "41010" >
+	<reward itemid = "1001" count = "800000"></reward> 
+	<reward itemid = "31004" count = "8"></reward> 
+	<reward itemid = "34092" count = "5"></reward> 
+	<reward itemid = "39007" count = "1"></reward></data> 
+<data itemid = "41011" >
+	<reward itemid = "1001" count = "1000000"></reward> 
+	<reward itemid = "31005" count = "2"></reward> 
+	<reward itemid = "34092" count = "8"></reward> 
+	<reward itemid = "39010" count = "2"></reward> 
+	<reward itemid = "15052" count = "1"></reward></data> 
+<data itemid = "41012" >
+	<reward itemid = "1001" count = "1200000"></reward> 
+	<reward itemid = "31005" count = "3"></reward> 
+	<reward itemid = "34092" count = "10"></reward> 
+	<reward itemid = "39010" count = "3"></reward></data> 
+<data itemid = "41013" >
+	<reward itemid = "1001" count = "1500000"></reward> 
+	<reward itemid = "31005" count = "5"></reward> 
+	<reward itemid = "34092" count = "10"></reward> 
+	<reward itemid = "39008" count = "1"></reward> 
+	<reward itemid = "15053" count = "1"></reward></data> 
+<data itemid = "41014" >
+	<reward itemid = "1001" count = "2000000"></reward> 
+	<reward itemid = "31005" count = "10"></reward> 
+	<reward itemid = "34092" count = "10"></reward> 
+	<reward itemid = "39002" count = "2"></reward></data> 
+<data itemid = "41015" >
+	<reward itemid = "1001" count = "3000000"></reward> 
+	<reward itemid = "31005" count = "10"></reward> 
+	<reward itemid = "34092" count = "10"></reward> 
+	<reward itemid = "39009" count = "1"></reward> 
+	<reward itemid = "62002" count = "1"></reward> 
+	<reward itemid = "15080" count = "1"></reward></data> 
+<data itemid = "42002" >
+	<reward itemid = "1013" count = "1"></reward> 
+	<reward itemid = "1002" count = "20"></reward> 
+	<reward itemid = "24008" count = "1"></reward></data> 
+<data itemid = "42003" >
+	<reward itemid = "1013" count = "3"></reward> 
+	<reward itemid = "1002" count = "50"></reward> 
+	<reward itemid = "1001" count = "20000"></reward></data> 
+<data itemid = "42004" >
+	<reward itemid = "1013" count = "10"></reward> 
+	<reward itemid = "1002" count = "100"></reward> 
+	<reward itemid = "1001" count = "50000"></reward></data> 
+<data itemid = "42005" >
+	<reward itemid = "1013" count = "28"></reward> 
+	<reward itemid = "1002" count = "200"></reward> 
+	<reward itemid = "1001" count = "100000"></reward></data> 
+<data itemid = "42006" >
+	<reward itemid = "1013" count = "60"></reward> 
+	<reward itemid = "1002" count = "400"></reward> 
+	<reward itemid = "1001" count = "200000"></reward></data> 
+<data itemid = "42007" >
+	<reward itemid = "1013" count = "10"></reward> 
+	<reward itemid = "1002" count = "100"></reward> 
+	<reward itemid = "1001" count = "50000"></reward> 
+	<reward itemid = "24103" count = "10"></reward> 
+	<reward itemid = "15074" count = "1" >
+	<compreward itemid = "29003" count = "50"></compreward></reward></data> 
+<data itemid = "42008" >
+	<reward itemid = "1013" count = "28"></reward> 
+	<reward itemid = "1002" count = "200"></reward> 
+	<reward itemid = "1001" count = "100000"></reward> 
+	<reward itemid = "24103" count = "25"></reward> 
+	<reward itemid = "15074" count = "1" >
+	<compreward itemid = "29003" count = "50"></compreward></reward></data> 
+<data itemid = "42009" >
+	<reward itemid = "1013" count = "60"></reward> 
+	<reward itemid = "1002" count = "400"></reward> 
+	<reward itemid = "1001" count = "200000"></reward> 
+	<reward itemid = "24105" count = "25"></reward> 
+	<reward itemid = "15074" count = "1" >
+	<compreward itemid = "29003" count = "50"></compreward></reward></data> 
+<data itemid = "42010" >
+	<reward itemid = "1013" count = "10"></reward> 
+	<reward itemid = "1002" count = "100"></reward> 
+	<reward itemid = "1001" count = "50000"></reward> 
+	<reward itemid = "24103" count = "10"></reward> 
+	<reward itemid = "15079" count = "1" >
+	<compreward itemid = "29008" count = "50"></compreward></reward></data> 
+<data itemid = "42011" >
+	<reward itemid = "1013" count = "28"></reward> 
+	<reward itemid = "1002" count = "200"></reward> 
+	<reward itemid = "1001" count = "100000"></reward> 
+	<reward itemid = "24103" count = "25"></reward> 
+	<reward itemid = "15079" count = "1" >
+	<compreward itemid = "29008" count = "50"></compreward></reward></data> 
+<data itemid = "42012" >
+	<reward itemid = "1013" count = "60"></reward> 
+	<reward itemid = "1002" count = "400"></reward> 
+	<reward itemid = "1001" count = "200000"></reward> 
+	<reward itemid = "24105" count = "25"></reward> 
+	<reward itemid = "15079" count = "1" >
+	<compreward itemid = "29008" count = "50"></compreward></reward></data> 
+<data itemid = "42013" >
+	<reward itemid = "1013" count = "10"></reward> 
+	<reward itemid = "1002" count = "100"></reward> 
+	<reward itemid = "1001" count = "50000"></reward> 
+	<reward itemid = "24103" count = "10"></reward> 
+	<reward itemid = "15085" count = "1" >
+	<compreward itemid = "29009" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward></data> 
+<data itemid = "42014" >
+	<reward itemid = "1013" count = "28"></reward> 
+	<reward itemid = "1002" count = "200"></reward> 
+	<reward itemid = "1001" count = "100000"></reward> 
+	<reward itemid = "24103" count = "25"></reward> 
+	<reward itemid = "15085" count = "1" >
+	<compreward itemid = "29009" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward></data> 
+<data itemid = "42015" >
+	<reward itemid = "1013" count = "60"></reward> 
+	<reward itemid = "1002" count = "400"></reward> 
+	<reward itemid = "1001" count = "200000"></reward> 
+	<reward itemid = "24105" count = "25"></reward> 
+	<reward itemid = "15085" count = "1" >
+	<compreward itemid = "29009" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward></data> 
+<data itemid = "42016" >
+	<reward itemid = "1013" count = "10"></reward> 
+	<reward itemid = "1002" count = "100"></reward> 
+	<reward itemid = "1001" count = "50000"></reward> 
+	<reward itemid = "24103" count = "10"></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "1"></reward></data> 
+<data itemid = "42017" >
+	<reward itemid = "1013" count = "28"></reward> 
+	<reward itemid = "1002" count = "200"></reward> 
+	<reward itemid = "1001" count = "100000"></reward> 
+	<reward itemid = "24103" count = "25"></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "3"></reward></data> 
+<data itemid = "42018" >
+	<reward itemid = "1013" count = "60"></reward> 
+	<reward itemid = "1002" count = "400"></reward> 
+	<reward itemid = "1001" count = "200000"></reward> 
+	<reward itemid = "24105" count = "25"></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "5"></reward></data> 
+<data itemid = "42019" >
+	<reward itemid = "1013" count = "10"></reward> 
+	<reward itemid = "1002" count = "100"></reward> 
+	<reward itemid = "1001" count = "50000"></reward> 
+	<reward itemid = "24103" count = "10"></reward> 
+	<reward itemid = "15086" count = "1" >
+	<compreward itemid = "29013" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "1"></reward></data> 
+<data itemid = "42020" >
+	<reward itemid = "1013" count = "28"></reward> 
+	<reward itemid = "1002" count = "200"></reward> 
+	<reward itemid = "1001" count = "100000"></reward> 
+	<reward itemid = "24103" count = "25"></reward> 
+	<reward itemid = "15086" count = "1" >
+	<compreward itemid = "29013" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "3"></reward></data> 
+<data itemid = "42021" >
+	<reward itemid = "1013" count = "60"></reward> 
+	<reward itemid = "1002" count = "400"></reward> 
+	<reward itemid = "1001" count = "200000"></reward> 
+	<reward itemid = "24105" count = "25"></reward> 
+	<reward itemid = "15086" count = "1" >
+	<compreward itemid = "29013" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "5"></reward></data> 
+<data itemid = "42022" >
+	<reward itemid = "1013" count = "10"></reward> 
+	<reward itemid = "1002" count = "100"></reward> 
+	<reward itemid = "1001" count = "50000"></reward> 
+	<reward itemid = "24103" count = "10"></reward> 
+	<reward itemid = "15087" count = "1" >
+	<compreward itemid = "29014" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "1"></reward></data> 
+<data itemid = "42023" >
+	<reward itemid = "1013" count = "28"></reward> 
+	<reward itemid = "1002" count = "200"></reward> 
+	<reward itemid = "1001" count = "100000"></reward> 
+	<reward itemid = "24103" count = "25"></reward> 
+	<reward itemid = "15087" count = "1" >
+	<compreward itemid = "29014" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "3"></reward></data> 
+<data itemid = "42024" >
+	<reward itemid = "1013" count = "60"></reward> 
+	<reward itemid = "1002" count = "400"></reward> 
+	<reward itemid = "1001" count = "200000"></reward> 
+	<reward itemid = "24105" count = "25"></reward> 
+	<reward itemid = "15087" count = "1" >
+	<compreward itemid = "29014" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "5"></reward></data> 
+<data itemid = "42025" >
+	<reward itemid = "1013" count = "10"></reward> 
+	<reward itemid = "1002" count = "100"></reward> 
+	<reward itemid = "1001" count = "50000"></reward> 
+	<reward itemid = "24103" count = "10"></reward> 
+	<reward itemid = "15095" count = "1" >
+	<compreward itemid = "29022" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "1"></reward></data> 
+<data itemid = "42026" >
+	<reward itemid = "1013" count = "10"></reward> 
+	<reward itemid = "1002" count = "100"></reward> 
+	<reward itemid = "1001" count = "50000"></reward> 
+	<reward itemid = "24103" count = "10"></reward> 
+	<reward itemid = "15079" count = "1" >
+	<compreward itemid = "29008" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "1"></reward></data> 
+<data itemid = "42027" >
+	<reward itemid = "1013" count = "10"></reward> 
+	<reward itemid = "1002" count = "100"></reward> 
+	<reward itemid = "1001" count = "50000"></reward> 
+	<reward itemid = "24103" count = "10"></reward> 
+	<reward itemid = "15085" count = "1" >
+	<compreward itemid = "29009" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "1"></reward></data> 
+<data itemid = "42028" >
+	<reward itemid = "1013" count = "10"></reward> 
+	<reward itemid = "1002" count = "100"></reward> 
+	<reward itemid = "1001" count = "50000"></reward> 
+	<reward itemid = "24103" count = "10"></reward> 
+	<reward itemid = "15086" count = "1" >
+	<compreward itemid = "29013" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "1"></reward></data> 
+<data itemid = "42029" >
+	<reward itemid = "1013" count = "28"></reward> 
+	<reward itemid = "1002" count = "200"></reward> 
+	<reward itemid = "1001" count = "100000"></reward> 
+	<reward itemid = "24103" count = "25"></reward> 
+	<reward itemid = "15095" count = "1" >
+	<compreward itemid = "29022" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "3"></reward></data> 
+<data itemid = "42030" >
+	<reward itemid = "1013" count = "28"></reward> 
+	<reward itemid = "1002" count = "200"></reward> 
+	<reward itemid = "1001" count = "100000"></reward> 
+	<reward itemid = "24103" count = "25"></reward> 
+	<reward itemid = "15079" count = "1" >
+	<compreward itemid = "29008" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "3"></reward></data> 
+<data itemid = "42031" >
+	<reward itemid = "1013" count = "28"></reward> 
+	<reward itemid = "1002" count = "200"></reward> 
+	<reward itemid = "1001" count = "100000"></reward> 
+	<reward itemid = "24103" count = "25"></reward> 
+	<reward itemid = "15085" count = "1" >
+	<compreward itemid = "29009" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "3"></reward></data> 
+<data itemid = "42032" >
+	<reward itemid = "1013" count = "28"></reward> 
+	<reward itemid = "1002" count = "200"></reward> 
+	<reward itemid = "1001" count = "100000"></reward> 
+	<reward itemid = "24103" count = "25"></reward> 
+	<reward itemid = "15086" count = "1" >
+	<compreward itemid = "29013" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "3"></reward></data> 
+<data itemid = "42033" >
+	<reward itemid = "1013" count = "60"></reward> 
+	<reward itemid = "1002" count = "400"></reward> 
+	<reward itemid = "1001" count = "200000"></reward> 
+	<reward itemid = "24105" count = "25"></reward> 
+	<reward itemid = "15095" count = "1" >
+	<compreward itemid = "29022" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "5"></reward></data> 
+<data itemid = "42034" >
+	<reward itemid = "1013" count = "60"></reward> 
+	<reward itemid = "1002" count = "400"></reward> 
+	<reward itemid = "1001" count = "200000"></reward> 
+	<reward itemid = "24105" count = "25"></reward> 
+	<reward itemid = "15079" count = "1" >
+	<compreward itemid = "29008" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "5"></reward></data> 
+<data itemid = "42035" >
+	<reward itemid = "1013" count = "60"></reward> 
+	<reward itemid = "1002" count = "400"></reward> 
+	<reward itemid = "1001" count = "200000"></reward> 
+	<reward itemid = "24105" count = "25"></reward> 
+	<reward itemid = "15085" count = "1" >
+	<compreward itemid = "29009" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "5"></reward></data> 
+<data itemid = "42036" >
+	<reward itemid = "1013" count = "60"></reward> 
+	<reward itemid = "1002" count = "400"></reward> 
+	<reward itemid = "1001" count = "200000"></reward> 
+	<reward itemid = "24105" count = "25"></reward> 
+	<reward itemid = "15086" count = "1" >
+	<compreward itemid = "29013" count = "50"></compreward></reward> 
+	<reward itemid = "39027" count = "1"></reward> 
+	<reward itemid = "24010" count = "5"></reward></data> 
+<data itemid = "44001" >
+	<reward itemid = "1002" count = "75"></reward></data> 
+<data itemid = "44002" >
+	<reward itemid = "1002" count = "225"></reward></data> 
+<data itemid = "45001" >
+	<reward itemid = "1002" count = "300"></reward> 
+	<reward itemid = "1001" count = "100000"></reward> 
+	<reward itemid = "28201" count = "150"></reward></data> 
+<data itemid = "45002" >
+	<reward itemid = "1002" count = "880"></reward> 
+	<reward itemid = "1001" count = "300000"></reward> 
+	<reward itemid = "28201" count = "500"></reward></data> 
+<data itemid = "45003" >
+	<reward itemid = "1002" count = "500"></reward> 
+	<reward itemid = "1001" count = "200000"></reward> 
+	<reward itemid = "28201" count = "250"></reward></data> 
+<data itemid = "45004" >
+	<reward itemid = "1002" count = "500"></reward> 
+	<reward itemid = "1001" count = "200000"></reward> 
+	<reward itemid = "28201" count = "250"></reward></data></data>

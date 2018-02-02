@@ -1,0 +1,18 @@
+LD_SHOPMOJING = {
+[1] = {position = 1, limit = -1, vip = 0, itemid = 33501, count = 1, currency = 1003, cost = 1000}, 
+[2] = {position = 2, limit = -1, vip = 0, itemid = 52234, count = 1, currency = 1003, cost = 800}, 
+[3] = {position = 3, limit = -1, vip = 0, itemid = 52204, count = 1, currency = 1003, cost = 800}, 
+[4] = {position = 4, limit = -1, vip = 0, itemid = 52222, count = 1, currency = 1003, cost = 800}, 
+[5] = {position = 5, limit = -1, vip = 0, itemid = 52228, count = 1, currency = 1003, cost = 800}, 
+[6] = {position = 6, limit = -1, vip = 0, itemid = 52210, count = 1, currency = 1003, cost = 800}, 
+[7] = {position = 7, limit = -1, vip = 0, itemid = 52215, count = 1, currency = 1003, cost = 800}, 
+[8] = {position = 8, limit = -1, vip = 0, itemid = 52240, count = 1, currency = 1003, cost = 800}, 
+[9] = {position = 9, limit = 1, vip = 0, itemid = 24105, count = 10, currency = 1003, cost = 6000}, 
+[10] = {position = 10, limit = 3, vip = 0, itemid = 31023, count = 1, currency = 1003, cost = 10000}, 
+[11] = {position = 11, limit = 1, vip = 0, itemid = 39001, count = 1, currency = 1003, cost = 12000}, 
+[12] = {position = 12, limit = 1, vip = 0, itemid = 39002, count = 1, currency = 1003, cost = 10000}, 
+[13] = {position = 13, limit = 1, vip = 0, itemid = 7, count = 1, currency = 1003, cost = 20000}, 
+[14] = {position = 14, limit = 1, vip = 0, itemid = 18006, count = 1, currency = 1003, cost = 40000}, 
+[15] = {position = 15, limit = 1, vip = 0, itemid = 18008, count = 1, currency = 1003, cost = 40000}, 
+[16] = {position = 16, limit = 1, vip = 0, itemid = 39011, count = 1, currency = 1003, cost = 2400}, 
+[100] = {position = 100, limit = 0, vip = 3, itemid = 34092, count = 1, currency = 1003, cost = 2400}}

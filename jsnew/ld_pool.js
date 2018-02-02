@@ -1,0 +1,5 @@
+module.exports = {
+44007:{id:44007, activity:"钻石成长基金", targetid:23, 
+	order:{{order:1, targetcount:0, des:"立即领取", reward:{itemid:1002, count:300}}, {order:2, targetcount:5000, des:"战力达到5000可领取", reward:{itemid:1002, count:550}}, {order:3, targetcount:8000, des:"战力达到8000可领取", reward:{itemid:1002, count:750}}, {order:4, targetcount:18000, des:"战力达到18000可领取", reward:{itemid:1002, count:1000}}, {order:5, targetcount:28000, des:"战力达到28000可领取", reward:{itemid:1002, count:1250}}, {order:6, targetcount:50000, des:"战力达到50000可领取", reward:{itemid:1002, count:1650}}}}, 
+44008:{id:44008, activity:"经验成长基金", targetid:23, 
+	order:{{order:1, targetcount:0, des:"立即领取", reward:{itemid:1000, count:5000}}, {order:2, targetcount:5000, des:"战力达到5000可领取", reward:{itemid:1000, count:720000}}, {order:3, targetcount:8000, des:"战力达到8000可领取", reward:{itemid:1000, count:5000000}}, {order:4, targetcount:18000, des:"战力达到18000可领取", reward:{itemid:1000, count:9800000}}, {order:5, targetcount:28000, des:"战力达到28000可领取", reward:{itemid:1000, count:57600000}}, {order:6, targetcount:50000, des:"战力达到50000可领取", reward:{itemid:1000, count:300000000}}}}}

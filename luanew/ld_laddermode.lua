@@ -1,0 +1,17 @@
+LD_LADDERMODE = {
+[1] = {mode = 1, name = "坚强黑铁", score = 0, losepercent = 0.0, k = 50, 
+	level = {{level = 5, score = 0}, {level = 4, score = 80}, {level = 3, score = 160}, {level = 2, score = 240}, {level = 1, score = 320}}}, 
+[2] = {mode = 2, name = "荣耀青铜", score = 400, losepercent = 0.0, k = 50, 
+	level = {{level = 5, score = 400}, {level = 4, score = 480}, {level = 3, score = 560}, {level = 2, score = 640}, {level = 1, score = 720}}}, 
+[3] = {mode = 3, name = "不屈白银", score = 800, losepercent = 0.0, k = 50, 
+	level = {{level = 5, score = 800}, {level = 4, score = 870}, {level = 3, score = 960}, {level = 2, score = 1020}, {level = 1, score = 1050}}}, 
+[4] = {mode = 4, name = "尊贵黄金", score = 1100, losepercent = 0.0, k = 50, 
+	level = {{level = 5, score = 1100}, {level = 4, score = 1160}, {level = 3, score = 1220}, {level = 2, score = 1290}, {level = 1, score = 1350}}}, 
+[5] = {mode = 5, name = "炽热铂金", score = 1400, losepercent = 0.0, k = 50, 
+	level = {{level = 5, score = 1400}, {level = 4, score = 1460}, {level = 3, score = 1520}, {level = 2, score = 1590}, {level = 1, score = 1650}}}, 
+[6] = {mode = 6, name = "永恒钻石", score = 1700, losepercent = 0.0, k = 50, 
+	level = {{level = 5, score = 1700}, {level = 4, score = 1750}, {level = 3, score = 1790}, {level = 2, score = 1860}, {level = 1, score = 1950}}}, 
+[7] = {mode = 7, name = "超凡大师", score = 2000, losepercent = 1.0, k = 50, 
+	level = {{level = 5, score = 2000}, {level = 4, score = 2200}, {level = 3, score = 2400}, {level = 2, score = 2600}, {level = 1, score = 2800}}}, 
+[8] = {mode = 8, name = "乱斗王者", score = 3000, losepercent = 1.0, k = 50, 
+	level = {{level = 5, score = 3000}, {level = 4, score = 3200}, {level = 3, score = 3400}, {level = 2, score = 3600}, {level = 1, score = 3800}}}}

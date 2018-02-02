@@ -1,0 +1,38 @@
+<data>
+<data id = "1" level = "300" count = "1" >
+	<lootlist itemid = "1001" count = "100" weight = "100" lootshow = "1"></lootlist> 
+	<lootlist itemid = "1002" count = "10" weight = "100" lootshow = "1"></lootlist> 
+<enemygroup hpbar = "5000" >
+	<enemy enemyid = "40001" count = "1" enemylv = "0"></enemy> 
+	<enemy enemyid = "40002" count = "1" enemylv = "0"></enemy> 
+	<enemy enemyid = "40003" count = "1" enemylv = "0"></enemy></enemygroup></data> 
+<data id = "2" level = "300" count = "1" >
+	<lootlist itemid = "1001" count = "100" weight = "100" lootshow = "1"></lootlist> 
+	<lootlist itemid = "1002" count = "10" weight = "100" lootshow = "1"></lootlist> 
+<enemygroup hpbar = "5000" >
+	<enemy enemyid = "40002" count = "1" enemylv = "0"></enemy></enemygroup></data> 
+<data id = "3" level = "300" count = "1" >
+	<lootlist itemid = "1001" count = "100" weight = "100" lootshow = "1"></lootlist> 
+	<lootlist itemid = "1002" count = "10" weight = "100" lootshow = "1"></lootlist> 
+<enemygroup hpbar = "5000" >
+	<enemy enemyid = "40003" count = "1" enemylv = "0"></enemy></enemygroup></data> 
+<data id = "4" level = "300" count = "1" >
+	<lootlist itemid = "1001" count = "100" weight = "100" lootshow = "1"></lootlist> 
+	<lootlist itemid = "1002" count = "10" weight = "100" lootshow = "1"></lootlist> 
+<enemygroup hpbar = "5000" >
+	<enemy enemyid = "40004" count = "1" enemylv = "0"></enemy></enemygroup></data> 
+<data id = "5" level = "300" count = "1" >
+	<lootlist itemid = "1001" count = "100" weight = "100" lootshow = "1"></lootlist> 
+	<lootlist itemid = "1002" count = "10" weight = "100" lootshow = "1"></lootlist> 
+<enemygroup hpbar = "5000" >
+	<enemy enemyid = "40005" count = "1" enemylv = "0"></enemy></enemygroup></data> 
+<data id = "6" level = "300" count = "1" >
+	<lootlist itemid = "1001" count = "100" weight = "100" lootshow = "1"></lootlist> 
+	<lootlist itemid = "1002" count = "10" weight = "100" lootshow = "1"></lootlist> 
+<enemygroup hpbar = "5000" >
+	<enemy enemyid = "40006" count = "1" enemylv = "0"></enemy></enemygroup></data> 
+<data id = "7" level = "300" count = "1" >
+	<lootlist itemid = "1001" count = "100" weight = "100" lootshow = "1"></lootlist> 
+	<lootlist itemid = "1002" count = "10" weight = "100" lootshow = "1"></lootlist> 
+<enemygroup hpbar = "5000" >
+	<enemy enemyid = "40007" count = "1" enemylv = "0"></enemy></enemygroup></data></data>

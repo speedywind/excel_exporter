@@ -1,0 +1,100 @@
+<data>
+<data areaid = "1" name = "雇佣兵" merlevel = "1" >
+	<daguan id = "1"></daguan> 
+	<daguan id = "2"></daguan> 
+	<daguan id = "3"></daguan> 
+	<daguan id = "4"></daguan> 
+	<daguan id = "5"></daguan></data> 
+<data areaid = "2" name = "赏金猎人" merlevel = "1" >
+	<daguan id = "6"></daguan> 
+	<daguan id = "7"></daguan> 
+	<daguan id = "8"></daguan> 
+	<daguan id = "9"></daguan> 
+	<daguan id = "10"></daguan></data> 
+<data areaid = "3" name = "魔化之物" merlevel = "2" >
+	<daguan id = "11"></daguan> 
+	<daguan id = "12"></daguan> 
+	<daguan id = "13"></daguan> 
+	<daguan id = "14"></daguan> 
+	<daguan id = "15"></daguan></data> 
+<data areaid = "4" name = "狂化魔物调查" merlevel = "3" >
+	<daguan id = "16"></daguan> 
+	<daguan id = "17"></daguan> 
+	<daguan id = "18"></daguan> 
+	<daguan id = "19"></daguan> 
+	<daguan id = "20"></daguan> 
+	<daguan id = "21"></daguan></data> 
+<data areaid = "5" name = "强力党" merlevel = "3" >
+	<daguan id = "22"></daguan> 
+	<daguan id = "23"></daguan> 
+	<daguan id = "24"></daguan> 
+	<daguan id = "25"></daguan> 
+	<daguan id = "26"></daguan></data> 
+<data areaid = "6" name = "元素大陆" merlevel = "4" >
+	<daguan id = "27"></daguan> 
+	<daguan id = "28"></daguan> 
+	<daguan id = "29"></daguan> 
+	<daguan id = "30"></daguan> 
+	<daguan id = "31"></daguan></data> 
+<data areaid = "7" name = "变异危机" merlevel = "4" >
+	<daguan id = "32"></daguan> 
+	<daguan id = "33"></daguan> 
+	<daguan id = "34"></daguan> 
+	<daguan id = "35"></daguan></data> 
+<data areaid = "8" name = "未知的遗迹" merlevel = "5" >
+	<daguan id = "36"></daguan> 
+	<daguan id = "37"></daguan> 
+	<daguan id = "38"></daguan> 
+	<daguan id = "39"></daguan> 
+	<daguan id = "40"></daguan></data> 
+<data areaid = "9" name = "共鸣" merlevel = "5" >
+	<daguan id = "41"></daguan> 
+	<daguan id = "42"></daguan> 
+	<daguan id = "43"></daguan> 
+	<daguan id = "44"></daguan> 
+	<daguan id = "45"></daguan> 
+	<daguan id = "46"></daguan></data> 
+<data areaid = "10" name = "冲突" merlevel = "5" >
+	<daguan id = "47"></daguan> 
+	<daguan id = "48"></daguan> 
+	<daguan id = "49"></daguan></data> 
+<data areaid = "11" name = "巨龙镇" merlevel = "6" >
+	<daguan id = "50"></daguan> 
+	<daguan id = "51"></daguan> 
+	<daguan id = "52"></daguan> 
+	<daguan id = "53"></daguan> 
+	<daguan id = "54"></daguan> 
+	<daguan id = "55"></daguan></data> 
+<data areaid = "12" name = "疯狂的机械" merlevel = "6" >
+	<daguan id = "56"></daguan> 
+	<daguan id = "57"></daguan> 
+	<daguan id = "58"></daguan> 
+	<daguan id = "59"></daguan> 
+	<daguan id = "60"></daguan></data> 
+<data areaid = "13" name = "边境冲突" merlevel = "7" >
+	<daguan id = "61"></daguan> 
+	<daguan id = "62"></daguan> 
+	<daguan id = "63"></daguan> 
+	<daguan id = "64"></daguan> 
+	<daguan id = "65"></daguan></data> 
+<data areaid = "14" name = "扬帆远航" merlevel = "7" >
+	<daguan id = "66"></daguan> 
+	<daguan id = "67"></daguan> 
+	<daguan id = "68"></daguan> 
+	<daguan id = "69"></daguan> 
+	<daguan id = "70"></daguan></data> 
+<data areaid = "15" name = "魔化森林" merlevel = "8" >
+	<daguan id = "71"></daguan> 
+	<daguan id = "72"></daguan></data> 
+<data areaid = "16" name = "魔化沼泽" merlevel = "8" >
+	<daguan id = "73"></daguan> 
+	<daguan id = "74"></daguan></data> 
+<data areaid = "17" name = "魔化大陆" merlevel = "9" >
+	<daguan id = "75"></daguan> 
+	<daguan id = "76"></daguan></data> 
+<data areaid = "18" name = "魔化高原" merlevel = "9" >
+	<daguan id = "77"></daguan> 
+	<daguan id = "78"></daguan></data> 
+<data areaid = "19" name = "魔化龙谷" merlevel = "10" >
+	<daguan id = "79"></daguan> 
+	<daguan id = "80"></daguan></data></data>

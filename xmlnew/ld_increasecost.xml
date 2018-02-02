@@ -1,0 +1,79 @@
+<data>
+<data level = "10" >
+	<rares rare = "1" >
+	<cost itemid = "1001" count = "15258"></cost></rares> 
+	<rares rare = "2" >
+	<cost itemid = "1001" count = "20026"></cost></rares> 
+	<rares rare = "3" >
+	<cost itemid = "1001" count = "22887"></cost></rares> 
+	<rares rare = "4" >
+	<cost itemid = "1001" count = "28609"></cost></rares> 
+	<rares rare = "5" >
+	<cost itemid = "1001" count = "31470"></cost></rares> 
+	<rares rare = "6" >
+	<cost itemid = "1001" count = "34331"></cost></rares></data> 
+<data level = "20" >
+	<rares rare = "1" >
+	<cost itemid = "1001" count = "24413"></cost></rares> 
+	<rares rare = "2" >
+	<cost itemid = "1001" count = "32043"></cost></rares> 
+	<rares rare = "3" >
+	<cost itemid = "1001" count = "36620"></cost></rares> 
+	<rares rare = "4" >
+	<cost itemid = "1001" count = "45775"></cost></rares> 
+	<rares rare = "5" >
+	<cost itemid = "1001" count = "50353"></cost></rares> 
+	<rares rare = "6" >
+	<cost itemid = "1001" count = "54931"></cost></rares></data> 
+<data level = "30" >
+	<rares rare = "1" >
+	<cost itemid = "1001" count = "39062"></cost></rares> 
+	<rares rare = "2" >
+	<cost itemid = "1001" count = "51269"></cost></rares> 
+	<rares rare = "3" >
+	<cost itemid = "1001" count = "58593"></cost></rares> 
+	<rares rare = "4" >
+	<cost itemid = "1001" count = "73241"></cost></rares> 
+	<rares rare = "5" >
+	<cost itemid = "1001" count = "80566"></cost></rares> 
+	<rares rare = "6" >
+	<cost itemid = "1001" count = "87890"></cost></rares></data> 
+<data level = "40" >
+	<rares rare = "1" >
+	<cost itemid = "1001" count = "62500"></cost></rares> 
+	<rares rare = "2" >
+	<cost itemid = "1001" count = "82031"></cost></rares> 
+	<rares rare = "3" >
+	<cost itemid = "1001" count = "93750"></cost></rares> 
+	<rares rare = "4" >
+	<cost itemid = "1001" count = "117187"></cost></rares> 
+	<rares rare = "5" >
+	<cost itemid = "1001" count = "128906"></cost></rares> 
+	<rares rare = "6" >
+	<cost itemid = "1001" count = "140625"></cost></rares></data> 
+<data level = "50" >
+	<rares rare = "1" >
+	<cost itemid = "1001" count = "100000"></cost></rares> 
+	<rares rare = "2" >
+	<cost itemid = "1001" count = "131250"></cost></rares> 
+	<rares rare = "3" >
+	<cost itemid = "1001" count = "150000"></cost></rares> 
+	<rares rare = "4" >
+	<cost itemid = "1001" count = "187500"></cost></rares> 
+	<rares rare = "5" >
+	<cost itemid = "1001" count = "206250"></cost></rares> 
+	<rares rare = "6" >
+	<cost itemid = "1001" count = "225000"></cost></rares></data> 
+<data level = "60" >
+	<rares rare = "1" >
+	<cost itemid = "1001" count = "160000"></cost></rares> 
+	<rares rare = "2" >
+	<cost itemid = "1001" count = "210000"></cost></rares> 
+	<rares rare = "3" >
+	<cost itemid = "1001" count = "240000"></cost></rares> 
+	<rares rare = "4" >
+	<cost itemid = "1001" count = "300000"></cost></rares> 
+	<rares rare = "5" >
+	<cost itemid = "1001" count = "330000"></cost></rares> 
+	<rares rare = "6" >
+	<cost itemid = "1001" count = "360000"></cost></rares></data></data>

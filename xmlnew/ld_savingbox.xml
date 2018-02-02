@@ -1,0 +1,101 @@
+<data>
+<data id = "1" >
+<gold count = "60000" >
+<cost itemid = "1002" count = "0"></cost></gold> 
+<exp count = "200000" >
+<cost itemid = "1001" count = "0"></cost></exp></data> 
+<data id = "2" >
+<gold count = "90000" >
+<cost itemid = "1002" count = "100"></cost></gold> 
+<exp count = "300000" >
+<cost itemid = "1001" count = "100000"></cost></exp></data> 
+<data id = "3" >
+<gold count = "120000" >
+<cost itemid = "1002" count = "200"></cost></gold> 
+<exp count = "500000" >
+<cost itemid = "1001" count = "200000"></cost></exp></data> 
+<data id = "4" >
+<gold count = "180000" >
+<cost itemid = "1002" count = "300"></cost></gold> 
+<exp count = "1000000" >
+<cost itemid = "1001" count = "300000"></cost></exp></data> 
+<data id = "5" >
+<gold count = "240000" >
+<cost itemid = "1002" count = "500"></cost></gold> 
+<exp count = "1500000" >
+<cost itemid = "1001" count = "500000"></cost></exp></data> 
+<data id = "6" >
+<gold count = "300000" >
+<cost itemid = "1002" count = "600"></cost></gold> 
+<exp count = "2000000" >
+<cost itemid = "1001" count = "600000"></cost></exp></data> 
+<data id = "7" >
+<gold count = "450000" >
+<cost itemid = "1002" count = "900"></cost></gold> 
+<exp count = "3000000" >
+<cost itemid = "1001" count = "900000"></cost></exp></data> 
+<data id = "8" >
+<gold count = "550000" >
+<cost itemid = "1002" count = "900"></cost></gold> 
+<exp count = "5000000" >
+<cost itemid = "1001" count = "900000"></cost></exp></data> 
+<data id = "9" >
+<gold count = "800000" >
+<cost itemid = "1002" count = "1000"></cost></gold> 
+<exp count = "10000000" >
+<cost itemid = "1001" count = "1000000"></cost></exp></data> 
+<data id = "10" >
+<gold count = "1000000" >
+<cost itemid = "1002" count = "1200"></cost></gold> 
+<exp count = "20000000" >
+<cost itemid = "1001" count = "1200000"></cost></exp></data> 
+<data id = "11" >
+<gold count = "1350000" >
+<cost itemid = "1002" count = "1350"></cost></gold> 
+<exp count = "30000000" >
+<cost itemid = "1001" count = "1350000"></cost></exp></data> 
+<data id = "12" >
+<gold count = "1650000" >
+<cost itemid = "1002" count = "1500"></cost></gold> 
+<exp count = "50000000" >
+<cost itemid = "1001" count = "1500000"></cost></exp></data> 
+<data id = "13" >
+<gold count = "1900000" >
+<cost itemid = "1002" count = "1550"></cost></gold> 
+<exp count = "75000000" >
+<cost itemid = "1001" count = "1550000"></cost></exp></data> 
+<data id = "14" >
+<gold count = "2150000" >
+<cost itemid = "1002" count = "1600"></cost></gold> 
+<exp count = "90000000" >
+<cost itemid = "1001" count = "1600000"></cost></exp></data> 
+<data id = "15" >
+<gold count = "2450000" >
+<cost itemid = "1002" count = "1700"></cost></gold> 
+<exp count = "110000000" >
+<cost itemid = "1001" count = "1700000"></cost></exp></data> 
+<data id = "16" >
+<gold count = "2850000" >
+<cost itemid = "1002" count = "1800"></cost></gold> 
+<exp count = "125000000" >
+<cost itemid = "1001" count = "1800000"></cost></exp></data> 
+<data id = "17" >
+<gold count = "3100000" >
+<cost itemid = "1002" count = "1900"></cost></gold> 
+<exp count = "135000000" >
+<cost itemid = "1001" count = "1900000"></cost></exp></data> 
+<data id = "18" >
+<gold count = "3500000" >
+<cost itemid = "1002" count = "2000"></cost></gold> 
+<exp count = "145000000" >
+<cost itemid = "1001" count = "2000000"></cost></exp></data> 
+<data id = "19" >
+<gold count = "4500000" >
+<cost itemid = "1002" count = "3000"></cost></gold> 
+<exp count = "150000000" >
+<cost itemid = "1001" count = "3000000"></cost></exp></data> 
+<data id = "20" >
+<gold count = "5000000" >
+<cost itemid = "1002" count = "5000"></cost></gold> 
+<exp count = "160000000" >
+<cost itemid = "1001" count = "5000000"></cost></exp></data></data>

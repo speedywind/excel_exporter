@@ -1,0 +1,15 @@
+<data>
+<data itemid = "1000" name = "经验" des = "可用于升级英雄。挂机，经验药水获得。"></data> 
+<data itemid = "1001" name = "金币" des = "可用于寻宝，强化装备。挂机金币包获得。"></data> 
+<data itemid = "1002" name = "钻石" des = "高级货币。可用于寻宝，契约，购买高级道具等。充值，活动获得。"></data> 
+<data itemid = "1003" name = "魔晶" des = "可在魔晶商店中购买道具。可从佣兵领地中获得。"></data> 
+<data itemid = "1004" name = "斗币" des = "可在斗币商店中购买道具。可从战斗塔中获得。"></data> 
+<data itemid = "1005" name = "荣誉" des = "可在荣誉商店中购买道具。可从佣兵领地中获得。"></data> 
+<data itemid = "1006" name = "公会宝珠" des = "可在公会商店中购买道具。可从镜像大陆中获得。"></data> 
+<data itemid = "1007" name = "战斗力" des = ""></data> 
+<data itemid = "1008" name = "rmb" des = ""></data> 
+<data itemid = "1009" name = "召唤石" des = "用于钻石抽奖和魂匣抽奖。可在商店中购买。"></data> 
+<data itemid = "1010" name = "主角经验" des = "可用于升级主角。事件，天梯挑战获得。"></data> 
+<data itemid = "1011" name = "活跃经验" des = "可用于提升活跃等级。签到，每日任务，充值获得。"></data> 
+<data itemid = "1012" name = "公会经验" des = "可以提升公会等级。公会提升公会等级会提高公会人数上限和额外挂机经验。"></data> 
+<data itemid = "1013" name = "五彩石" des = ""></data></data>

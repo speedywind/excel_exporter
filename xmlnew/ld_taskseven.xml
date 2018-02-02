@@ -1,0 +1,40 @@
+<data>
+<data order = "1" targetid = "33" targetcount = "1" choose = "0" >
+	<reward itemid = "1009" count = "1"></reward> 
+	<reward itemid = "1001" count = "50000"></reward> 
+	<reward itemid = "24102" count = "20"></reward></data> 
+<data order = "2" targetid = "33" targetcount = "2" choose = "0" >
+	<reward itemid = "1009" count = "1"></reward> 
+	<reward itemid = "1001" count = "50000"></reward> 
+	<reward itemid = "24103" count = "20"></reward> 
+	<reward itemid = "53001" count = "1"></reward></data> 
+<data order = "3" targetid = "33" targetcount = "3" choose = "0" >
+	<reward itemid = "1009" count = "1"></reward> 
+	<reward itemid = "1001" count = "50000"></reward> 
+	<reward itemid = "24102" count = "20"></reward> 
+	<reward itemid = "28002" count = "50"></reward></data> 
+<data order = "4" targetid = "33" targetcount = "4" choose = "0" >
+	<reward itemid = "1009" count = "1"></reward> 
+	<reward itemid = "1001" count = "50000"></reward> 
+	<reward itemid = "24105" count = "20"></reward> 
+	<reward itemid = "28002" count = "50"></reward></data> 
+<data order = "5" targetid = "33" targetcount = "5" choose = "0" >
+	<reward itemid = "1009" count = "1"></reward> 
+	<reward itemid = "1001" count = "50000"></reward> 
+	<reward itemid = "39006" count = "1"></reward> 
+	<reward itemid = "28002" count = "50"></reward></data> 
+<data order = "6" targetid = "33" targetcount = "6" choose = "0" >
+	<reward itemid = "1009" count = "2"></reward> 
+	<reward itemid = "1001" count = "80000"></reward> 
+	<reward itemid = "31023" count = "10"></reward> 
+	<reward itemid = "28002" count = "50"></reward></data> 
+<data order = "7" targetid = "33" targetcount = "7" choose = "0" >
+	<reward itemid = "1009" count = "2"></reward> 
+	<reward itemid = "1001" count = "120000"></reward> 
+	<reward itemid = "35201" count = "50"></reward> 
+	<reward itemid = "35002" count = "1"></reward></data> 
+<data order = "8" targetid = "33" targetcount = "8" choose = "1" >
+	<reward itemid = "53003" count = "1"></reward> 
+	<reward itemid = "53010" count = "1"></reward> 
+	<reward itemid = "53053" count = "1"></reward> 
+	<reward itemid = "53057" count = "1"></reward></data></data>

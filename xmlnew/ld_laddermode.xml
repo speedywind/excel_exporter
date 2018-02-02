@@ -1,0 +1,49 @@
+<data>
+<data mode = "1" name = "坚强黑铁" score = "0" losepercent = "0.0" k = "50" >
+	<level level = "5" score = "0"></level> 
+	<level level = "4" score = "80"></level> 
+	<level level = "3" score = "160"></level> 
+	<level level = "2" score = "240"></level> 
+	<level level = "1" score = "320"></level></data> 
+<data mode = "2" name = "荣耀青铜" score = "400" losepercent = "0.0" k = "50" >
+	<level level = "5" score = "400"></level> 
+	<level level = "4" score = "480"></level> 
+	<level level = "3" score = "560"></level> 
+	<level level = "2" score = "640"></level> 
+	<level level = "1" score = "720"></level></data> 
+<data mode = "3" name = "不屈白银" score = "800" losepercent = "0.0" k = "50" >
+	<level level = "5" score = "800"></level> 
+	<level level = "4" score = "870"></level> 
+	<level level = "3" score = "960"></level> 
+	<level level = "2" score = "1020"></level> 
+	<level level = "1" score = "1050"></level></data> 
+<data mode = "4" name = "尊贵黄金" score = "1100" losepercent = "0.0" k = "50" >
+	<level level = "5" score = "1100"></level> 
+	<level level = "4" score = "1160"></level> 
+	<level level = "3" score = "1220"></level> 
+	<level level = "2" score = "1290"></level> 
+	<level level = "1" score = "1350"></level></data> 
+<data mode = "5" name = "炽热铂金" score = "1400" losepercent = "0.0" k = "50" >
+	<level level = "5" score = "1400"></level> 
+	<level level = "4" score = "1460"></level> 
+	<level level = "3" score = "1520"></level> 
+	<level level = "2" score = "1590"></level> 
+	<level level = "1" score = "1650"></level></data> 
+<data mode = "6" name = "永恒钻石" score = "1700" losepercent = "0.0" k = "50" >
+	<level level = "5" score = "1700"></level> 
+	<level level = "4" score = "1750"></level> 
+	<level level = "3" score = "1790"></level> 
+	<level level = "2" score = "1860"></level> 
+	<level level = "1" score = "1950"></level></data> 
+<data mode = "7" name = "超凡大师" score = "2000" losepercent = "1.0" k = "50" >
+	<level level = "5" score = "2000"></level> 
+	<level level = "4" score = "2200"></level> 
+	<level level = "3" score = "2400"></level> 
+	<level level = "2" score = "2600"></level> 
+	<level level = "1" score = "2800"></level></data> 
+<data mode = "8" name = "乱斗王者" score = "3000" losepercent = "1.0" k = "50" >
+	<level level = "5" score = "3000"></level> 
+	<level level = "4" score = "3200"></level> 
+	<level level = "3" score = "3400"></level> 
+	<level level = "2" score = "3600"></level> 
+	<level level = "1" score = "3800"></level></data></data>

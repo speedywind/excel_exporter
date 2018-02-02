@@ -1,0 +1,80 @@
+<data>
+<data id = "1" name = "魔化之地" des = "魔化地带的最中心，是魔化最严重的区域，里面究竟会有怎么样的魔化怪物出现？(提示：对已经通关的层数使用跳过功能将自动计算成最大回合数)【进阶材料掉落：魔化之鳞，魔爪，魔皮，遗物碎片，魔化的肉】" merlevel = "1" unlock = "0" level = "0" count = "0" starttime = "" endtime = "" >
+<cost itemid = "28001" count = "5"></cost> 
+	<event eventid = "30001"></event> 
+	<event eventid = "30002"></event> 
+	<event eventid = "30003"></event></data> 
+<data id = "2" name = "废弃的实验室" des = "虽然这个实验室被废弃了，但仍有人在里面进行着一些活动。(提示：对已经通关的层数使用跳过功能将自动计算成最大回合数)【进阶材料掉落：魔化之鳞，粗糙的石块，剧毒结晶，人工合成药剂，密封的试验品】" merlevel = "1" unlock = "0" level = "0" count = "0" starttime = "" endtime = "" >
+<cost itemid = "28001" count = "5"></cost> 
+	<event eventid = "30004"></event> 
+	<event eventid = "30005"></event> 
+	<event eventid = "30006"></event></data> 
+<data id = "3" name = "元素风暴" des = "很难相信还有这样的地方存在，如果我能逃回去的话，肯定不会再来第二次了。——冒险者(提示：对已经通关的层数使用跳过功能将自动计算成最大回合数)【进阶材料掉落：光滑的石块，磨损的齿轮，不稳定元素】" merlevel = "2" unlock = "0" level = "0" count = "0" starttime = "" endtime = "" >
+<cost itemid = "28001" count = "8"></cost> 
+	<event eventid = "30007"></event> 
+	<event eventid = "30008"></event> 
+	<event eventid = "30009"></event> 
+	<event eventid = "30010"></event></data> 
+<data id = "4" name = "黑暗工厂" des = "里面传来叮咚叮咚的声音。(提示：对已经通关的层数使用跳过功能将自动计算成最大回合数)【掉落：旋风之眼，异化角质，异化元素，异化鳞片，圣骸布】" merlevel = "2" unlock = "0" level = "0" count = "0" starttime = "" endtime = "" >
+<cost itemid = "28001" count = "6"></cost> 
+	<event eventid = "30011"></event> 
+	<event eventid = "30012"></event> 
+	<event eventid = "30013"></event></data> 
+<data id = "5" name = "虚空遗迹" des = "星球之上的神秘遗迹隐藏着多少不为人知的秘密?(提示：对已经通关的层数使用跳过功能将自动计算成最大回合数)【掉落：旋风之眼，英雄之证，死灵宝石，精密微调器】" merlevel = "3" unlock = "0" level = "0" count = "0" starttime = "" endtime = "" >
+<cost itemid = "28001" count = "8"></cost> 
+	<event eventid = "30014"></event> 
+	<event eventid = "30015"></event> 
+	<event eventid = "30016"></event></data> 
+<data id = "6" name = "英灵殿" des = "英灵殿中是在人间的战场上挑选出来的英勇善战的勇士。(提示：对已经通关的层数使用跳过功能将自动计算成最大回合数)【掉落：虚空之光，震荡核心，共鸣环，动力螺母】" merlevel = "3" unlock = "0" level = "0" count = "0" starttime = "" endtime = "" >
+<cost itemid = "28001" count = "12"></cost> 
+	<event eventid = "30017"></event> 
+	<event eventid = "30018"></event> 
+	<event eventid = "30019"></event> 
+	<event eventid = "30020"></event></data> 
+<data id = "7" name = "星际穿越" des = "在广袤的宇宙中进行星际航行。(提示：对已经通关的层数使用跳过功能将自动计算成最大回合数)【掉落：虚空之光，亡者的铭牌，火力模块，防御模块】" merlevel = "4" unlock = "0" level = "0" count = "0" starttime = "" endtime = "" >
+<cost itemid = "28001" count = "7"></cost> 
+	<event eventid = "30021"></event> 
+	<event eventid = "30022"></event></data> 
+<data id = "8" name = "巨龙之巢" des = "巨龙之巢始终是勇者才敢踏入的领域，巨龙们蛰伏于此。(提示：对已经通关的层数使用跳过功能将自动计算成最大回合数)【掉落：蛮龙心脏，龙之逆鳞，混沌龙爪，魔龙之心，焰龙之血】" merlevel = "4" unlock = "0" level = "0" count = "0" starttime = "" endtime = "" >
+<cost itemid = "28001" count = "11"></cost> 
+	<event eventid = "30023"></event> 
+	<event eventid = "30024"></event> 
+	<event eventid = "30025"></event></data> 
+<data id = "9" name = "机械纪元" des = "这是个机器的时代！(提示：对已经通关的层数使用跳过功能将自动计算成最大回合数)【掉落：蛮龙心脏，超级能量单元，灵魂容器，心能增幅装置】" merlevel = "6" unlock = "0" level = "0" count = "0" starttime = "" endtime = "" >
+<cost itemid = "28001" count = "10"></cost> 
+	<event eventid = "30026"></event> 
+	<event eventid = "30027"></event></data> 
+<data id = "10" name = "军事基地" des = "看上去似乎坚不可摧。(提示：对已经通关的层数使用跳过功能将自动计算成最大回合数)【掉落：蛮龙心脏，以太粒子，王国勋章，可塑性金属】" merlevel = "6" unlock = "0" level = "0" count = "0" starttime = "" endtime = "" >
+<cost itemid = "28001" count = "15"></cost> 
+	<event eventid = "30028"></event> 
+	<event eventid = "30029"></event> 
+	<event eventid = "30030"></event></data> 
+<data id = "11" name = "不老泉之谜" des = "这里似乎拥有长生的秘密。(提示：对已经通关的层数使用跳过功能将自动计算成最大回合数)【掉落：蛮龙心脏，无限宝石，永生之酒，不安之魂，氪金的枪弹】" merlevel = "6" unlock = "0" level = "0" count = "0" starttime = "" endtime = "" >
+<cost itemid = "28001" count = "10"></cost> 
+	<event eventid = "30031"></event> 
+	<event eventid = "30032"></event></data> 
+<data id = "19" name = "馍馍沼泽" des = "这片海外孤岛上的沼泽居然连一点魔化的痕迹都没有，但是这些原始生物似乎也面露凶相。" merlevel = "7" unlock = "1" level = "65" count = "1" starttime = "" endtime = "" >
+<cost itemid = "24003" count = "20"></cost> 
+	<event eventid = "31006"></event> 
+	<event eventid = "31007"></event> 
+	<event eventid = "31008"></event> 
+	<event eventid = "31009"></event></data> 
+<data id = "20" name = "熔火高塔" des = "yoooo~，佣兵团长们，恭喜你们不幸地闯入了熔红红火火恍恍惚惚高塔，你可能会发烧？出汗或者感染（雾），胆小者慎入。（你的属性伤害可能会成为你的弱点）" merlevel = "9" unlock = "1" level = "80" count = "1" starttime = "" endtime = "" >
+<cost itemid = "24005" count = "30"></cost> 
+	<event eventid = "31001"></event> 
+	<event eventid = "31002"></event> 
+	<event eventid = "31003"></event> 
+	<event eventid = "31004"></event> 
+	<event eventid = "31005"></event></data> 
+<data id = "21" name = "西方世界" des = "西方的英雄们，在此集结吧！" merlevel = "5" unlock = "2" level = "60" count = "5" starttime = "" endtime = "" >
+<xingdong itemid = "24000" count = "10"></xingdong> 
+<cost itemid = "28003" count = "10"></cost> 
+	<event eventid = "30039"></event> 
+	<event eventid = "30034"></event> 
+	<event eventid = "30036"></event></data> 
+<data id = "22" name = "蜀地幻境" des = "巴蜀险境，突入其中。" merlevel = "5" unlock = "2" level = "60" count = "5" starttime = "" endtime = "" >
+<xingdong itemid = "24000" count = "10"></xingdong> 
+<cost itemid = "28003" count = "10"></cost> 
+	<event eventid = "30038"></event> 
+	<event eventid = "30035"></event> 
+	<event eventid = "30037"></event></data></data>

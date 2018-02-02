@@ -1,0 +1,2931 @@
+<data>
+<data id = "10001" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "3000"></cover> 
+		<cover itemid = "24001" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1001" count = "5000"></cover> 
+		<cover itemid = "24001" count = "500"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "1001" count = "18000"></cover> 
+		<cover itemid = "24003" count = "600"></cover> 
+		<cover itemid = "25304" count = "200"></cover></equip></data> 
+<data id = "10002" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "6000"></cover> 
+		<cover itemid = "24003" count = "300"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1001" count = "20000"></cover> 
+		<cover itemid = "24004" count = "300"></cover></equip></data> 
+<data id = "10003" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "9000"></cover> 
+		<cover itemid = "24003" count = "300"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1001" count = "20000"></cover> 
+		<cover itemid = "24004" count = "400"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "1001" count = "30000"></cover> 
+		<cover itemid = "24005" count = "600"></cover></equip></data> 
+<data id = "10004" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "16000"></cover> 
+		<cover itemid = "24004" count = "160"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1001" count = "24000"></cover> 
+		<cover itemid = "24004" count = "480"></cover> 
+		<cover itemid = "24011" count = "100"></cover></equip></data> 
+<data id = "10005" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "12000"></cover> 
+		<cover itemid = "24003" count = "240"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1001" count = "24000"></cover> 
+		<cover itemid = "24004" count = "240"></cover></equip></data> 
+<data id = "10006" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "12000"></cover> 
+		<cover itemid = "24003" count = "240"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1001" count = "24000"></cover> 
+		<cover itemid = "24004" count = "480"></cover></equip></data> 
+<data id = "10007" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "12000"></cover> 
+		<cover itemid = "24003" count = "240"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1001" count = "24000"></cover> 
+		<cover itemid = "24004" count = "480"></cover></equip></data> 
+<data id = "10008" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "12000"></cover> 
+		<cover itemid = "24004" count = "240"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1001" count = "25000"></cover> 
+		<cover itemid = "24005" count = "500"></cover></equip></data> 
+<data id = "10010" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "12000"></cover> 
+		<cover itemid = "24004" count = "180"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1001" count = "25000"></cover> 
+		<cover itemid = "24005" count = "200"></cover></equip></data> 
+<data id = "10013" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "16000"></cover> 
+		<cover itemid = "24004" count = "320"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1001" count = "30000"></cover> 
+		<cover itemid = "24004" count = "600"></cover></equip></data> 
+<data id = "10014" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "12000"></cover> 
+		<cover itemid = "24003" count = "240"></cover></equip></data> 
+<data id = "10015" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "12000"></cover> 
+		<cover itemid = "24003" count = "240"></cover></equip></data> 
+<data id = "10016" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "20000"></cover> 
+		<cover itemid = "24005" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1001" count = "30000"></cover> 
+		<cover itemid = "24005" count = "600"></cover></equip></data> 
+<data id = "10017" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "16000"></cover> 
+		<cover itemid = "24004" count = "320"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1001" count = "30000"></cover> 
+		<cover itemid = "24005" count = "600"></cover> 
+		<cover itemid = "25505" count = "200"></cover></equip></data> 
+<data id = "10018" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "30000"></cover> 
+		<cover itemid = "24005" count = "600"></cover></equip></data> 
+<data id = "10019" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "30000"></cover> 
+		<cover itemid = "24005" count = "600"></cover></equip></data> 
+<data id = "10020" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "25000"></cover> 
+		<cover itemid = "24005" count = "500"></cover></equip></data> 
+<data id = "10021" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "24000"></cover> 
+		<cover itemid = "24004" count = "480"></cover> 
+		<cover itemid = "25409" count = "155"></cover></equip></data> 
+<data id = "10024" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "15000"></cover> 
+		<cover itemid = "24005" count = "300"></cover></equip></data> 
+<data id = "10026" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "16000"></cover> 
+		<cover itemid = "24004" count = "320"></cover></equip></data> 
+<data id = "10027" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "12000"></cover> 
+		<cover itemid = "24003" count = "240"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1001" count = "20000"></cover> 
+		<cover itemid = "24004" count = "400"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "1001" count = "30000"></cover> 
+		<cover itemid = "24005" count = "60"></cover> 
+		<cover itemid = "24010" count = "5"></cover></equip></data> 
+<data id = "10030" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10031" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10032" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10033" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10034" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10035" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10036" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10037" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10038" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10039" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10040" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10041" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10042" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10043" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10044" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10045" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10046" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10047" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10048" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10049" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10050" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10051" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10052" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10053" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10054" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10055" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10081" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10082" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10083" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10084" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10085" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10086" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10087" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10088" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10089" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10090" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10091" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10092" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10093" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10094" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10095" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10096" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10097" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10098" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "10101" >
+	<equip order = "2" >
+		<cover itemid = "29004" count = "300"></cover> 
+		<cover itemid = "1001" count = "20000"></cover></equip></data> 
+<data id = "10102" >
+	<equip order = "2" >
+		<cover itemid = "29021" count = "300"></cover> 
+		<cover itemid = "1001" count = "20000"></cover></equip></data> 
+<data id = "10103" >
+	<equip order = "2" >
+		<cover itemid = "29012" count = "300"></cover> 
+		<cover itemid = "1001" count = "20000"></cover></equip></data> 
+<data id = "10104" >
+	<equip order = "2" >
+		<cover itemid = "29019" count = "300"></cover> 
+		<cover itemid = "1001" count = "20000"></cover></equip></data> 
+<data id = "10105" >
+	<equip order = "2" >
+		<cover itemid = "29020" count = "300"></cover> 
+		<cover itemid = "1001" count = "20000"></cover></equip></data> 
+<data id = "10106" >
+	<equip order = "2" >
+		<cover itemid = "29005" count = "300"></cover> 
+		<cover itemid = "1001" count = "20000"></cover></equip></data> 
+<data id = "10107" >
+	<equip order = "2" >
+		<cover itemid = "29028" count = "300"></cover> 
+		<cover itemid = "1001" count = "20000"></cover></equip></data> 
+<data id = "11999" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "12001" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12002" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12003" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12004" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12005" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12006" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12007" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12008" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12009" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12010" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12011" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12012" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12013" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12014" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12015" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12016" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12017" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12018" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12019" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12020" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12021" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12022" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12023" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12024" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12025" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12026" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12027" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12028" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12029" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12030" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "12101" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "12102" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "12103" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "12104" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "12105" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "12106" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "12107" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "13001" >
+	<equip order = "2" >
+		<cover itemid = "24023" count = "1"></cover> 
+		<cover itemid = "24024" count = "1"></cover> 
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1001" count = "100000"></cover></equip></data> 
+<data id = "13002" >
+	<equip order = "2" >
+		<cover itemid = "24022" count = "10"></cover> 
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1001" count = "100000"></cover></equip></data> 
+<data id = "15017" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15018" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15019" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15020" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "24015" count = "30"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15021" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "24015" count = "30"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15022" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "24015" count = "30"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15026" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15027" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15028" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15029" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15030" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15031" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15032" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15033" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15034" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15035" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15038" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15042" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15043" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15044" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15045" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15048" >
+	<equip order = "2" >
+		<cover itemid = "24011" count = "800"></cover></equip></data> 
+<data id = "15049" >
+	<equip order = "2" >
+		<cover itemid = "24011" count = "800"></cover></equip></data> 
+<data id = "15050" >
+	<equip order = "2" >
+		<cover itemid = "24011" count = "800"></cover></equip></data> 
+<data id = "15051" >
+	<equip order = "2" >
+		<cover itemid = "24011" count = "1000"></cover></equip></data> 
+<data id = "15052" >
+	<equip order = "2" >
+		<cover itemid = "24011" count = "1000"></cover></equip></data> 
+<data id = "15053" >
+	<equip order = "2" >
+		<cover itemid = "24011" count = "1000"></cover></equip></data> 
+<data id = "15074" >
+	<equip order = "2" >
+		<cover itemid = "29003" count = "100"></cover> 
+		<cover itemid = "1001" count = "10000"></cover></equip></data> 
+<data id = "15075" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15076" >
+	<equip order = "2" >
+		<cover itemid = "1003" count = "20000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1003" count = "50000"></cover></equip></data> 
+<data id = "15077" >
+	<equip order = "2" >
+		<cover itemid = "1003" count = "20000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1003" count = "50000"></cover></equip></data> 
+<data id = "15078" >
+	<equip order = "2" >
+		<cover itemid = "1003" count = "20000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1003" count = "50000"></cover></equip></data> 
+<data id = "15079" >
+	<equip order = "2" >
+		<cover itemid = "29008" count = "100"></cover> 
+		<cover itemid = "1001" count = "10000"></cover></equip></data> 
+<data id = "15081" >
+	<equip order = "2" >
+		<cover itemid = "1001" count = "30000"></cover> 
+		<cover itemid = "24005" count = "400"></cover></equip></data> 
+<data id = "15082" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15083" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15084" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15085" >
+	<equip order = "2" >
+		<cover itemid = "29009" count = "100"></cover> 
+		<cover itemid = "1001" count = "10000"></cover></equip></data> 
+<data id = "15086" >
+	<equip order = "2" >
+		<cover itemid = "29013" count = "100"></cover> 
+		<cover itemid = "1001" count = "10000"></cover></equip></data> 
+<data id = "15087" >
+	<equip order = "2" >
+		<cover itemid = "29014" count = "100"></cover> 
+		<cover itemid = "1001" count = "10000"></cover></equip></data> 
+<data id = "15088" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15089" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15090" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15091" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15093" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15094" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15095" >
+	<equip order = "2" >
+		<cover itemid = "29022" count = "100"></cover> 
+		<cover itemid = "1001" count = "10000"></cover></equip></data> 
+<data id = "15098" >
+	<equip order = "2" >
+		<cover itemid = "29023" count = "100"></cover> 
+		<cover itemid = "1001" count = "10000"></cover></equip></data> 
+<data id = "15099" >
+	<equip order = "2" >
+		<cover itemid = "29024" count = "100"></cover> 
+		<cover itemid = "1001" count = "10000"></cover></equip></data> 
+<data id = "15100" >
+	<equip order = "2" >
+		<cover itemid = "29025" count = "100"></cover> 
+		<cover itemid = "1001" count = "10000"></cover></equip></data> 
+<data id = "15101" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15102" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15103" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15104" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15105" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15106" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15107" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15108" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15109" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15110" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15111" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15112" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15113" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15114" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15115" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15116" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15117" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15118" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15119" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15120" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15121" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15122" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15123" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15124" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15125" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15126" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15127" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15128" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15129" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15130" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15131" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15132" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15133" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15134" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15135" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15136" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15137" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15138" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15139" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15140" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15141" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15142" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15143" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15144" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15145" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15146" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15147" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15148" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15149" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15150" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15151" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15152" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15153" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15154" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15155" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15156" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15157" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15158" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15159" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15160" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15161" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15162" >
+	<equip order = "2" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "1003" count = "20000"></cover> 
+		<cover itemid = "1005" count = "10000"></cover> 
+		<cover itemid = "1001" count = "90000"></cover></equip></data> 
+<data id = "15163" >
+	<equip order = "2" >
+		<cover itemid = "1005" count = "15000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1005" count = "25000"></cover></equip></data> 
+<data id = "15164" >
+	<equip order = "2" >
+		<cover itemid = "1005" count = "15000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1005" count = "25000"></cover></equip></data> 
+<data id = "15165" >
+	<equip order = "2" >
+		<cover itemid = "1005" count = "15000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "1005" count = "25000"></cover></equip></data> 
+<data id = "15169" >
+	<equip order = "2" >
+		<cover itemid = "24014" count = "100"></cover> 
+		<cover itemid = "25401" count = "20"></cover> 
+		<cover itemid = "24004" count = "400"></cover> 
+		<cover itemid = "1001" count = "16000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24014" count = "200"></cover> 
+		<cover itemid = "25501" count = "10"></cover> 
+		<cover itemid = "24004" count = "800"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip></data> 
+<data id = "15170" >
+	<equip order = "2" >
+		<cover itemid = "24014" count = "100"></cover> 
+		<cover itemid = "25402" count = "20"></cover> 
+		<cover itemid = "24004" count = "400"></cover> 
+		<cover itemid = "1001" count = "16000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24014" count = "200"></cover> 
+		<cover itemid = "25502" count = "10"></cover> 
+		<cover itemid = "24004" count = "800"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip></data> 
+<data id = "15171" >
+	<equip order = "2" >
+		<cover itemid = "24014" count = "100"></cover> 
+		<cover itemid = "25403" count = "20"></cover> 
+		<cover itemid = "24004" count = "400"></cover> 
+		<cover itemid = "1001" count = "16000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24014" count = "200"></cover> 
+		<cover itemid = "25503" count = "10"></cover> 
+		<cover itemid = "24004" count = "800"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip></data> 
+<data id = "15172" >
+	<equip order = "2" >
+		<cover itemid = "24014" count = "100"></cover> 
+		<cover itemid = "25404" count = "20"></cover> 
+		<cover itemid = "24004" count = "400"></cover> 
+		<cover itemid = "1001" count = "16000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24014" count = "200"></cover> 
+		<cover itemid = "25504" count = "10"></cover> 
+		<cover itemid = "24004" count = "800"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip></data> 
+<data id = "15173" >
+	<equip order = "2" >
+		<cover itemid = "24014" count = "100"></cover> 
+		<cover itemid = "25405" count = "20"></cover> 
+		<cover itemid = "24004" count = "400"></cover> 
+		<cover itemid = "1001" count = "16000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24014" count = "200"></cover> 
+		<cover itemid = "25505" count = "10"></cover> 
+		<cover itemid = "24004" count = "800"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip></data> 
+<data id = "15174" >
+	<equip order = "2" >
+		<cover itemid = "24014" count = "100"></cover> 
+		<cover itemid = "25406" count = "20"></cover> 
+		<cover itemid = "24004" count = "400"></cover> 
+		<cover itemid = "1001" count = "16000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24014" count = "200"></cover> 
+		<cover itemid = "25506" count = "10"></cover> 
+		<cover itemid = "24004" count = "800"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip></data> 
+<data id = "15175" >
+	<equip order = "2" >
+		<cover itemid = "24015" count = "100"></cover> 
+		<cover itemid = "25410" count = "20"></cover> 
+		<cover itemid = "24004" count = "400"></cover> 
+		<cover itemid = "1001" count = "16000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24015" count = "200"></cover> 
+		<cover itemid = "25510" count = "30"></cover> 
+		<cover itemid = "24005" count = "600"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip></data> 
+<data id = "15176" >
+	<equip order = "2" >
+		<cover itemid = "24015" count = "100"></cover> 
+		<cover itemid = "25409" count = "20"></cover> 
+		<cover itemid = "24004" count = "400"></cover> 
+		<cover itemid = "1001" count = "16000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24015" count = "200"></cover> 
+		<cover itemid = "25509" count = "30"></cover> 
+		<cover itemid = "24005" count = "600"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip></data> 
+<data id = "15177" >
+	<equip order = "2" >
+		<cover itemid = "24015" count = "100"></cover> 
+		<cover itemid = "25408" count = "20"></cover> 
+		<cover itemid = "24004" count = "400"></cover> 
+		<cover itemid = "1001" count = "16000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24015" count = "200"></cover> 
+		<cover itemid = "25508" count = "30"></cover> 
+		<cover itemid = "24005" count = "600"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip></data> 
+<data id = "15178" >
+	<equip order = "2" >
+		<cover itemid = "24015" count = "100"></cover> 
+		<cover itemid = "25407" count = "20"></cover> 
+		<cover itemid = "24004" count = "400"></cover> 
+		<cover itemid = "1001" count = "16000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "24015" count = "150"></cover> 
+		<cover itemid = "24005" count = "600"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip></data> 
+<data id = "15179" >
+	<equip order = "2" >
+		<cover itemid = "24015" count = "100"></cover> 
+		<cover itemid = "25406" count = "20"></cover> 
+		<cover itemid = "24004" count = "400"></cover> 
+		<cover itemid = "1001" count = "16000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "24015" count = "150"></cover> 
+		<cover itemid = "24005" count = "600"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip></data> 
+<data id = "15180" >
+	<equip order = "2" >
+		<cover itemid = "24015" count = "100"></cover> 
+		<cover itemid = "25405" count = "20"></cover> 
+		<cover itemid = "24004" count = "400"></cover> 
+		<cover itemid = "1001" count = "16000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "24015" count = "150"></cover> 
+		<cover itemid = "24005" count = "600"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip></data> 
+<data id = "15181" >
+	<equip order = "2" >
+		<cover itemid = "24025" count = "100"></cover> 
+		<cover itemid = "24004" count = "500"></cover> 
+		<cover itemid = "1001" count = "50000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24026" count = "100"></cover> 
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "24005" count = "300"></cover> 
+		<cover itemid = "1001" count = "100000"></cover></equip></data> 
+<data id = "15182" >
+	<equip order = "2" >
+		<cover itemid = "24025" count = "100"></cover> 
+		<cover itemid = "24004" count = "500"></cover> 
+		<cover itemid = "1001" count = "50000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24026" count = "100"></cover> 
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "24005" count = "300"></cover> 
+		<cover itemid = "1001" count = "100000"></cover></equip></data> 
+<data id = "15183" >
+	<equip order = "2" >
+		<cover itemid = "24025" count = "100"></cover> 
+		<cover itemid = "24004" count = "500"></cover> 
+		<cover itemid = "1001" count = "50000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24026" count = "100"></cover> 
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "24005" count = "300"></cover> 
+		<cover itemid = "1001" count = "100000"></cover></equip></data> 
+<data id = "15184" >
+	<equip order = "2" >
+		<cover itemid = "24025" count = "100"></cover> 
+		<cover itemid = "24004" count = "500"></cover> 
+		<cover itemid = "1001" count = "50000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24026" count = "100"></cover> 
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "24005" count = "300"></cover> 
+		<cover itemid = "1001" count = "100000"></cover></equip></data> 
+<data id = "15185" >
+	<equip order = "2" >
+		<cover itemid = "24025" count = "100"></cover> 
+		<cover itemid = "24004" count = "500"></cover> 
+		<cover itemid = "1001" count = "50000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24026" count = "100"></cover> 
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "24005" count = "300"></cover> 
+		<cover itemid = "1001" count = "100000"></cover></equip></data> 
+<data id = "15186" >
+	<equip order = "2" >
+		<cover itemid = "24025" count = "100"></cover> 
+		<cover itemid = "24004" count = "500"></cover> 
+		<cover itemid = "1001" count = "50000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24026" count = "100"></cover> 
+		<cover itemid = "24010" count = "5"></cover> 
+		<cover itemid = "24005" count = "300"></cover> 
+		<cover itemid = "1001" count = "100000"></cover></equip></data> 
+<data id = "15187" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "100"></cover> 
+		<cover itemid = "24002" count = "100"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "200"></cover> 
+		<cover itemid = "24003" count = "100"></cover> 
+		<cover itemid = "1001" count = "50000"></cover></equip></data> 
+<data id = "15188" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "100"></cover> 
+		<cover itemid = "24002" count = "100"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "200"></cover> 
+		<cover itemid = "24003" count = "100"></cover> 
+		<cover itemid = "1001" count = "50000"></cover></equip></data> 
+<data id = "15189" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "100"></cover> 
+		<cover itemid = "24002" count = "100"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "200"></cover> 
+		<cover itemid = "24003" count = "100"></cover> 
+		<cover itemid = "1001" count = "50000"></cover></equip></data> 
+<data id = "15190" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "100"></cover> 
+		<cover itemid = "24002" count = "100"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "200"></cover> 
+		<cover itemid = "24003" count = "100"></cover> 
+		<cover itemid = "1001" count = "50000"></cover></equip></data> 
+<data id = "15191" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "100"></cover> 
+		<cover itemid = "24002" count = "100"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "200"></cover> 
+		<cover itemid = "24003" count = "100"></cover> 
+		<cover itemid = "1001" count = "50000"></cover></equip></data> 
+<data id = "15192" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "100"></cover> 
+		<cover itemid = "24002" count = "100"></cover> 
+		<cover itemid = "1001" count = "30000"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "200"></cover> 
+		<cover itemid = "24003" count = "100"></cover> 
+		<cover itemid = "1001" count = "50000"></cover></equip></data> 
+<data id = "16001" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16002" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16003" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16004" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16005" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16006" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16007" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16008" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16009" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16010" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16011" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16012" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16013" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16014" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16015" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16016" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16017" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16018" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16019" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16020" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16021" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16022" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16023" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16024" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16025" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16026" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16027" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16028" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16029" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16030" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16031" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16032" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16033" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16034" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16035" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16036" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16037" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16038" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16039" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16040" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16041" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16042" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16043" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16044" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16045" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16046" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16047" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16048" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16049" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16050" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16051" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16052" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16053" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16054" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16055" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16056" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16057" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16058" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16059" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16060" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16061" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16062" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16063" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16064" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16065" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16066" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16067" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16068" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16069" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16070" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16071" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16072" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16073" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16074" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16075" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16076" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16077" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16078" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16079" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16080" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16081" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16082" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16083" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16084" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16085" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16086" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16087" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16088" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16089" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16090" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16091" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16092" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16093" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16094" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16095" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16096" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16097" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16098" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16099" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16100" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16101" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16102" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16103" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16104" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16105" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16106" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16107" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16108" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16109" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16110" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16111" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16112" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16113" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16114" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16115" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16116" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16117" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16118" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16119" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16120" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16121" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16122" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16123" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16124" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16125" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16126" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16127" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16128" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16129" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16130" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16131" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16132" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16133" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16134" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16135" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16136" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16137" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16138" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16139" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16140" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16141" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16142" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16143" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16144" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16145" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16146" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16147" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16148" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16149" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16150" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16151" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16152" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16153" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16154" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16155" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16156" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16157" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16158" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16159" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16160" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16161" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16162" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16163" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16164" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16165" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16166" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16167" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16168" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16169" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16170" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16171" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16172" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16173" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16174" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16175" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16176" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16177" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16178" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16179" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16180" >
+	<equip order = "2" >
+		<cover itemid = "24006" count = "200"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24006" count = "450"></cover></equip></data> 
+<data id = "16301" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16302" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16303" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16304" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16305" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16306" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16307" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16308" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16309" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16310" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16311" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16312" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16313" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16314" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16315" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16316" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16317" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16318" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16319" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16320" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16321" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16322" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16323" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16324" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16325" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16326" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16327" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16328" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16329" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16330" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16331" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16332" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16333" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16334" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16335" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16336" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16337" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16338" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16339" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16340" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16341" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data> 
+<data id = "16342" >
+	<equip order = "2" >
+		<cover itemid = "24007" count = "50"></cover></equip> 
+	<equip order = "3" >
+		<cover itemid = "24007" count = "100"></cover></equip> 
+	<equip order = "4" >
+		<cover itemid = "24007" count = "150"></cover></equip> 
+	<equip order = "5" >
+		<cover itemid = "24007" count = "200"></cover></equip> 
+	<equip order = "6" >
+		<cover itemid = "24007" count = "300"></cover></equip></data></data>

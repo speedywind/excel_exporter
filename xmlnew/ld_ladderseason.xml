@@ -1,0 +1,397 @@
+<data>
+<data season = "1" starttime = "2017-06-01 00:00:00" taskid = "212" >
+	<task targetcount = "1" >
+		<reward itemid = "1005" count = "300"></reward> 
+		<reward itemid = "24101" count = "10"></reward></task> 
+	<task targetcount = "4" >
+		<reward itemid = "1005" count = "500"></reward> 
+		<reward itemid = "24102" count = "5"></reward></task> 
+	<task targetcount = "9" >
+		<reward itemid = "1005" count = "1200"></reward> 
+		<reward itemid = "24103" count = "1"></reward></task> 
+	<ladder ladder = "1" >
+		<reward itemid = "1002" count = "100"></reward></ladder> 
+	<ladder ladder = "2" >
+		<reward itemid = "1002" count = "300"></reward></ladder> 
+	<ladder ladder = "3" >
+		<reward itemid = "1002" count = "500"></reward> 
+		<reward itemid = "65002" count = "1"></reward></ladder> 
+	<ladder ladder = "4" >
+		<reward itemid = "1002" count = "800"></reward> 
+		<reward itemid = "65002" count = "1"></reward></ladder> 
+	<ladder ladder = "5" >
+		<reward itemid = "1002" count = "1000"></reward> 
+		<reward itemid = "65002" count = "1"></reward></ladder> 
+	<ladder ladder = "6" >
+		<reward itemid = "1002" count = "1500"></reward> 
+		<reward itemid = "65002" count = "1"></reward></ladder> 
+	<ladder ladder = "7" >
+		<reward itemid = "1002" count = "2000"></reward> 
+		<reward itemid = "65002" count = "1"></reward></ladder> 
+	<ladder ladder = "8" >
+		<reward itemid = "1002" count = "3000"></reward> 
+		<reward itemid = "65002" count = "1"></reward> 
+		<reward itemid = "65008" count = "1"></reward></ladder> 
+	<ld targetid = "1" equipid = "15163"></ld> 
+	<ld targetid = "2" equipid = "15163"></ld> 
+	<ld targetid = "3" equipid = "15163"></ld></data> 
+<data season = "2" starttime = "2017-07-01 00:00:00" taskid = "212" >
+	<task targetcount = "1" >
+		<reward itemid = "1005" count = "300"></reward> 
+		<reward itemid = "24101" count = "10"></reward></task> 
+	<task targetcount = "4" >
+		<reward itemid = "1005" count = "500"></reward> 
+		<reward itemid = "24102" count = "5"></reward></task> 
+	<task targetcount = "9" >
+		<reward itemid = "1005" count = "1200"></reward> 
+		<reward itemid = "24103" count = "1"></reward></task> 
+	<ladder ladder = "1" >
+		<reward itemid = "1002" count = "100"></reward></ladder> 
+	<ladder ladder = "2" >
+		<reward itemid = "1002" count = "300"></reward></ladder> 
+	<ladder ladder = "3" >
+		<reward itemid = "1002" count = "500"></reward> 
+		<reward itemid = "65002" count = "1"></reward></ladder> 
+	<ladder ladder = "4" >
+		<reward itemid = "1002" count = "800"></reward> 
+		<reward itemid = "65002" count = "1"></reward></ladder> 
+	<ladder ladder = "5" >
+		<reward itemid = "1002" count = "1000"></reward> 
+		<reward itemid = "65002" count = "1"></reward></ladder> 
+	<ladder ladder = "6" >
+		<reward itemid = "1002" count = "1500"></reward> 
+		<reward itemid = "65002" count = "1"></reward></ladder> 
+	<ladder ladder = "7" >
+		<reward itemid = "1002" count = "2000"></reward> 
+		<reward itemid = "65002" count = "1"></reward></ladder> 
+	<ladder ladder = "8" >
+		<reward itemid = "1002" count = "3000"></reward> 
+		<reward itemid = "65002" count = "1"></reward> 
+		<reward itemid = "65008" count = "1"></reward></ladder> 
+	<ld targetid = "1" equipid = "15164"></ld> 
+	<ld targetid = "2" equipid = "15164"></ld> 
+	<ld targetid = "3" equipid = "15164"></ld></data> 
+<data season = "3" starttime = "2017-08-01 00:00:00" taskid = "212" >
+	<task targetcount = "1" >
+		<reward itemid = "1005" count = "300"></reward> 
+		<reward itemid = "24101" count = "10"></reward></task> 
+	<task targetcount = "4" >
+		<reward itemid = "1005" count = "500"></reward> 
+		<reward itemid = "24102" count = "5"></reward></task> 
+	<task targetcount = "9" >
+		<reward itemid = "1005" count = "1200"></reward> 
+		<reward itemid = "24103" count = "1"></reward></task> 
+	<ladder ladder = "1" >
+		<reward itemid = "1002" count = "100"></reward></ladder> 
+	<ladder ladder = "2" >
+		<reward itemid = "1002" count = "300"></reward></ladder> 
+	<ladder ladder = "3" >
+		<reward itemid = "1002" count = "500"></reward> 
+		<reward itemid = "65003" count = "1"></reward></ladder> 
+	<ladder ladder = "4" >
+		<reward itemid = "1002" count = "800"></reward> 
+		<reward itemid = "65003" count = "1"></reward></ladder> 
+	<ladder ladder = "5" >
+		<reward itemid = "1002" count = "1000"></reward> 
+		<reward itemid = "65003" count = "1"></reward></ladder> 
+	<ladder ladder = "6" >
+		<reward itemid = "1002" count = "1500"></reward> 
+		<reward itemid = "65003" count = "1"></reward></ladder> 
+	<ladder ladder = "7" >
+		<reward itemid = "1002" count = "2000"></reward> 
+		<reward itemid = "65003" count = "1"></reward></ladder> 
+	<ladder ladder = "8" >
+		<reward itemid = "1002" count = "3000"></reward> 
+		<reward itemid = "65003" count = "1"></reward> 
+		<reward itemid = "65009" count = "1"></reward></ladder> 
+	<ld targetid = "1" equipid = "15165"></ld> 
+	<ld targetid = "2" equipid = "15165"></ld> 
+	<ld targetid = "3" equipid = "15165"></ld></data> 
+<data season = "4" starttime = "2017-09-01 00:00:00" taskid = "212" >
+	<task targetcount = "1" >
+		<reward itemid = "1005" count = "300"></reward> 
+		<reward itemid = "24101" count = "10"></reward></task> 
+	<task targetcount = "4" >
+		<reward itemid = "1005" count = "500"></reward> 
+		<reward itemid = "24102" count = "5"></reward></task> 
+	<task targetcount = "9" >
+		<reward itemid = "1005" count = "1200"></reward> 
+		<reward itemid = "24103" count = "1"></reward></task> 
+	<ladder ladder = "1" >
+		<reward itemid = "1002" count = "100"></reward></ladder> 
+	<ladder ladder = "2" >
+		<reward itemid = "1002" count = "300"></reward></ladder> 
+	<ladder ladder = "3" >
+		<reward itemid = "1002" count = "500"></reward> 
+		<reward itemid = "65004" count = "1"></reward></ladder> 
+	<ladder ladder = "4" >
+		<reward itemid = "1002" count = "800"></reward> 
+		<reward itemid = "65004" count = "1"></reward></ladder> 
+	<ladder ladder = "5" >
+		<reward itemid = "1002" count = "1000"></reward> 
+		<reward itemid = "65004" count = "1"></reward></ladder> 
+	<ladder ladder = "6" >
+		<reward itemid = "1002" count = "1500"></reward> 
+		<reward itemid = "65004" count = "1"></reward></ladder> 
+	<ladder ladder = "7" >
+		<reward itemid = "1002" count = "2000"></reward> 
+		<reward itemid = "65004" count = "1"></reward></ladder> 
+	<ladder ladder = "8" >
+		<reward itemid = "1002" count = "3000"></reward> 
+		<reward itemid = "65004" count = "1"></reward> 
+		<reward itemid = "65010" count = "1"></reward></ladder> 
+	<ld targetid = "1" equipid = "15163"></ld> 
+	<ld targetid = "2" equipid = "15163"></ld> 
+	<ld targetid = "3" equipid = "15163"></ld></data> 
+<data season = "5" starttime = "2017-10-01 00:00:00" taskid = "212" >
+	<task targetcount = "1" >
+		<reward itemid = "1005" count = "300"></reward> 
+		<reward itemid = "24101" count = "10"></reward></task> 
+	<task targetcount = "4" >
+		<reward itemid = "1005" count = "500"></reward> 
+		<reward itemid = "24102" count = "5"></reward></task> 
+	<task targetcount = "9" >
+		<reward itemid = "1005" count = "1200"></reward> 
+		<reward itemid = "24103" count = "1"></reward></task> 
+	<ladder ladder = "1" >
+		<reward itemid = "1002" count = "100"></reward></ladder> 
+	<ladder ladder = "2" >
+		<reward itemid = "1002" count = "300"></reward></ladder> 
+	<ladder ladder = "3" >
+		<reward itemid = "1002" count = "500"></reward> 
+		<reward itemid = "65005" count = "1"></reward></ladder> 
+	<ladder ladder = "4" >
+		<reward itemid = "1002" count = "800"></reward> 
+		<reward itemid = "65005" count = "1"></reward></ladder> 
+	<ladder ladder = "5" >
+		<reward itemid = "1002" count = "1000"></reward> 
+		<reward itemid = "65005" count = "1"></reward></ladder> 
+	<ladder ladder = "6" >
+		<reward itemid = "1002" count = "1500"></reward> 
+		<reward itemid = "65005" count = "1"></reward></ladder> 
+	<ladder ladder = "7" >
+		<reward itemid = "1002" count = "2000"></reward> 
+		<reward itemid = "65005" count = "1"></reward></ladder> 
+	<ladder ladder = "8" >
+		<reward itemid = "1002" count = "3000"></reward> 
+		<reward itemid = "65005" count = "1"></reward> 
+		<reward itemid = "65011" count = "1"></reward></ladder> 
+	<ld targetid = "1" equipid = "15166"></ld> 
+	<ld targetid = "2" equipid = "15166"></ld> 
+	<ld targetid = "3" equipid = "15166"></ld></data> 
+<data season = "6" starttime = "2017-11-01 00:00:00" taskid = "212" >
+	<task targetcount = "1" >
+		<reward itemid = "1005" count = "300"></reward> 
+		<reward itemid = "24101" count = "10"></reward></task> 
+	<task targetcount = "4" >
+		<reward itemid = "1005" count = "500"></reward> 
+		<reward itemid = "24102" count = "5"></reward></task> 
+	<task targetcount = "9" >
+		<reward itemid = "1005" count = "1200"></reward> 
+		<reward itemid = "24103" count = "1"></reward></task> 
+	<ladder ladder = "1" >
+		<reward itemid = "1002" count = "100"></reward></ladder> 
+	<ladder ladder = "2" >
+		<reward itemid = "1002" count = "300"></reward></ladder> 
+	<ladder ladder = "3" >
+		<reward itemid = "1002" count = "500"></reward> 
+		<reward itemid = "65006" count = "1"></reward></ladder> 
+	<ladder ladder = "4" >
+		<reward itemid = "1002" count = "800"></reward> 
+		<reward itemid = "65006" count = "1"></reward></ladder> 
+	<ladder ladder = "5" >
+		<reward itemid = "1002" count = "1000"></reward> 
+		<reward itemid = "65006" count = "1"></reward></ladder> 
+	<ladder ladder = "6" >
+		<reward itemid = "1002" count = "1500"></reward> 
+		<reward itemid = "65006" count = "1"></reward></ladder> 
+	<ladder ladder = "7" >
+		<reward itemid = "1002" count = "2000"></reward> 
+		<reward itemid = "65006" count = "1"></reward></ladder> 
+	<ladder ladder = "8" >
+		<reward itemid = "1002" count = "3000"></reward> 
+		<reward itemid = "65006" count = "1"></reward> 
+		<reward itemid = "65012" count = "1"></reward></ladder> 
+	<ld targetid = "1" equipid = "15167"></ld> 
+	<ld targetid = "2" equipid = "15167"></ld> 
+	<ld targetid = "3" equipid = "15167"></ld></data> 
+<data season = "7" starttime = "2017-12-01 00:00:00" taskid = "212" >
+	<task targetcount = "1" >
+		<reward itemid = "1005" count = "300"></reward> 
+		<reward itemid = "24101" count = "10"></reward></task> 
+	<task targetcount = "4" >
+		<reward itemid = "1005" count = "500"></reward> 
+		<reward itemid = "24102" count = "5"></reward></task> 
+	<task targetcount = "9" >
+		<reward itemid = "1005" count = "1200"></reward> 
+		<reward itemid = "24103" count = "1"></reward></task> 
+	<ladder ladder = "1" >
+		<reward itemid = "1002" count = "100"></reward></ladder> 
+	<ladder ladder = "2" >
+		<reward itemid = "1002" count = "300"></reward></ladder> 
+	<ladder ladder = "3" >
+		<reward itemid = "1002" count = "500"></reward> 
+		<reward itemid = "65013" count = "1"></reward></ladder> 
+	<ladder ladder = "4" >
+		<reward itemid = "1002" count = "800"></reward> 
+		<reward itemid = "65013" count = "1"></reward></ladder> 
+	<ladder ladder = "5" >
+		<reward itemid = "1002" count = "1000"></reward> 
+		<reward itemid = "65013" count = "1"></reward></ladder> 
+	<ladder ladder = "6" >
+		<reward itemid = "1002" count = "1500"></reward> 
+		<reward itemid = "65013" count = "1"></reward></ladder> 
+	<ladder ladder = "7" >
+		<reward itemid = "1002" count = "2000"></reward> 
+		<reward itemid = "65013" count = "1"></reward></ladder> 
+	<ladder ladder = "8" >
+		<reward itemid = "1002" count = "3000"></reward> 
+		<reward itemid = "65013" count = "1"></reward> 
+		<reward itemid = "65015" count = "1"></reward></ladder> 
+	<ld targetid = "1" equipid = "15168"></ld> 
+	<ld targetid = "2" equipid = "15168"></ld> 
+	<ld targetid = "3" equipid = "15168"></ld></data> 
+<data season = "8" starttime = "2018-01-01 00:00:00" taskid = "212" >
+	<task targetcount = "1" >
+		<reward itemid = "1005" count = "300"></reward> 
+		<reward itemid = "24101" count = "10"></reward></task> 
+	<task targetcount = "4" >
+		<reward itemid = "1005" count = "500"></reward> 
+		<reward itemid = "24102" count = "5"></reward></task> 
+	<task targetcount = "9" >
+		<reward itemid = "1005" count = "1200"></reward> 
+		<reward itemid = "24103" count = "1"></reward></task> 
+	<ladder ladder = "1" >
+		<reward itemid = "1002" count = "100"></reward></ladder> 
+	<ladder ladder = "2" >
+		<reward itemid = "1002" count = "300"></reward></ladder> 
+	<ladder ladder = "3" >
+		<reward itemid = "1002" count = "500"></reward> 
+		<reward itemid = "65014" count = "1"></reward></ladder> 
+	<ladder ladder = "4" >
+		<reward itemid = "1002" count = "800"></reward> 
+		<reward itemid = "65014" count = "1"></reward></ladder> 
+	<ladder ladder = "5" >
+		<reward itemid = "1002" count = "1000"></reward> 
+		<reward itemid = "65014" count = "1"></reward></ladder> 
+	<ladder ladder = "6" >
+		<reward itemid = "1002" count = "1500"></reward> 
+		<reward itemid = "65014" count = "1"></reward></ladder> 
+	<ladder ladder = "7" >
+		<reward itemid = "1002" count = "2000"></reward> 
+		<reward itemid = "65014" count = "1"></reward></ladder> 
+	<ladder ladder = "8" >
+		<reward itemid = "1002" count = "3000"></reward> 
+		<reward itemid = "65014" count = "1"></reward> 
+		<reward itemid = "65016" count = "1"></reward></ladder> 
+	<ld targetid = "1" equipid = "10056"></ld> 
+	<ld targetid = "2" equipid = "10056"></ld> 
+	<ld targetid = "3" equipid = "10056"></ld></data> 
+<data season = "9" starttime = "2018-02-01 00:00:00" taskid = "212" >
+	<task targetcount = "1" >
+		<reward itemid = "1005" count = "300"></reward> 
+		<reward itemid = "24101" count = "10"></reward></task> 
+	<task targetcount = "4" >
+		<reward itemid = "1005" count = "500"></reward> 
+		<reward itemid = "24102" count = "5"></reward></task> 
+	<task targetcount = "9" >
+		<reward itemid = "1005" count = "1200"></reward> 
+		<reward itemid = "24103" count = "1"></reward></task> 
+	<ladder ladder = "1" >
+		<reward itemid = "1002" count = "100"></reward></ladder> 
+	<ladder ladder = "2" >
+		<reward itemid = "1002" count = "300"></reward></ladder> 
+	<ladder ladder = "3" >
+		<reward itemid = "1002" count = "500"></reward> 
+		<reward itemid = "65017" count = "1"></reward></ladder> 
+	<ladder ladder = "4" >
+		<reward itemid = "1002" count = "800"></reward> 
+		<reward itemid = "65017" count = "1"></reward></ladder> 
+	<ladder ladder = "5" >
+		<reward itemid = "1002" count = "1000"></reward> 
+		<reward itemid = "65017" count = "1"></reward></ladder> 
+	<ladder ladder = "6" >
+		<reward itemid = "1002" count = "1500"></reward> 
+		<reward itemid = "65017" count = "1"></reward></ladder> 
+	<ladder ladder = "7" >
+		<reward itemid = "1002" count = "2000"></reward> 
+		<reward itemid = "65017" count = "1"></reward></ladder> 
+	<ladder ladder = "8" >
+		<reward itemid = "1002" count = "3000"></reward> 
+		<reward itemid = "65017" count = "1"></reward> 
+		<reward itemid = "65019" count = "1"></reward></ladder> 
+	<ld targetid = "1" equipid = "15096"></ld> 
+	<ld targetid = "2" equipid = "15096"></ld> 
+	<ld targetid = "3" equipid = "15096"></ld></data> 
+<data season = "10" starttime = "2018-03-01 00:00:00" taskid = "212" >
+	<task targetcount = "1" >
+		<reward itemid = "1005" count = "300"></reward> 
+		<reward itemid = "24101" count = "10"></reward></task> 
+	<task targetcount = "4" >
+		<reward itemid = "1005" count = "500"></reward> 
+		<reward itemid = "24102" count = "5"></reward></task> 
+	<task targetcount = "9" >
+		<reward itemid = "1005" count = "1200"></reward> 
+		<reward itemid = "24103" count = "1"></reward></task> 
+	<ladder ladder = "1" >
+		<reward itemid = "1002" count = "100"></reward></ladder> 
+	<ladder ladder = "2" >
+		<reward itemid = "1002" count = "300"></reward></ladder> 
+	<ladder ladder = "3" >
+		<reward itemid = "1002" count = "500"></reward> 
+		<reward itemid = "65018" count = "1"></reward></ladder> 
+	<ladder ladder = "4" >
+		<reward itemid = "1002" count = "800"></reward> 
+		<reward itemid = "65018" count = "1"></reward></ladder> 
+	<ladder ladder = "5" >
+		<reward itemid = "1002" count = "1000"></reward> 
+		<reward itemid = "65018" count = "1"></reward></ladder> 
+	<ladder ladder = "6" >
+		<reward itemid = "1002" count = "1500"></reward> 
+		<reward itemid = "65018" count = "1"></reward></ladder> 
+	<ladder ladder = "7" >
+		<reward itemid = "1002" count = "2000"></reward> 
+		<reward itemid = "65018" count = "1"></reward></ladder> 
+	<ladder ladder = "8" >
+		<reward itemid = "1002" count = "3000"></reward> 
+		<reward itemid = "65018" count = "1"></reward> 
+		<reward itemid = "65020" count = "1"></reward></ladder> 
+	<ld targetid = "1" equipid = "15097"></ld> 
+	<ld targetid = "2" equipid = "15097"></ld> 
+	<ld targetid = "3" equipid = "15097"></ld></data> 
+<data season = "11" starttime = "2018-04-01 00:00:00" taskid = "212" >
+	<task targetcount = "1" >
+		<reward itemid = "1005" count = "300"></reward> 
+		<reward itemid = "24101" count = "10"></reward></task> 
+	<task targetcount = "4" >
+		<reward itemid = "1005" count = "500"></reward> 
+		<reward itemid = "24102" count = "5"></reward></task> 
+	<task targetcount = "9" >
+		<reward itemid = "1005" count = "1200"></reward> 
+		<reward itemid = "24103" count = "1"></reward></task> 
+	<ladder ladder = "1" >
+		<reward itemid = "1002" count = "100"></reward></ladder> 
+	<ladder ladder = "2" >
+		<reward itemid = "1002" count = "300"></reward></ladder> 
+	<ladder ladder = "3" >
+		<reward itemid = "1002" count = "500"></reward> 
+		<reward itemid = "65002" count = "1"></reward></ladder> 
+	<ladder ladder = "4" >
+		<reward itemid = "1002" count = "800"></reward> 
+		<reward itemid = "65002" count = "1"></reward></ladder> 
+	<ladder ladder = "5" >
+		<reward itemid = "1002" count = "1000"></reward> 
+		<reward itemid = "65002" count = "1"></reward></ladder> 
+	<ladder ladder = "6" >
+		<reward itemid = "1002" count = "1500"></reward> 
+		<reward itemid = "65002" count = "1"></reward></ladder> 
+	<ladder ladder = "7" >
+		<reward itemid = "1002" count = "2000"></reward> 
+		<reward itemid = "65002" count = "1"></reward></ladder> 
+	<ladder ladder = "8" >
+		<reward itemid = "1002" count = "3000"></reward> 
+		<reward itemid = "65002" count = "1"></reward> 
+		<reward itemid = "65008" count = "1"></reward></ladder> 
+	<ld targetid = "1" equipid = "15164"></ld> 
+	<ld targetid = "2" equipid = "15164"></ld> 
+	<ld targetid = "3" equipid = "15164"></ld></data></data>

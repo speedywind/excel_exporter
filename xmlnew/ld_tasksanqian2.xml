@@ -1,0 +1,57 @@
+<data>
+<data order = "1" targetid = "31" targetcount = "1" >
+	<reward itemid = "1011" count = "5"></reward> 
+	<reward itemid = "28001" count = "10"></reward> 
+	<reward itemid = "28201" count = "20"></reward></data> 
+<data order = "2" targetid = "31" targetcount = "2" >
+	<reward itemid = "1011" count = "5"></reward> 
+	<reward itemid = "28001" count = "10"></reward> 
+	<reward itemid = "28201" count = "20"></reward></data> 
+<data order = "3" targetid = "31" targetcount = "1" >
+	<reward itemid = "1011" count = "5"></reward> 
+	<reward itemid = "28001" count = "10"></reward> 
+	<reward itemid = "28201" count = "20"></reward></data> 
+<data order = "4" targetid = "31" targetcount = "2" >
+	<reward itemid = "1011" count = "5"></reward> 
+	<reward itemid = "28001" count = "10"></reward> 
+	<reward itemid = "28201" count = "20"></reward></data> 
+<data order = "5" targetid = "31" targetcount = "1" >
+	<reward itemid = "1011" count = "5"></reward> 
+	<reward itemid = "28001" count = "10"></reward> 
+	<reward itemid = "28201" count = "20"></reward></data> 
+<data order = "6" targetid = "31" targetcount = "2" >
+	<reward itemid = "1011" count = "5"></reward> 
+	<reward itemid = "28001" count = "10"></reward> 
+	<reward itemid = "28201" count = "20"></reward></data> 
+<data order = "7" targetid = "31" targetcount = "1" >
+	<reward itemid = "1011" count = "5"></reward> 
+	<reward itemid = "28001" count = "10"></reward> 
+	<reward itemid = "28201" count = "20"></reward></data> 
+<data order = "8" targetid = "31" targetcount = "2" >
+	<reward itemid = "1011" count = "5"></reward> 
+	<reward itemid = "28001" count = "10"></reward> 
+	<reward itemid = "28201" count = "20"></reward></data> 
+<data order = "9" targetid = "31" targetcount = "1" >
+	<reward itemid = "1011" count = "5"></reward> 
+	<reward itemid = "28001" count = "10"></reward> 
+	<reward itemid = "28201" count = "20"></reward></data> 
+<data order = "10" targetid = "31" targetcount = "2" >
+	<reward itemid = "1011" count = "5"></reward> 
+	<reward itemid = "28001" count = "10"></reward> 
+	<reward itemid = "28201" count = "20"></reward></data> 
+<data order = "11" targetid = "31" targetcount = "1" >
+	<reward itemid = "1011" count = "5"></reward> 
+	<reward itemid = "28001" count = "10"></reward> 
+	<reward itemid = "28201" count = "20"></reward></data> 
+<data order = "12" targetid = "31" targetcount = "2" >
+	<reward itemid = "1011" count = "5"></reward> 
+	<reward itemid = "28001" count = "10"></reward> 
+	<reward itemid = "28201" count = "20"></reward></data> 
+<data order = "13" targetid = "31" targetcount = "1" >
+	<reward itemid = "1011" count = "5"></reward> 
+	<reward itemid = "28001" count = "10"></reward> 
+	<reward itemid = "28201" count = "20"></reward></data> 
+<data order = "14" targetid = "31" targetcount = "2" >
+	<reward itemid = "1011" count = "5"></reward> 
+	<reward itemid = "28001" count = "10"></reward> 
+	<reward itemid = "28201" count = "20"></reward></data></data>

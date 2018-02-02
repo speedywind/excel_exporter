@@ -1,0 +1,17 @@
+LD_TASKSEVEN = {
+[1] = {order = 1, targetid = 33, targetcount = 1, choose = 0, 
+	reward = {{itemid = 1009, count = 1}, {itemid = 1001, count = 50000}, {itemid = 24102, count = 20}}}, 
+[2] = {order = 2, targetid = 33, targetcount = 2, choose = 0, 
+	reward = {{itemid = 1009, count = 1}, {itemid = 1001, count = 50000}, {itemid = 24103, count = 20}, {itemid = 53001, count = 1}}}, 
+[3] = {order = 3, targetid = 33, targetcount = 3, choose = 0, 
+	reward = {{itemid = 1009, count = 1}, {itemid = 1001, count = 50000}, {itemid = 24102, count = 20}, {itemid = 28002, count = 50}}}, 
+[4] = {order = 4, targetid = 33, targetcount = 4, choose = 0, 
+	reward = {{itemid = 1009, count = 1}, {itemid = 1001, count = 50000}, {itemid = 24105, count = 20}, {itemid = 28002, count = 50}}}, 
+[5] = {order = 5, targetid = 33, targetcount = 5, choose = 0, 
+	reward = {{itemid = 1009, count = 1}, {itemid = 1001, count = 50000}, {itemid = 39006, count = 1}, {itemid = 28002, count = 50}}}, 
+[6] = {order = 6, targetid = 33, targetcount = 6, choose = 0, 
+	reward = {{itemid = 1009, count = 2}, {itemid = 1001, count = 80000}, {itemid = 31023, count = 10}, {itemid = 28002, count = 50}}}, 
+[7] = {order = 7, targetid = 33, targetcount = 7, choose = 0, 
+	reward = {{itemid = 1009, count = 2}, {itemid = 1001, count = 120000}, {itemid = 35201, count = 50}, {itemid = 35002, count = 1}}}, 
+[8] = {order = 8, targetid = 33, targetcount = 8, choose = 1, 
+	reward = {{itemid = 53003, count = 1}, {itemid = 53010, count = 1}, {itemid = 53053, count = 1}, {itemid = 53057, count = 1}}}}

@@ -1,0 +1,298 @@
+<data>
+<data id = "1" name = "限时礼包1" des = "超值500%" rechargeid = "1" >
+<cost itemid = "1008" count = "6"></cost> 
+	<order order = "1" >
+		<reward itemid = "1002" count = "60" weight = "100"></reward></order> 
+	<order order = "2" >
+		<reward itemid = "1001" count = "25000" weight = "100"></reward></order> 
+	<order order = "3" >
+		<reward itemid = "1000" count = "25000" weight = "100"></reward></order> 
+	<order order = "4" >
+		<reward itemid = "26001" count = "1" weight = "100"></reward> 
+		<reward itemid = "26007" count = "1" weight = "100"></reward> 
+		<reward itemid = "26013" count = "1" weight = "100"></reward> 
+		<reward itemid = "26019" count = "1" weight = "100"></reward> 
+		<reward itemid = "26025" count = "1" weight = "100"></reward> 
+		<reward itemid = "26031" count = "1" weight = "100"></reward> 
+		<reward itemid = "26037" count = "1" weight = "100"></reward> 
+		<reward itemid = "24101" count = "10" weight = "100"></reward></order> 
+	<order order = "5" >
+		<reward itemid = "25101" count = "20" weight = "10"></reward> 
+		<reward itemid = "25102" count = "20" weight = "10"></reward> 
+		<reward itemid = "25103" count = "20" weight = "10"></reward> 
+		<reward itemid = "25104" count = "20" weight = "10"></reward> 
+		<reward itemid = "25105" count = "20" weight = "10"></reward> 
+		<reward itemid = "25201" count = "10" weight = "10"></reward> 
+		<reward itemid = "25202" count = "10" weight = "10"></reward> 
+		<reward itemid = "25203" count = "10" weight = "10"></reward> 
+		<reward itemid = "25204" count = "10" weight = "10"></reward> 
+		<reward itemid = "25205" count = "10" weight = "10"></reward> 
+		<reward itemid = "25301" count = "5" weight = "10"></reward> 
+		<reward itemid = "25302" count = "5" weight = "10"></reward> 
+		<reward itemid = "25303" count = "5" weight = "10"></reward> 
+		<reward itemid = "25304" count = "5" weight = "10"></reward> 
+		<reward itemid = "25305" count = "5" weight = "10"></reward> 
+		<reward itemid = "25306" count = "5" weight = "10"></reward> 
+		<reward itemid = "25307" count = "5" weight = "10"></reward> 
+		<reward itemid = "25308" count = "5" weight = "10"></reward> 
+		<reward itemid = "24001" count = "100" weight = "10"></reward> 
+		<reward itemid = "24002" count = "50" weight = "10"></reward> 
+		<reward itemid = "24003" count = "25" weight = "10"></reward> 
+		<reward itemid = "28001" count = "20" weight = "100"></reward> 
+		<reward itemid = "28201" count = "50" weight = "100"></reward> 
+		<reward itemid = "1003" count = "2000" weight = "10"></reward> 
+		<reward itemid = "1005" count = "800" weight = "10"></reward></order></data> 
+<data id = "2" name = "限时礼包2" des = "超值600%" rechargeid = "2" >
+<cost itemid = "1008" count = "30"></cost> 
+	<order order = "1" >
+		<reward itemid = "1002" count = "300" weight = "100"></reward></order> 
+	<order order = "2" >
+		<reward itemid = "1001" count = "150000" weight = "100"></reward></order> 
+	<order order = "3" >
+		<reward itemid = "1000" count = "150000" weight = "100"></reward></order> 
+	<order order = "4" >
+		<reward itemid = "26002" count = "2" weight = "100"></reward> 
+		<reward itemid = "26008" count = "2" weight = "100"></reward> 
+		<reward itemid = "26014" count = "2" weight = "100"></reward> 
+		<reward itemid = "26020" count = "2" weight = "100"></reward> 
+		<reward itemid = "26026" count = "2" weight = "100"></reward> 
+		<reward itemid = "26032" count = "2" weight = "100"></reward> 
+		<reward itemid = "26038" count = "2" weight = "100"></reward> 
+		<reward itemid = "24101" count = "60" weight = "50"></reward> 
+		<reward itemid = "24102" count = "12" weight = "50"></reward></order> 
+	<order order = "5" >
+		<reward itemid = "25101" count = "120" weight = "10"></reward> 
+		<reward itemid = "25102" count = "120" weight = "10"></reward> 
+		<reward itemid = "25103" count = "120" weight = "10"></reward> 
+		<reward itemid = "25104" count = "120" weight = "10"></reward> 
+		<reward itemid = "25105" count = "120" weight = "10"></reward> 
+		<reward itemid = "25201" count = "60" weight = "10"></reward> 
+		<reward itemid = "25202" count = "60" weight = "10"></reward> 
+		<reward itemid = "25203" count = "60" weight = "10"></reward> 
+		<reward itemid = "25204" count = "60" weight = "10"></reward> 
+		<reward itemid = "25205" count = "60" weight = "10"></reward> 
+		<reward itemid = "25301" count = "30" weight = "10"></reward> 
+		<reward itemid = "25302" count = "30" weight = "10"></reward> 
+		<reward itemid = "25303" count = "30" weight = "10"></reward> 
+		<reward itemid = "25304" count = "30" weight = "10"></reward> 
+		<reward itemid = "25305" count = "30" weight = "10"></reward> 
+		<reward itemid = "25306" count = "30" weight = "10"></reward> 
+		<reward itemid = "25307" count = "30" weight = "10"></reward> 
+		<reward itemid = "25308" count = "30" weight = "10"></reward> 
+		<reward itemid = "24001" count = "600" weight = "10"></reward> 
+		<reward itemid = "24002" count = "300" weight = "10"></reward> 
+		<reward itemid = "24003" count = "150" weight = "10"></reward> 
+		<reward itemid = "28001" count = "120" weight = "100"></reward> 
+		<reward itemid = "28201" count = "300" weight = "100"></reward> 
+		<reward itemid = "1003" count = "12000" weight = "10"></reward> 
+		<reward itemid = "1005" count = "4800" weight = "10"></reward></order></data> 
+<data id = "3" name = "限时礼包3" des = "超值700%" rechargeid = "3" >
+<cost itemid = "1008" count = "60"></cost> 
+	<order order = "1" >
+		<reward itemid = "1002" count = "700" weight = "100"></reward></order> 
+	<order order = "2" >
+		<reward itemid = "1001" count = "420000" weight = "100"></reward></order> 
+	<order order = "3" >
+		<reward itemid = "1000" count = "420000" weight = "100"></reward></order> 
+	<order order = "4" >
+		<reward itemid = "26003" count = "2" weight = "100"></reward> 
+		<reward itemid = "26009" count = "2" weight = "100"></reward> 
+		<reward itemid = "26015" count = "2" weight = "100"></reward> 
+		<reward itemid = "26021" count = "2" weight = "100"></reward> 
+		<reward itemid = "26027" count = "2" weight = "100"></reward> 
+		<reward itemid = "26033" count = "2" weight = "100"></reward> 
+		<reward itemid = "26039" count = "2" weight = "100"></reward> 
+		<reward itemid = "24101" count = "160" weight = "25"></reward> 
+		<reward itemid = "24102" count = "30" weight = "25"></reward> 
+		<reward itemid = "24103" count = "10" weight = "50"></reward></order> 
+	<order order = "5" >
+		<reward itemid = "25201" count = "160" weight = "10"></reward> 
+		<reward itemid = "25202" count = "160" weight = "10"></reward> 
+		<reward itemid = "25203" count = "160" weight = "10"></reward> 
+		<reward itemid = "25204" count = "160" weight = "10"></reward> 
+		<reward itemid = "25205" count = "160" weight = "10"></reward> 
+		<reward itemid = "25301" count = "80" weight = "10"></reward> 
+		<reward itemid = "25302" count = "80" weight = "10"></reward> 
+		<reward itemid = "25303" count = "80" weight = "10"></reward> 
+		<reward itemid = "25304" count = "80" weight = "10"></reward> 
+		<reward itemid = "25305" count = "80" weight = "10"></reward> 
+		<reward itemid = "25306" count = "80" weight = "10"></reward> 
+		<reward itemid = "25307" count = "80" weight = "10"></reward> 
+		<reward itemid = "25308" count = "80" weight = "10"></reward> 
+		<reward itemid = "25401" count = "33" weight = "10"></reward> 
+		<reward itemid = "25402" count = "33" weight = "10"></reward> 
+		<reward itemid = "25403" count = "33" weight = "10"></reward> 
+		<reward itemid = "25404" count = "33" weight = "10"></reward> 
+		<reward itemid = "25405" count = "33" weight = "10"></reward> 
+		<reward itemid = "25406" count = "33" weight = "10"></reward> 
+		<reward itemid = "25407" count = "33" weight = "10"></reward> 
+		<reward itemid = "25408" count = "33" weight = "10"></reward> 
+		<reward itemid = "25409" count = "33" weight = "10"></reward> 
+		<reward itemid = "25410" count = "33" weight = "10"></reward> 
+		<reward itemid = "24002" count = "800" weight = "10"></reward> 
+		<reward itemid = "24003" count = "400" weight = "10"></reward> 
+		<reward itemid = "24004" count = "300" weight = "10"></reward> 
+		<reward itemid = "24006" count = "160" weight = "50"></reward> 
+		<reward itemid = "24007" count = "160" weight = "50"></reward> 
+		<reward itemid = "28001" count = "330" weight = "100"></reward> 
+		<reward itemid = "28201" count = "840" weight = "100"></reward> 
+		<reward itemid = "1003" count = "30000" weight = "10"></reward> 
+		<reward itemid = "1005" count = "12000" weight = "10"></reward></order></data> 
+<data id = "4" name = "限时礼包4" des = "超值800%" rechargeid = "4" >
+<cost itemid = "1008" count = "128"></cost> 
+	<order order = "1" >
+		<reward itemid = "1002" count = "1580" weight = "100"></reward></order> 
+	<order order = "2" >
+		<reward itemid = "1001" count = "1100000" weight = "100"></reward></order> 
+	<order order = "3" >
+		<reward itemid = "1000" count = "1100000" weight = "100"></reward></order> 
+	<order order = "4" >
+		<reward itemid = "26003" count = "4" weight = "100"></reward> 
+		<reward itemid = "26009" count = "4" weight = "100"></reward> 
+		<reward itemid = "26015" count = "4" weight = "100"></reward> 
+		<reward itemid = "26021" count = "4" weight = "100"></reward> 
+		<reward itemid = "26027" count = "4" weight = "100"></reward> 
+		<reward itemid = "26033" count = "4" weight = "100"></reward> 
+		<reward itemid = "26039" count = "4" weight = "100"></reward> 
+		<reward itemid = "24102" count = "90" weight = "10"></reward> 
+		<reward itemid = "24103" count = "30" weight = "45"></reward> 
+		<reward itemid = "24104" count = "15" weight = "45"></reward></order> 
+	<order order = "5" >
+		<reward itemid = "25201" count = "440" weight = "10"></reward> 
+		<reward itemid = "25202" count = "440" weight = "10"></reward> 
+		<reward itemid = "25203" count = "440" weight = "10"></reward> 
+		<reward itemid = "25204" count = "440" weight = "10"></reward> 
+		<reward itemid = "25205" count = "440" weight = "10"></reward> 
+		<reward itemid = "25301" count = "220" weight = "10"></reward> 
+		<reward itemid = "25302" count = "220" weight = "10"></reward> 
+		<reward itemid = "25303" count = "220" weight = "10"></reward> 
+		<reward itemid = "25304" count = "220" weight = "10"></reward> 
+		<reward itemid = "25305" count = "220" weight = "10"></reward> 
+		<reward itemid = "25306" count = "220" weight = "10"></reward> 
+		<reward itemid = "25307" count = "220" weight = "10"></reward> 
+		<reward itemid = "25308" count = "220" weight = "10"></reward> 
+		<reward itemid = "25401" count = "88" weight = "10"></reward> 
+		<reward itemid = "25402" count = "88" weight = "10"></reward> 
+		<reward itemid = "25403" count = "88" weight = "10"></reward> 
+		<reward itemid = "25404" count = "88" weight = "10"></reward> 
+		<reward itemid = "25405" count = "88" weight = "10"></reward> 
+		<reward itemid = "25406" count = "88" weight = "10"></reward> 
+		<reward itemid = "25407" count = "88" weight = "10"></reward> 
+		<reward itemid = "25408" count = "88" weight = "10"></reward> 
+		<reward itemid = "25409" count = "88" weight = "10"></reward> 
+		<reward itemid = "25410" count = "88" weight = "10"></reward> 
+		<reward itemid = "24003" count = "1000" weight = "10"></reward> 
+		<reward itemid = "24004" count = "800" weight = "10"></reward> 
+		<reward itemid = "24006" count = "400" weight = "50"></reward> 
+		<reward itemid = "24007" count = "400" weight = "50"></reward> 
+		<reward itemid = "28001" count = "880" weight = "100"></reward> 
+		<reward itemid = "28201" count = "2200" weight = "100"></reward> 
+		<reward itemid = "1003" count = "88000" weight = "10"></reward> 
+		<reward itemid = "1005" count = "35000" weight = "10"></reward></order></data> 
+<data id = "5" name = "限时礼包5" des = "超值900%" rechargeid = "5" >
+<cost itemid = "1008" count = "328"></cost> 
+	<order order = "1" >
+		<reward itemid = "1002" count = "3880" weight = "100"></reward></order> 
+	<order order = "2" >
+		<reward itemid = "1001" count = "3000000" weight = "100"></reward></order> 
+	<order order = "3" >
+		<reward itemid = "1000" count = "3000000" weight = "100"></reward></order> 
+	<order order = "4" >
+		<reward itemid = "26004" count = "3" weight = "100"></reward> 
+		<reward itemid = "26010" count = "3" weight = "100"></reward> 
+		<reward itemid = "26016" count = "3" weight = "100"></reward> 
+		<reward itemid = "26022" count = "3" weight = "100"></reward> 
+		<reward itemid = "26028" count = "3" weight = "100"></reward> 
+		<reward itemid = "26034" count = "3" weight = "100"></reward> 
+		<reward itemid = "26040" count = "3" weight = "100"></reward> 
+		<reward itemid = "24103" count = "80" weight = "40"></reward> 
+		<reward itemid = "24104" count = "40" weight = "50"></reward> 
+		<reward itemid = "24105" count = "32" weight = "10"></reward></order> 
+	<order order = "5" >
+		<reward itemid = "25301" count = "600" weight = "10"></reward> 
+		<reward itemid = "25302" count = "600" weight = "10"></reward> 
+		<reward itemid = "25303" count = "600" weight = "10"></reward> 
+		<reward itemid = "25304" count = "600" weight = "10"></reward> 
+		<reward itemid = "25305" count = "600" weight = "10"></reward> 
+		<reward itemid = "25306" count = "600" weight = "10"></reward> 
+		<reward itemid = "25307" count = "600" weight = "10"></reward> 
+		<reward itemid = "25308" count = "600" weight = "10"></reward> 
+		<reward itemid = "25401" count = "250" weight = "10"></reward> 
+		<reward itemid = "25402" count = "250" weight = "10"></reward> 
+		<reward itemid = "25403" count = "250" weight = "10"></reward> 
+		<reward itemid = "25404" count = "250" weight = "10"></reward> 
+		<reward itemid = "25405" count = "250" weight = "10"></reward> 
+		<reward itemid = "25406" count = "250" weight = "10"></reward> 
+		<reward itemid = "25407" count = "250" weight = "10"></reward> 
+		<reward itemid = "25408" count = "250" weight = "10"></reward> 
+		<reward itemid = "25409" count = "250" weight = "10"></reward> 
+		<reward itemid = "25410" count = "250" weight = "10"></reward> 
+		<reward itemid = "25501" count = "125" weight = "10"></reward> 
+		<reward itemid = "25502" count = "125" weight = "10"></reward> 
+		<reward itemid = "25503" count = "125" weight = "10"></reward> 
+		<reward itemid = "25504" count = "125" weight = "10"></reward> 
+		<reward itemid = "25505" count = "125" weight = "10"></reward> 
+		<reward itemid = "25506" count = "125" weight = "10"></reward> 
+		<reward itemid = "25507" count = "125" weight = "10"></reward> 
+		<reward itemid = "25508" count = "125" weight = "10"></reward> 
+		<reward itemid = "25509" count = "125" weight = "10"></reward> 
+		<reward itemid = "25510" count = "125" weight = "10"></reward> 
+		<reward itemid = "24003" count = "3000" weight = "10"></reward> 
+		<reward itemid = "24004" count = "2500" weight = "10"></reward> 
+		<reward itemid = "24005" count = "1250" weight = "10"></reward> 
+		<reward itemid = "24006" count = "1250" weight = "50"></reward> 
+		<reward itemid = "24007" count = "1250" weight = "50"></reward> 
+		<reward itemid = "24010" count = "1" weight = "200"></reward> 
+		<reward itemid = "28001" count = "2500" weight = "100"></reward> 
+		<reward itemid = "28201" count = "6250" weight = "100"></reward></order></data> 
+<data id = "6" name = "限时礼包6" des = "超值1000%" rechargeid = "6" >
+<cost itemid = "1008" count = "648"></cost> 
+	<order order = "1" >
+		<reward itemid = "1002" count = "7760" weight = "100"></reward></order> 
+	<order order = "2" >
+		<reward itemid = "1001" count = "7000000" weight = "100"></reward></order> 
+	<order order = "3" >
+		<reward itemid = "1000" count = "7000000" weight = "100"></reward></order> 
+	<order order = "4" >
+		<reward itemid = "26004" count = "6" weight = "100"></reward> 
+		<reward itemid = "26010" count = "6" weight = "100"></reward> 
+		<reward itemid = "26016" count = "6" weight = "100"></reward> 
+		<reward itemid = "26022" count = "6" weight = "100"></reward> 
+		<reward itemid = "26028" count = "6" weight = "100"></reward> 
+		<reward itemid = "26034" count = "6" weight = "100"></reward> 
+		<reward itemid = "26040" count = "6" weight = "100"></reward> 
+		<reward itemid = "26005" count = "1" weight = "50"></reward> 
+		<reward itemid = "26011" count = "1" weight = "50"></reward> 
+		<reward itemid = "26017" count = "1" weight = "50"></reward> 
+		<reward itemid = "26023" count = "1" weight = "50"></reward> 
+		<reward itemid = "26029" count = "1" weight = "50"></reward> 
+		<reward itemid = "26035" count = "1" weight = "50"></reward> 
+		<reward itemid = "26041" count = "1" weight = "50"></reward> 
+		<reward itemid = "24103" count = "180" weight = "60"></reward> 
+		<reward itemid = "24104" count = "90" weight = "75"></reward> 
+		<reward itemid = "24105" count = "70" weight = "15"></reward></order> 
+	<order order = "5" >
+		<reward itemid = "25401" count = "500" weight = "10"></reward> 
+		<reward itemid = "25402" count = "500" weight = "10"></reward> 
+		<reward itemid = "25403" count = "500" weight = "10"></reward> 
+		<reward itemid = "25404" count = "500" weight = "10"></reward> 
+		<reward itemid = "25405" count = "500" weight = "10"></reward> 
+		<reward itemid = "25406" count = "500" weight = "10"></reward> 
+		<reward itemid = "25407" count = "500" weight = "10"></reward> 
+		<reward itemid = "25408" count = "500" weight = "10"></reward> 
+		<reward itemid = "25409" count = "500" weight = "10"></reward> 
+		<reward itemid = "25410" count = "500" weight = "10"></reward> 
+		<reward itemid = "25501" count = "250" weight = "10"></reward> 
+		<reward itemid = "25502" count = "250" weight = "10"></reward> 
+		<reward itemid = "25503" count = "250" weight = "10"></reward> 
+		<reward itemid = "25504" count = "250" weight = "10"></reward> 
+		<reward itemid = "25505" count = "250" weight = "10"></reward> 
+		<reward itemid = "25506" count = "250" weight = "10"></reward> 
+		<reward itemid = "25507" count = "250" weight = "10"></reward> 
+		<reward itemid = "25508" count = "250" weight = "10"></reward> 
+		<reward itemid = "25509" count = "250" weight = "10"></reward> 
+		<reward itemid = "25510" count = "250" weight = "10"></reward> 
+		<reward itemid = "24005" count = "2000" weight = "10"></reward> 
+		<reward itemid = "24010" count = "3" weight = "200"></reward> 
+		<reward itemid = "28001" count = "5600" weight = "100"></reward> 
+		<reward itemid = "28201" count = "14000" weight = "100"></reward></order></data></data>

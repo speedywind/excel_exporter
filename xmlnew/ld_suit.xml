@@ -1,0 +1,656 @@
+<data>
+<data id = "1" name = "雄鹰" rare = "1" des = "雄鹰" >
+	<equips equipid = "15001"></equips> 
+	<equips equipid = "15002"></equips> 
+	<equips equipid = "15003"></equips> 
+	<effect count = "3" skill = "31001" skilllevel = "1"></effect></data> 
+<data id = "2" name = "支配" rare = "1" des = "支配" >
+	<equips equipid = "15004"></equips> 
+	<equips equipid = "15005"></equips> 
+	<equips equipid = "15006"></equips> 
+	<effect count = "3" skill = "31002" skilllevel = "1"></effect></data> 
+<data id = "3" name = "小佣兵的传奇" rare = "3" des = "小佣兵的传奇" >
+	<equips equipid = "15007"></equips> 
+	<equips equipid = "15008"></equips> 
+	<equips equipid = "15009"></equips> 
+	<effect count = "2" skill = "31003" skilllevel = "1"></effect> 
+	<effect count = "3" skill = "31004" skilllevel = "1"></effect></data> 
+<data id = "4" name = "透明" rare = "2" des = "透明" >
+	<equips equipid = "15010"></equips> 
+	<equips equipid = "15011"></equips> 
+	<equips equipid = "15012"></equips> 
+	<effect count = "3" skill = "31005" skilllevel = "1"></effect></data> 
+<data id = "5" name = "沙皇之怒" rare = "5" des = "沙皇之怒" >
+	<equips equipid = "15017"></equips> 
+	<equips equipid = "15018"></equips> 
+	<equips equipid = "15019"></equips> 
+	<effect count = "3" skill = "31006" skilllevel = "1"></effect></data> 
+<data id = "6" name = "天空" rare = "5" des = "天空" >
+	<equips equipid = "15020"></equips> 
+	<equips equipid = "15021"></equips> 
+	<equips equipid = "15022"></equips> 
+	<effect count = "3" skill = "31007" skilllevel = "1"></effect></data> 
+<data id = "7" name = "皇家" rare = "1" des = "皇家" >
+	<equips equipid = "15023"></equips> 
+	<equips equipid = "15024"></equips> 
+	<equips equipid = "15025"></equips> 
+	<effect count = "3" skill = "31008" skilllevel = "1"></effect></data> 
+<data id = "8" name = "测试衣服" rare = "6" des = "测试衣服" >
+	<equips equipid = "17001"></equips> 
+	<equips equipid = "17002"></equips> 
+	<equips equipid = "17003"></equips> 
+	<effect count = "3" skill = "31009" skilllevel = "1"></effect></data> 
+<data id = "9" name = "测试首饰" rare = "6" des = "测试首饰" >
+	<equips equipid = "17004"></equips> 
+	<equips equipid = "17005"></equips> 
+	<equips equipid = "17006"></equips> 
+	<effect count = "3" skill = "31010" skilllevel = "1"></effect></data> 
+<data id = "10" name = "测试称号" rare = "6" des = "测试称号" >
+	<equips equipid = "17007"></equips> 
+	<equips equipid = "17008"></equips> 
+	<equips equipid = "17009"></equips> 
+	<effect count = "3" skill = "31011" skilllevel = "1"></effect></data> 
+<data id = "11" name = "孤儿的呼唤" rare = "5" des = "孤儿的呼唤" >
+	<equips equipid = "15042"></equips> 
+	<equips equipid = "15043"></equips> 
+	<equips equipid = "15044"></equips> 
+	<equips equipid = "15045"></equips> 
+	<effect count = "2" skill = "31012" skilllevel = "1"></effect> 
+	<effect count = "3" skill = "31013" skilllevel = "1"></effect></data> 
+<data id = "12" name = "神之恩赐" rare = "4" des = "" >
+	<equips equipid = "12001"></equips> 
+	<equips equipid = "16001"></equips> 
+	<equips equipid = "16002"></equips> 
+	<equips equipid = "16003"></equips> 
+	<equips equipid = "16004"></equips> 
+	<equips equipid = "16005"></equips> 
+	<equips equipid = "16006"></equips> 
+	<effect count = "3" skill = "31015" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31016" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31017" skilllevel = "1"></effect></data> 
+<data id = "13" name = "开拓者" rare = "4" des = "" >
+	<equips equipid = "12002"></equips> 
+	<equips equipid = "16007"></equips> 
+	<equips equipid = "16008"></equips> 
+	<equips equipid = "16009"></equips> 
+	<equips equipid = "16010"></equips> 
+	<equips equipid = "16011"></equips> 
+	<equips equipid = "16012"></equips> 
+	<effect count = "3" skill = "31018" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31019" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31020" skilllevel = "1"></effect></data> 
+<data id = "14" name = "王者之风" rare = "4" des = "" >
+	<equips equipid = "12003"></equips> 
+	<equips equipid = "16013"></equips> 
+	<equips equipid = "16014"></equips> 
+	<equips equipid = "16015"></equips> 
+	<equips equipid = "16016"></equips> 
+	<equips equipid = "16017"></equips> 
+	<equips equipid = "16018"></equips> 
+	<effect count = "3" skill = "31021" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31021" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31022" skilllevel = "1"></effect></data> 
+<data id = "15" name = "鲜血渴望" rare = "4" des = "" >
+	<equips equipid = "12004"></equips> 
+	<equips equipid = "16019"></equips> 
+	<equips equipid = "16020"></equips> 
+	<equips equipid = "16021"></equips> 
+	<equips equipid = "16022"></equips> 
+	<equips equipid = "16023"></equips> 
+	<equips equipid = "16024"></equips> 
+	<effect count = "3" skill = "31023" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31024" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31025" skilllevel = "1"></effect></data> 
+<data id = "16" name = "无限强袭" rare = "4" des = "" >
+	<equips equipid = "12005"></equips> 
+	<equips equipid = "16025"></equips> 
+	<equips equipid = "16026"></equips> 
+	<equips equipid = "16027"></equips> 
+	<equips equipid = "16028"></equips> 
+	<equips equipid = "16029"></equips> 
+	<equips equipid = "16030"></equips> 
+	<effect count = "3" skill = "31026" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31027" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31028" skilllevel = "1"></effect></data> 
+<data id = "17" name = "杀意决" rare = "4" des = "" >
+	<equips equipid = "12006"></equips> 
+	<equips equipid = "16031"></equips> 
+	<equips equipid = "16032"></equips> 
+	<equips equipid = "16033"></equips> 
+	<equips equipid = "16034"></equips> 
+	<equips equipid = "16035"></equips> 
+	<equips equipid = "16036"></equips> 
+	<effect count = "3" skill = "31029" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31030" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31031" skilllevel = "1"></effect></data> 
+<data id = "18" name = "苍鹰之眸" rare = "4" des = "" >
+	<equips equipid = "12007"></equips> 
+	<equips equipid = "16037"></equips> 
+	<equips equipid = "16038"></equips> 
+	<equips equipid = "16039"></equips> 
+	<equips equipid = "16040"></equips> 
+	<equips equipid = "16041"></equips> 
+	<equips equipid = "16042"></equips> 
+	<effect count = "3" skill = "31032" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31033" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31034" skilllevel = "1"></effect></data> 
+<data id = "19" name = "风行者" rare = "4" des = "" >
+	<equips equipid = "12008"></equips> 
+	<equips equipid = "16043"></equips> 
+	<equips equipid = "16044"></equips> 
+	<equips equipid = "16045"></equips> 
+	<equips equipid = "16046"></equips> 
+	<equips equipid = "16047"></equips> 
+	<equips equipid = "16048"></equips> 
+	<effect count = "3" skill = "31035" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31036" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31037" skilllevel = "20"></effect></data> 
+<data id = "20" name = "上古神器" rare = "4" des = "" >
+	<equips equipid = "12009"></equips> 
+	<equips equipid = "16049"></equips> 
+	<equips equipid = "16050"></equips> 
+	<equips equipid = "16051"></equips> 
+	<equips equipid = "16052"></equips> 
+	<equips equipid = "16053"></equips> 
+	<equips equipid = "16054"></equips> 
+	<effect count = "3" skill = "31038" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31039" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31040" skilllevel = "1"></effect></data> 
+<data id = "21" name = "元素共鸣" rare = "4" des = "" >
+	<equips equipid = "12010"></equips> 
+	<equips equipid = "16055"></equips> 
+	<equips equipid = "16056"></equips> 
+	<equips equipid = "16057"></equips> 
+	<equips equipid = "16058"></equips> 
+	<equips equipid = "16059"></equips> 
+	<equips equipid = "16060"></equips> 
+	<effect count = "3" skill = "31041" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31042" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31043" skilllevel = "1"></effect></data> 
+<data id = "22" name = "奥术帝国" rare = "4" des = "" >
+	<equips equipid = "12011"></equips> 
+	<equips equipid = "16061"></equips> 
+	<equips equipid = "16062"></equips> 
+	<equips equipid = "16063"></equips> 
+	<equips equipid = "16064"></equips> 
+	<equips equipid = "16065"></equips> 
+	<equips equipid = "16066"></equips> 
+	<effect count = "3" skill = "31044" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31045" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31046" skilllevel = "1"></effect></data> 
+<data id = "23" name = "天劫之灾" rare = "4" des = "" >
+	<equips equipid = "12012"></equips> 
+	<equips equipid = "16067"></equips> 
+	<equips equipid = "16068"></equips> 
+	<equips equipid = "16069"></equips> 
+	<equips equipid = "16070"></equips> 
+	<equips equipid = "16071"></equips> 
+	<equips equipid = "16072"></equips> 
+	<effect count = "3" skill = "31047" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31048" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31049" skilllevel = "1"></effect></data> 
+<data id = "24" name = "混沌之源" rare = "4" des = "" >
+	<equips equipid = "12013"></equips> 
+	<equips equipid = "16073"></equips> 
+	<equips equipid = "16074"></equips> 
+	<equips equipid = "16075"></equips> 
+	<equips equipid = "16076"></equips> 
+	<equips equipid = "16077"></equips> 
+	<equips equipid = "16078"></equips> 
+	<effect count = "3" skill = "31050" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31051" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31052" skilllevel = "1"></effect></data> 
+<data id = "25" name = "末日天启" rare = "4" des = "" >
+	<equips equipid = "12014"></equips> 
+	<equips equipid = "16079"></equips> 
+	<equips equipid = "16080"></equips> 
+	<equips equipid = "16081"></equips> 
+	<equips equipid = "16082"></equips> 
+	<equips equipid = "16083"></equips> 
+	<equips equipid = "16084"></equips> 
+	<effect count = "3" skill = "31053" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31054" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31055" skilllevel = "1"></effect></data> 
+<data id = "26" name = "七宗罪" rare = "4" des = "" >
+	<equips equipid = "12015"></equips> 
+	<equips equipid = "16085"></equips> 
+	<equips equipid = "16086"></equips> 
+	<equips equipid = "16087"></equips> 
+	<equips equipid = "16088"></equips> 
+	<equips equipid = "16089"></equips> 
+	<equips equipid = "16090"></equips> 
+	<effect count = "3" skill = "31056" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31057" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31058" skilllevel = "1"></effect></data> 
+<data id = "27" name = "光明圣域" rare = "4" des = "" >
+	<equips equipid = "12016"></equips> 
+	<equips equipid = "16091"></equips> 
+	<equips equipid = "16092"></equips> 
+	<equips equipid = "16093"></equips> 
+	<equips equipid = "16094"></equips> 
+	<equips equipid = "16095"></equips> 
+	<equips equipid = "16096"></equips> 
+	<effect count = "3" skill = "31059" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31060" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31061" skilllevel = "1"></effect></data> 
+<data id = "28" name = "神圣祈祷者" rare = "4" des = "" >
+	<equips equipid = "12017"></equips> 
+	<equips equipid = "16097"></equips> 
+	<equips equipid = "16098"></equips> 
+	<equips equipid = "16099"></equips> 
+	<equips equipid = "16100"></equips> 
+	<equips equipid = "16101"></equips> 
+	<equips equipid = "16102"></equips> 
+	<effect count = "3" skill = "31062" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31063" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31064" skilllevel = "1"></effect></data> 
+<data id = "29" name = "天启" rare = "4" des = "" >
+	<equips equipid = "12018"></equips> 
+	<equips equipid = "16103"></equips> 
+	<equips equipid = "16104"></equips> 
+	<equips equipid = "16105"></equips> 
+	<equips equipid = "16106"></equips> 
+	<equips equipid = "16107"></equips> 
+	<equips equipid = "16108"></equips> 
+	<effect count = "3" skill = "31065" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31066" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31067" skilllevel = "1"></effect></data> 
+<data id = "30" name = "无尽杀机" rare = "4" des = "" >
+	<equips equipid = "12019"></equips> 
+	<equips equipid = "16109"></equips> 
+	<equips equipid = "16110"></equips> 
+	<equips equipid = "16111"></equips> 
+	<equips equipid = "16112"></equips> 
+	<equips equipid = "16113"></equips> 
+	<equips equipid = "16114"></equips> 
+	<effect count = "3" skill = "31068" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31069" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31070" skilllevel = "1"></effect></data> 
+<data id = "31" name = "地狱之炎" rare = "4" des = "" >
+	<equips equipid = "12020"></equips> 
+	<equips equipid = "16115"></equips> 
+	<equips equipid = "16116"></equips> 
+	<equips equipid = "16117"></equips> 
+	<equips equipid = "16118"></equips> 
+	<equips equipid = "16119"></equips> 
+	<equips equipid = "16120"></equips> 
+	<effect count = "3" skill = "31071" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31072" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31073" skilllevel = "1"></effect></data> 
+<data id = "32" name = "血祭" rare = "4" des = "" >
+	<equips equipid = "12021"></equips> 
+	<equips equipid = "16121"></equips> 
+	<equips equipid = "16122"></equips> 
+	<equips equipid = "16123"></equips> 
+	<equips equipid = "16124"></equips> 
+	<equips equipid = "16125"></equips> 
+	<equips equipid = "16126"></equips> 
+	<effect count = "3" skill = "31074" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31075" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31076" skilllevel = "1"></effect></data> 
+<data id = "33" name = "哀嚎的亡魂" rare = "4" des = "" >
+	<equips equipid = "12022"></equips> 
+	<equips equipid = "16127"></equips> 
+	<equips equipid = "16128"></equips> 
+	<equips equipid = "16129"></equips> 
+	<equips equipid = "16130"></equips> 
+	<equips equipid = "16131"></equips> 
+	<equips equipid = "16132"></equips> 
+	<effect count = "3" skill = "31077" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31078" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31079" skilllevel = "1"></effect></data> 
+<data id = "34" name = "狂热教徒" rare = "4" des = "" >
+	<equips equipid = "12023"></equips> 
+	<equips equipid = "16133"></equips> 
+	<equips equipid = "16134"></equips> 
+	<equips equipid = "16135"></equips> 
+	<equips equipid = "16136"></equips> 
+	<equips equipid = "16137"></equips> 
+	<equips equipid = "16138"></equips> 
+	<effect count = "3" skill = "31080" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31081" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31082" skilllevel = "1"></effect></data> 
+<data id = "35" name = "死者之悟" rare = "4" des = "" >
+	<equips equipid = "12024"></equips> 
+	<equips equipid = "16139"></equips> 
+	<equips equipid = "16140"></equips> 
+	<equips equipid = "16141"></equips> 
+	<equips equipid = "16142"></equips> 
+	<equips equipid = "16143"></equips> 
+	<equips equipid = "16144"></equips> 
+	<effect count = "3" skill = "31083" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31084" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31085" skilllevel = "1"></effect></data> 
+<data id = "36" name = "战地壁垒" rare = "4" des = "" >
+	<equips equipid = "12025"></equips> 
+	<equips equipid = "16145"></equips> 
+	<equips equipid = "16146"></equips> 
+	<equips equipid = "16147"></equips> 
+	<equips equipid = "16148"></equips> 
+	<equips equipid = "16149"></equips> 
+	<equips equipid = "16150"></equips> 
+	<effect count = "3" skill = "31086" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31087" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31088" skilllevel = "1"></effect></data> 
+<data id = "37" name = "复仇之盾" rare = "4" des = "" >
+	<equips equipid = "12026"></equips> 
+	<equips equipid = "16151"></equips> 
+	<equips equipid = "16152"></equips> 
+	<equips equipid = "16153"></equips> 
+	<equips equipid = "16154"></equips> 
+	<equips equipid = "16155"></equips> 
+	<equips equipid = "16156"></equips> 
+	<effect count = "3" skill = "31089" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31090" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31091" skilllevel = "1"></effect></data> 
+<data id = "38" name = "鲜血之护" rare = "4" des = "" >
+	<equips equipid = "12027"></equips> 
+	<equips equipid = "16157"></equips> 
+	<equips equipid = "16158"></equips> 
+	<equips equipid = "16159"></equips> 
+	<equips equipid = "16160"></equips> 
+	<equips equipid = "16161"></equips> 
+	<equips equipid = "16162"></equips> 
+	<effect count = "3" skill = "31092" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31093" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31094" skilllevel = "1"></effect></data> 
+<data id = "39" name = "漫长的旅途" rare = "4" des = "" >
+	<equips equipid = "12028"></equips> 
+	<equips equipid = "16163"></equips> 
+	<equips equipid = "16164"></equips> 
+	<equips equipid = "16165"></equips> 
+	<equips equipid = "16166"></equips> 
+	<equips equipid = "16167"></equips> 
+	<equips equipid = "16168"></equips> 
+	<effect count = "3" skill = "31095" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31096" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31097" skilllevel = "1"></effect></data> 
+<data id = "40" name = "华丽的表演" rare = "4" des = "" >
+	<equips equipid = "12029"></equips> 
+	<equips equipid = "16169"></equips> 
+	<equips equipid = "16170"></equips> 
+	<equips equipid = "16171"></equips> 
+	<equips equipid = "16172"></equips> 
+	<equips equipid = "16173"></equips> 
+	<equips equipid = "16174"></equips> 
+	<effect count = "3" skill = "31098" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31099" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31100" skilllevel = "1"></effect></data> 
+<data id = "41" name = "贤者的宝藏" rare = "4" des = "" >
+	<equips equipid = "12030"></equips> 
+	<equips equipid = "16175"></equips> 
+	<equips equipid = "16176"></equips> 
+	<equips equipid = "16177"></equips> 
+	<equips equipid = "16178"></equips> 
+	<equips equipid = "16179"></equips> 
+	<equips equipid = "16180"></equips> 
+	<effect count = "3" skill = "31101" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31102" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31103" skilllevel = "1"></effect></data> 
+<data id = "42" name = "斗者的轻甲" rare = "1" des = "" >
+	<equips equipid = "12101"></equips> 
+	<equips equipid = "16301"></equips> 
+	<equips equipid = "16302"></equips> 
+	<equips equipid = "16303"></equips> 
+	<equips equipid = "16304"></equips> 
+	<equips equipid = "16305"></equips> 
+	<equips equipid = "16306"></equips> 
+	<effect count = "3" skill = "31104" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31105" skilllevel = "1"></effect> 
+	<effect count = "7" skill = "31142" skilllevel = "1"></effect></data> 
+<data id = "43" name = "斗者的重甲" rare = "1" des = "" >
+	<equips equipid = "12102"></equips> 
+	<equips equipid = "16307"></equips> 
+	<equips equipid = "16308"></equips> 
+	<equips equipid = "16309"></equips> 
+	<equips equipid = "16310"></equips> 
+	<equips equipid = "16311"></equips> 
+	<equips equipid = "16312"></equips> 
+	<effect count = "3" skill = "31104" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31106" skilllevel = "1"></effect> 
+	<effect count = "7" skill = "31142" skilllevel = "1"></effect></data> 
+<data id = "44" name = "斗者的皮甲" rare = "1" des = "" >
+	<equips equipid = "12103"></equips> 
+	<equips equipid = "16313"></equips> 
+	<equips equipid = "16314"></equips> 
+	<equips equipid = "16315"></equips> 
+	<equips equipid = "16316"></equips> 
+	<equips equipid = "16317"></equips> 
+	<equips equipid = "16318"></equips> 
+	<effect count = "3" skill = "31104" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31107" skilllevel = "1"></effect> 
+	<effect count = "7" skill = "31142" skilllevel = "1"></effect></data> 
+<data id = "45" name = "斗者的板甲" rare = "1" des = "" >
+	<equips equipid = "12104"></equips> 
+	<equips equipid = "16319"></equips> 
+	<equips equipid = "16320"></equips> 
+	<equips equipid = "16321"></equips> 
+	<equips equipid = "16322"></equips> 
+	<equips equipid = "16323"></equips> 
+	<equips equipid = "16324"></equips> 
+	<effect count = "3" skill = "31104" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31108" skilllevel = "1"></effect> 
+	<effect count = "7" skill = "31142" skilllevel = "1"></effect></data> 
+<data id = "46" name = "斗者的软甲" rare = "1" des = "" >
+	<equips equipid = "12105"></equips> 
+	<equips equipid = "16325"></equips> 
+	<equips equipid = "16326"></equips> 
+	<equips equipid = "16327"></equips> 
+	<equips equipid = "16328"></equips> 
+	<equips equipid = "16329"></equips> 
+	<equips equipid = "16330"></equips> 
+	<effect count = "3" skill = "31104" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31109" skilllevel = "1"></effect> 
+	<effect count = "7" skill = "31142" skilllevel = "1"></effect></data> 
+<data id = "47" name = "斗者的布甲" rare = "1" des = "" >
+	<equips equipid = "12106"></equips> 
+	<equips equipid = "16331"></equips> 
+	<equips equipid = "16332"></equips> 
+	<equips equipid = "16333"></equips> 
+	<equips equipid = "16334"></equips> 
+	<equips equipid = "16335"></equips> 
+	<equips equipid = "16336"></equips> 
+	<effect count = "3" skill = "31104" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31110" skilllevel = "1"></effect> 
+	<effect count = "7" skill = "31142" skilllevel = "1"></effect></data> 
+<data id = "48" name = "斗者的练甲" rare = "1" des = "" >
+	<equips equipid = "12107"></equips> 
+	<equips equipid = "16337"></equips> 
+	<equips equipid = "16338"></equips> 
+	<equips equipid = "16339"></equips> 
+	<equips equipid = "16340"></equips> 
+	<equips equipid = "16341"></equips> 
+	<equips equipid = "16342"></equips> 
+	<effect count = "3" skill = "31104" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31111" skilllevel = "1"></effect> 
+	<effect count = "7" skill = "31142" skilllevel = "1"></effect></data> 
+<data id = "49" name = "聪聪君" rare = "5" des = "" >
+	<equips equipid = "11999"></equips> 
+	<equips equipid = "15101"></equips> 
+	<equips equipid = "15102"></equips> 
+	<equips equipid = "15103"></equips> 
+	<equips equipid = "15104"></equips> 
+	<equips equipid = "15105"></equips> 
+	<equips equipid = "15106"></equips> 
+	<equips equipid = "15107"></equips> 
+	<equips equipid = "15108"></equips> 
+	<effect count = "3" skill = "31112" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31113" skilllevel = "1"></effect> 
+	<effect count = "9" skill = "31114" skilllevel = "10"></effect></data> 
+<data id = "50" name = "大天使的祝福" rare = "5" des = "" >
+	<equips equipid = "15109"></equips> 
+	<equips equipid = "15110"></equips> 
+	<equips equipid = "15111"></equips> 
+	<equips equipid = "15112"></equips> 
+	<equips equipid = "15113"></equips> 
+	<equips equipid = "15114"></equips> 
+	<effect count = "3" skill = "31115" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31116" skilllevel = "1"></effect></data> 
+<data id = "51" name = "深渊领主" rare = "5" des = "" >
+	<equips equipid = "15115"></equips> 
+	<equips equipid = "15116"></equips> 
+	<equips equipid = "15117"></equips> 
+	<equips equipid = "15118"></equips> 
+	<equips equipid = "15119"></equips> 
+	<equips equipid = "15120"></equips> 
+	<effect count = "3" skill = "31117" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31118" skilllevel = "1"></effect></data> 
+<data id = "52" name = "龙王" rare = "5" des = "" >
+	<equips equipid = "15121"></equips> 
+	<equips equipid = "15122"></equips> 
+	<equips equipid = "15123"></equips> 
+	<equips equipid = "15124"></equips> 
+	<equips equipid = "15125"></equips> 
+	<equips equipid = "15126"></equips> 
+	<effect count = "3" skill = "31119" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31120" skilllevel = "1"></effect></data> 
+<data id = "53" name = "守望者" rare = "5" des = "" >
+	<equips equipid = "15127"></equips> 
+	<equips equipid = "15128"></equips> 
+	<equips equipid = "15129"></equips> 
+	<equips equipid = "15130"></equips> 
+	<equips equipid = "15131"></equips> 
+	<equips equipid = "15132"></equips> 
+	<effect count = "3" skill = "31121" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31122" skilllevel = "1"></effect></data> 
+<data id = "54" name = "合奏之章" rare = "5" des = "" >
+	<equips equipid = "15133"></equips> 
+	<equips equipid = "15134"></equips> 
+	<equips equipid = "15135"></equips> 
+	<equips equipid = "15136"></equips> 
+	<equips equipid = "15137"></equips> 
+	<equips equipid = "15138"></equips> 
+	<effect count = "3" skill = "31123" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31124" skilllevel = "1"></effect></data> 
+<data id = "55" name = "六天上帝" rare = "5" des = "" >
+	<equips equipid = "15139"></equips> 
+	<equips equipid = "15140"></equips> 
+	<equips equipid = "15141"></equips> 
+	<equips equipid = "15142"></equips> 
+	<equips equipid = "15143"></equips> 
+	<equips equipid = "15144"></equips> 
+	<effect count = "3" skill = "31125" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31126" skilllevel = "1"></effect></data> 
+<data id = "56" name = "巨人王" rare = "5" des = "" >
+	<equips equipid = "15145"></equips> 
+	<equips equipid = "15146"></equips> 
+	<equips equipid = "15147"></equips> 
+	<equips equipid = "15148"></equips> 
+	<equips equipid = "15149"></equips> 
+	<equips equipid = "15150"></equips> 
+	<effect count = "3" skill = "31127" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31128" skilllevel = "1"></effect></data> 
+<data id = "57" name = "命运之轮" rare = "5" des = "" >
+	<equips equipid = "15151"></equips> 
+	<equips equipid = "15152"></equips> 
+	<equips equipid = "15153"></equips> 
+	<equips equipid = "15154"></equips> 
+	<equips equipid = "15155"></equips> 
+	<equips equipid = "15156"></equips> 
+	<effect count = "3" skill = "31129" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31130" skilllevel = "1"></effect></data> 
+<data id = "58" name = "兽神的赐福" rare = "5" des = "" >
+	<equips equipid = "15157"></equips> 
+	<equips equipid = "15158"></equips> 
+	<equips equipid = "15159"></equips> 
+	<equips equipid = "15160"></equips> 
+	<equips equipid = "15161"></equips> 
+	<equips equipid = "15162"></equips> 
+	<effect count = "3" skill = "31131" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31132" skilllevel = "1"></effect></data> 
+<data id = "59" name = "斯托拉斯" rare = "5" des = "" >
+	<equips equipid = "15048"></equips> 
+	<equips equipid = "15049"></equips> 
+	<equips equipid = "15050"></equips> 
+	<effect count = "2" skill = "31133" skilllevel = "1"></effect> 
+	<effect count = "3" skill = "31134" skilllevel = "1"></effect></data> 
+<data id = "60" name = "波动之赐" rare = "5" des = "" >
+	<equips equipid = "15051"></equips> 
+	<equips equipid = "15052"></equips> 
+	<equips equipid = "15053"></equips> 
+	<effect count = "3" skill = "31135" skilllevel = "1"></effect></data> 
+<data id = "61" name = "角斗士的护卫" rare = "5" des = "" >
+	<equips equipid = "15163"></equips> 
+	<equips equipid = "15164"></equips> 
+	<equips equipid = "15165"></equips> 
+	<effect count = "2" skill = "31139" skilllevel = "1"></effect> 
+	<effect count = "3" skill = "31140" skilllevel = "1"></effect></data> 
+<data id = "62" name = "角斗士的信仰" rare = "5" des = "" >
+	<equips equipid = "15166"></equips> 
+	<equips equipid = "15167"></equips> 
+	<equips equipid = "15168"></equips> 
+	<effect count = "3" skill = "31141" skilllevel = "1"></effect></data> 
+<data id = "63" name = "牛头人之怒" rare = "5" des = "" >
+	<equips equipid = "15076"></equips> 
+	<equips equipid = "15077"></equips> 
+	<equips equipid = "15078"></equips> 
+	<effect count = "3" skill = "31135" skilllevel = "1"></effect></data> 
+<data id = "64" name = "大银哥" rare = "5" des = "" >
+	<equips equipid = "15175"></equips> 
+	<equips equipid = "15176"></equips> 
+	<equips equipid = "15177"></equips> 
+	<effect count = "3" skill = "31143" skilllevel = "1"></effect></data> 
+<data id = "65" name = "黑龙" rare = "5" des = "" >
+	<equips equipid = "15178"></equips> 
+	<equips equipid = "15179"></equips> 
+	<equips equipid = "15180"></equips> 
+	<effect count = "2" skill = "31144" skilllevel = "1"></effect> 
+	<effect count = "3" skill = "31145" skilllevel = "1"></effect></data> 
+<data id = "66" name = "七彩之雾" rare = "5" des = "" >
+	<equips equipid = "15181"></equips> 
+	<equips equipid = "15182"></equips> 
+	<equips equipid = "15183"></equips> 
+	<equips equipid = "15184"></equips> 
+	<equips equipid = "15185"></equips> 
+	<equips equipid = "15186"></equips> 
+	<effect count = "3" skill = "31146" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31147" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31150" skilllevel = "1"></effect></data> 
+<data id = "67" name = "狂暴之流" rare = "5" des = "" >
+	<equips equipid = "15187"></equips> 
+	<equips equipid = "15188"></equips> 
+	<equips equipid = "15189"></equips> 
+	<equips equipid = "15190"></equips> 
+	<equips equipid = "15191"></equips> 
+	<equips equipid = "15192"></equips> 
+	<effect count = "3" skill = "31148" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31149" skilllevel = "1"></effect></data> 
+<data id = "68" name = "城会玩" rare = "5" des = "" >
+	<equips equipid = "10050"></equips> 
+	<equips equipid = "15082"></equips> 
+	<equips equipid = "15083"></equips> 
+	<effect count = "2" skill = "31134" skilllevel = "1"></effect> 
+	<effect count = "3" skill = "31133" skilllevel = "1"></effect></data> 
+<data id = "69" name = "又得卖肾" rare = "5" des = "" >
+	<equips equipid = "15088"></equips> 
+	<equips equipid = "15089"></equips> 
+	<effect count = "2" skill = "31134" skilllevel = "1"></effect></data> 
+<data id = "70" name = "迷之醉" rare = "5" des = "" >
+	<equips equipid = "10054"></equips> 
+	<equips equipid = "15090"></equips> 
+	<equips equipid = "15091"></equips> 
+	<effect count = "2" skill = "31152" skilllevel = "1"></effect> 
+	<effect count = "3" skill = "31153" skilllevel = "1"></effect></data> 
+<data id = "71" name = "冰天雪地" rare = "5" des = "" >
+	<equips equipid = "10055"></equips> 
+	<equips equipid = "15094"></equips> 
+	<equips equipid = "15093"></equips> 
+	<effect count = "2" skill = "30092" skilllevel = "1"></effect> 
+	<effect count = "3" skill = "31153" skilllevel = "1"></effect></data> 
+<data id = "74" name = "角斗士的荣耀" rare = "5" des = "" >
+	<equips equipid = "10056"></equips> 
+	<equips equipid = "15096"></equips> 
+	<equips equipid = "15097"></equips> 
+	<effect count = "2" skill = "30093" skilllevel = "1"></effect> 
+	<effect count = "3" skill = "30094" skilllevel = "1"></effect></data> 
+<data id = "75" name = "至尊帝王" rare = "6" des = "" >
+	<equips equipid = "15201"></equips> 
+	<equips equipid = "15202"></equips> 
+	<equips equipid = "15203"></equips> 
+	<equips equipid = "15204"></equips> 
+	<equips equipid = "15205"></equips> 
+	<equips equipid = "15206"></equips> 
+	<effect count = "3" skill = "31158" skilllevel = "1"></effect> 
+	<effect count = "4" skill = "31155" skilllevel = "1"></effect> 
+	<effect count = "5" skill = "31156" skilllevel = "1"></effect> 
+	<effect count = "6" skill = "31157" skilllevel = "1"></effect></data></data>

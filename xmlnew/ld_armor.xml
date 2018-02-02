@@ -1,0 +1,1610 @@
+<data>
+<data id = "15001" ilevel = "10" irare = "1" level = "10" kind = "0" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "雄鹰之防暴头盔" handbook = "1" rare = "1"></list></data> 
+<data id = "15002" ilevel = "10" irare = "1" level = "10" kind = "0" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "雄鹰之链甲外套" handbook = "1" rare = "1"></list></data> 
+<data id = "15003" ilevel = "10" irare = "1" level = "10" kind = "0" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "雄鹰之真皮护腿" handbook = "1" rare = "1"></list></data> 
+<data id = "15004" ilevel = "20" irare = "1" level = "20" kind = "0" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "支配之眼" handbook = "1" rare = "1"></list></data> 
+<data id = "15005" ilevel = "20" irare = "1" level = "20" kind = "0" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "支配礼服" handbook = "1" rare = "1"></list></data> 
+<data id = "15006" ilevel = "20" irare = "1" level = "20" kind = "0" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "支配钢胫" handbook = "1" rare = "1"></list></data> 
+<data id = "15007" ilevel = "10" irare = "3" level = "10" kind = "0" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "小佣兵的传奇凝视" handbook = "1" rare = "3"></list></data> 
+<data id = "15008" ilevel = "20" irare = "3" level = "20" kind = "0" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "小佣兵的传奇之拥" handbook = "1" rare = "3"></list></data> 
+<data id = "15009" ilevel = "30" irare = "3" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "小佣兵的传奇之踵" handbook = "1" rare = "3"></list></data> 
+<data id = "15010" ilevel = "10" irare = "2" level = "10" kind = "0" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "无限穿透目镜" handbook = "1" rare = "2"></list></data> 
+<data id = "15011" ilevel = "20" irare = "2" level = "20" kind = "0" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "皇帝新衣" handbook = "1" rare = "2"></list></data> 
+<data id = "15012" ilevel = "20" irare = "3" level = "20" kind = "0" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "真空腿" handbook = "1" rare = "3"></list></data> 
+<data id = "15013" ilevel = "20" irare = "2" level = "20" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "旅途的起点" handbook = "1" rare = "2"></list></data> 
+<data id = "15014" ilevel = "30" irare = "3" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "血腥杀戮风暴" handbook = "1" rare = "3"></list></data> 
+<data id = "15015" ilevel = "30" irare = "3" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "刚毅的精灵" handbook = "1" rare = "3"></list></data> 
+<data id = "15016" ilevel = "30" irare = "2" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "坚强的依靠" handbook = "1" rare = "2"></list></data> 
+<data id = "15017" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "法老之扣" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "欧贝里斯克之扣" handbook = "1" rare = "6"></list></data> 
+<data id = "15018" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "先祖之魂" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "欧西里斯之魂" handbook = "1" rare = "6"></list></data> 
+<data id = "15019" ilevel = "40" irare = "5" level = "40" kind = "1" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "石沙之缚" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "太阳神的不死束缚" handbook = "1" rare = "6"></list></data> 
+<data id = "15020" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "天穹伊欧斯" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "天邪恐惧伊欧斯" handbook = "1" rare = "6"></list></data> 
+<data id = "15021" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "风扬蓝波斯" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "抹灭灵魂蓝波斯" handbook = "1" rare = "6"></list></data> 
+<data id = "15022" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "地覆戈涅斯" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "邪恶化身戈涅斯" handbook = "1" rare = "6"></list></data> 
+<data id = "15023" ilevel = "30" irare = "1" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "灵魂碎裂" handbook = "1" rare = "1"></list></data> 
+<data id = "15024" ilevel = "30" irare = "1" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "天空之炎" handbook = "1" rare = "1"></list></data> 
+<data id = "15025" ilevel = "40" irare = "1" level = "40" kind = "0" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "皇家金手镯" handbook = "1" rare = "1"></list></data> 
+<data id = "15026" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "18" >
+	<list order = "1" name = "[火生]彩虹刻面" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "[火生]彩虹刻面" handbook = "1" rare = "6"></list></data> 
+<data id = "15027" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "18" >
+	<list order = "1" name = "[冰生]彩虹刻面" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "[冰生]彩虹刻面" handbook = "1" rare = "6"></list></data> 
+<data id = "15028" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "18" >
+	<list order = "1" name = "[光生]彩虹刻面" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "[光生]彩虹刻面" handbook = "1" rare = "6"></list></data> 
+<data id = "15029" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "18" >
+	<list order = "1" name = "[暗生]彩虹刻面" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "[暗生]彩虹刻面" handbook = "1" rare = "6"></list></data> 
+<data id = "15030" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "18" >
+	<list order = "1" name = "[火死]彩虹刻面" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "[火死]彩虹刻面" handbook = "1" rare = "6"></list></data> 
+<data id = "15031" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "18" >
+	<list order = "1" name = "[冰死]彩虹刻面" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "[冰死]彩虹刻面" handbook = "1" rare = "6"></list></data> 
+<data id = "15032" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "18" >
+	<list order = "1" name = "[光死]彩虹刻面" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "[光死]彩虹刻面" handbook = "1" rare = "6"></list></data> 
+<data id = "15033" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "18" >
+	<list order = "1" name = "[暗死]彩虹刻面" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "[暗死]彩虹刻面" handbook = "1" rare = "6"></list></data> 
+<data id = "15034" ilevel = "40" irare = "5" level = "40" kind = "1" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "迪勒瑞姆" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "迪勒瑞姆[精锐]" handbook = "1" rare = "6"></list></data> 
+<data id = "15035" ilevel = "40" irare = "5" level = "40" kind = "1" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "刚毅" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "刚毅[精锐]" handbook = "1" rare = "6"></list></data> 
+<data id = "15036" ilevel = "40" irare = "5" level = "40" kind = "0" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "梦境之甲" handbook = "1" rare = "5"></list></data> 
+<data id = "15037" ilevel = "40" irare = "5" level = "40" kind = "0" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "梦境之盔" handbook = "1" rare = "5"></list></data> 
+<data id = "15038" ilevel = "40" irare = "5" level = "40" kind = "1" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "恶魔之赐" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "恶魔之赐[精锐]" handbook = "1" rare = "6"></list></data> 
+<data id = "15039" ilevel = "40" irare = "6" level = "40" kind = "0" heroid = "0" author = "官方游戏制作人" type = "18" >
+	<list order = "1" name = "地狱火炬" handbook = "0" rare = "6"></list></data> 
+<data id = "15040" ilevel = "40" irare = "5" level = "40" kind = "0" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "维特的第三条腿" handbook = "0" rare = "5"></list></data> 
+<data id = "15041" ilevel = "60" irare = "6" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "17" >
+	<list order = "1" name = "Bug+7护身符" handbook = "0" rare = "6"></list></data> 
+<data id = "15042" ilevel = "40" irare = "5" level = "10" kind = "1" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "吉永之脸" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "吉永之脸[精锐]" handbook = "1" rare = "6"></list></data> 
+<data id = "15043" ilevel = "40" irare = "5" level = "10" kind = "1" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "威廉的自尊" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "威廉的自尊[精锐]" handbook = "1" rare = "6"></list></data> 
+<data id = "15044" ilevel = "40" irare = "6" level = "40" kind = "1" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "马格纳斯之皮" handbook = "1" rare = "6"></list> 
+	<list order = "2" name = "马格纳斯之皮[精锐]" handbook = "1" rare = "6"></list></data> 
+<data id = "15045" ilevel = "40" irare = "6" level = "40" kind = "1" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "惠斯坦武装之戒" handbook = "1" rare = "6"></list> 
+	<list order = "2" name = "惠斯坦武装之戒[精锐]" handbook = "1" rare = "6"></list></data> 
+<data id = "15046" ilevel = "20" irare = "3" level = "20" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "初级打铁匠" handbook = "1" rare = "3"></list></data> 
+<data id = "15047" ilevel = "30" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "打铁之王" handbook = "1" rare = "5"></list></data> 
+<data id = "15048" ilevel = "30" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "斯托拉斯魂" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "无限斯托拉斯魂" handbook = "1" rare = "6"></list></data> 
+<data id = "15049" ilevel = "30" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "斯托拉斯壁" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "无限斯托拉斯壁" handbook = "1" rare = "6"></list></data> 
+<data id = "15050" ilevel = "30" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "斯托拉斯炎" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "无限斯托拉斯炎" handbook = "1" rare = "6"></list></data> 
+<data id = "15051" ilevel = "50" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "波澜" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "无限波澜" handbook = "1" rare = "6"></list></data> 
+<data id = "15052" ilevel = "50" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "水纹" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "无限水纹" handbook = "1" rare = "6"></list></data> 
+<data id = "15053" ilevel = "50" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "怒涛" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "无限怒涛" handbook = "1" rare = "6"></list></data> 
+<data id = "15054" ilevel = "60" irare = "6" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "太阳" handbook = "1" rare = "5"></list></data> 
+<data id = "15055" ilevel = "60" irare = "6" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "月亮" handbook = "1" rare = "5"></list></data> 
+<data id = "15056" ilevel = "60" irare = "6" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "恶魔" handbook = "1" rare = "5"></list></data> 
+<data id = "15057" ilevel = "60" irare = "6" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "天使" handbook = "1" rare = "5"></list></data> 
+<data id = "15058" ilevel = "60" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "白羊座" handbook = "1" rare = "4"></list></data> 
+<data id = "15059" ilevel = "60" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "金牛座" handbook = "1" rare = "4"></list></data> 
+<data id = "15060" ilevel = "60" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "双子座" handbook = "1" rare = "4"></list></data> 
+<data id = "15061" ilevel = "60" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "巨蟹座" handbook = "1" rare = "4"></list></data> 
+<data id = "15062" ilevel = "60" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "狮子座" handbook = "1" rare = "4"></list></data> 
+<data id = "15063" ilevel = "60" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "处女座" handbook = "1" rare = "4"></list></data> 
+<data id = "15064" ilevel = "60" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "天秤座" handbook = "1" rare = "4"></list></data> 
+<data id = "15065" ilevel = "60" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "天蝎座" handbook = "1" rare = "4"></list></data> 
+<data id = "15066" ilevel = "60" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "射手座" handbook = "1" rare = "4"></list></data> 
+<data id = "15067" ilevel = "60" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "摩羯座" handbook = "1" rare = "4"></list></data> 
+<data id = "15068" ilevel = "60" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "水瓶座" handbook = "1" rare = "4"></list></data> 
+<data id = "15069" ilevel = "60" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "双鱼座" handbook = "1" rare = "4"></list></data> 
+<data id = "15070" ilevel = "60" irare = "2" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "烈火骑士" handbook = "1" rare = "3"></list></data> 
+<data id = "15071" ilevel = "60" irare = "2" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "厚土骑士" handbook = "1" rare = "3"></list></data> 
+<data id = "15072" ilevel = "60" irare = "2" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "疾风骑士" handbook = "1" rare = "3"></list></data> 
+<data id = "15073" ilevel = "60" irare = "2" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "壬水骑士" handbook = "1" rare = "3"></list></data> 
+<data id = "15074" ilevel = "30" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "泳池之星" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "海滨之星" handbook = "1" rare = "5"></list></data> 
+<data id = "15075" ilevel = "30" irare = "5" level = "30" kind = "0" heroid = "0" author = "一根老油条,猴叽猴叽,花花,聪聪君(假)" type = "17" >
+	<list order = "1" name = "一根猴吃的葱花油条" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "一根猴吃的葱花油条" handbook = "1" rare = "6"></list></data> 
+<data id = "15076" ilevel = "20" irare = "5" level = "20" kind = "0" heroid = "0" author = "折戟，NGA众玩家" type = "16" >
+	<list order = "1" name = "恩底弥翁的启示" handbook = "1" rare = "3"></list> 
+	<list order = "2" name = "恩底弥翁的启示" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "恩底弥翁的启示" handbook = "1" rare = "5"></list></data> 
+<data id = "15077" ilevel = "20" irare = "5" level = "20" kind = "0" heroid = "0" author = "折戟，NGA众玩家" type = "15" >
+	<list order = "1" name = "基基米的指引" handbook = "1" rare = "3"></list> 
+	<list order = "2" name = "基基米的指引" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "基基米的指引" handbook = "1" rare = "5"></list></data> 
+<data id = "15078" ilevel = "20" irare = "5" level = "20" kind = "0" heroid = "0" author = "折戟，NGA众玩家" type = "14" >
+	<list order = "1" name = "爱依希铁露的气息" handbook = "1" rare = "3"></list> 
+	<list order = "2" name = "爱依希铁露的气息" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "爱依希铁露的气息" handbook = "1" rare = "5"></list></data> 
+<data id = "15079" ilevel = "30" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "沙漠风爆" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "沙漠核爆" handbook = "1" rare = "5"></list></data> 
+<data id = "15080" ilevel = "60" irare = "6" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "至尊帝王" handbook = "1" rare = "6"></list></data> 
+<data id = "15081" ilevel = "30" irare = "4" level = "30" kind = "0" heroid = "0" author = "垃圾邮件，白金之星" type = "18" >
+	<list order = "1" name = "炼金术师怀表" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "炼金术师怀表" handbook = "1" rare = "5"></list></data> 
+<data id = "15082" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "国服第一智障，变巨" type = "17" >
+	<list order = "1" name = "智障阿姨的触手" handbook = "0" rare = "5"></list> 
+	<list order = "2" name = "智障阿姨的触手" handbook = "0" rare = "6"></list></data> 
+<data id = "15083" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "万事屋蓝调，二牛" type = "18" >
+	<list order = "1" name = "万事屋的小黄花" handbook = "0" rare = "5"></list> 
+	<list order = "2" name = "万事屋的小黄花" handbook = "0" rare = "6"></list></data> 
+<data id = "15084" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "枫九道" type = "18" >
+	<list order = "1" name = "枫九道的痛苦绝望" handbook = "0" rare = "5"></list> 
+	<list order = "2" name = "永不陷落的迪芬德" handbook = "0" rare = "6"></list></data> 
+<data id = "15085" ilevel = "30" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "天际霓虹" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "苍穹彩练" handbook = "1" rare = "5"></list></data> 
+<data id = "15086" ilevel = "30" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "流星火雨" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "飞火流星" handbook = "1" rare = "5"></list></data> 
+<data id = "15087" ilevel = "30" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "极寒之冰" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "极寒之心" handbook = "1" rare = "5"></list></data> 
+<data id = "15088" ilevel = "30" irare = "5" level = "30" kind = "0" heroid = "0" author = "折戟" type = "18" >
+	<list order = "1" name = "苹果10袋" handbook = "0" rare = "5"></list> 
+	<list order = "2" name = "苹果10袋+20" handbook = "0" rare = "6"></list></data> 
+<data id = "15089" ilevel = "30" irare = "5" level = "30" kind = "0" heroid = "0" author = "折戟" type = "17" >
+	<list order = "1" name = "摔不烂的手机" handbook = "0" rare = "5"></list> 
+	<list order = "2" name = "摔不烂的手机+20" handbook = "0" rare = "6"></list></data> 
+<data id = "15090" ilevel = "30" irare = "5" level = "30" kind = "0" heroid = "0" author = "一将难求丶" type = "18" >
+	<list order = "1" name = "玲珑塔" handbook = "0" rare = "5"></list> 
+	<list order = "2" name = "迷宗玲珑塔" handbook = "0" rare = "6"></list></data> 
+<data id = "15091" ilevel = "30" irare = "5" level = "30" kind = "0" heroid = "0" author = "一将难求丶" type = "17" >
+	<list order = "1" name = "锁魂钵" handbook = "0" rare = "5"></list> 
+	<list order = "2" name = "迷宗锁魂钵" handbook = "0" rare = "6"></list></data> 
+<data id = "15092" ilevel = "10" irare = "4" level = "10" kind = "0" heroid = "0" author = "卫青青" type = "17" >
+	<list order = "1" name = "卫青青的祝福" handbook = "0" rare = "4"></list></data> 
+<data id = "15093" ilevel = "30" irare = "5" level = "30" kind = "0" heroid = "0" author = "骑姐" type = "17" >
+	<list order = "1" name = "骑姐护符" handbook = "0" rare = "5"></list> 
+	<list order = "2" name = "骑姐的迷踪护符" handbook = "0" rare = "6"></list></data> 
+<data id = "15094" ilevel = "30" irare = "5" level = "30" kind = "0" heroid = "0" author = "骑姐" type = "18" >
+	<list order = "1" name = "骑姐之饰" handbook = "0" rare = "5"></list> 
+	<list order = "2" name = "骑姐的迷踪之饰" handbook = "0" rare = "6"></list></data> 
+<data id = "15095" ilevel = "30" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "紫色闪电" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "染血雷云" handbook = "1" rare = "5"></list></data> 
+<data id = "15096" ilevel = "20" irare = "4" level = "20" kind = "0" heroid = "0" author = "官方游戏制作人" type = "17" >
+	<list order = "1" name = "角斗士的护符" handbook = "1" rare = "2"></list> 
+	<list order = "2" name = "角斗士的信仰" handbook = "1" rare = "3"></list> 
+	<list order = "3" name = "角斗士的不灭决心" handbook = "1" rare = "3"></list></data> 
+<data id = "15097" ilevel = "20" irare = "4" level = "20" kind = "0" heroid = "0" author = "官方游戏制作人" type = "18" >
+	<list order = "1" name = "角斗士的挂饰" handbook = "1" rare = "2"></list> 
+	<list order = "2" name = "角斗士的心境" handbook = "1" rare = "3"></list> 
+	<list order = "3" name = "角斗士的命运" handbook = "1" rare = "3"></list></data> 
+<data id = "15098" ilevel = "30" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "光明之心" handbook = "0" rare = "5"></list> 
+	<list order = "2" name = "圣光之心" handbook = "0" rare = "5"></list></data> 
+<data id = "15099" ilevel = "30" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "暗黑之心" handbook = "0" rare = "5"></list> 
+	<list order = "2" name = "幽暗之心" handbook = "0" rare = "5"></list></data> 
+<data id = "15100" ilevel = "30" irare = "5" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "19" >
+	<list order = "1" name = "大地守护" handbook = "0" rare = "5"></list> 
+	<list order = "2" name = "永恒守护" handbook = "0" rare = "5"></list></data> 
+<data id = "15101" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "聪聪君" type = "11" >
+	<list order = "1" name = "聪聪君的方方盔" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "聪聪君的方方方盔" handbook = "1" rare = "6"></list></data> 
+<data id = "15102" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "聪聪君" type = "12" >
+	<list order = "1" name = "聪聪君的帅帅甲" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "聪聪君的帅气战甲" handbook = "1" rare = "6"></list></data> 
+<data id = "15103" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "聪聪君" type = "13" >
+	<list order = "1" name = "聪聪君的滑滑鞋" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "聪聪君的滑滑滑鞋" handbook = "1" rare = "6"></list></data> 
+<data id = "15104" ilevel = "30" irare = "5" level = "40" kind = "1" heroid = "0" author = "聪聪君" type = "14" >
+	<list order = "1" name = "聪聪君的回忆" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "聪聪君的深情回忆" handbook = "1" rare = "6"></list></data> 
+<data id = "15105" ilevel = "30" irare = "5" level = "40" kind = "1" heroid = "0" author = "聪聪君" type = "15" >
+	<list order = "1" name = "聪聪君的花环" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "聪聪君的五彩花环" handbook = "1" rare = "6"></list></data> 
+<data id = "15106" ilevel = "30" irare = "5" level = "40" kind = "1" heroid = "0" author = "聪聪君" type = "16" >
+	<list order = "1" name = "聪聪君的疯狂" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "聪聪君的迷之疯狂" handbook = "1" rare = "6"></list></data> 
+<data id = "15107" ilevel = "30" irare = "5" level = "50" kind = "1" heroid = "0" author = "聪聪君" type = "17" >
+	<list order = "1" name = "聪聪君的战士之饰" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "聪聪君的战神之饰" handbook = "1" rare = "6"></list></data> 
+<data id = "15108" ilevel = "30" irare = "5" level = "50" kind = "1" heroid = "0" author = "聪聪君" type = "18" >
+	<list order = "1" name = "聪聪君的玉佩" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "聪聪君的非酋玉佩" handbook = "1" rare = "6"></list></data> 
+<data id = "15109" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "米迦勒的慈悲" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "圣·米迦勒的慈悲" handbook = "1" rare = "6"></list></data> 
+<data id = "15110" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "拉斐尔的治愈" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "圣·拉斐尔的治愈" handbook = "1" rare = "6"></list></data> 
+<data id = "15111" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "加百列的守护" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "圣·加百列的守护" handbook = "1" rare = "6"></list></data> 
+<data id = "15112" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "雷米尔的指引" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "圣·雷米尔的指引" handbook = "1" rare = "6"></list></data> 
+<data id = "15113" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "米达伦的教导" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "圣·米达伦的教导" handbook = "1" rare = "6"></list></data> 
+<data id = "15114" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "乌利尔的审判" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "圣·乌利尔的审判" handbook = "1" rare = "6"></list></data> 
+<data id = "15115" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "骷髅之冠" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "恶魔头骨" handbook = "1" rare = "6"></list></data> 
+<data id = "15116" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "骨龙之躯" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "魔龙枯骨" handbook = "1" rare = "6"></list></data> 
+<data id = "15117" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "憎恶之足" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "溃烂之足" handbook = "1" rare = "6"></list></data> 
+<data id = "15118" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "火焰之魂" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "炎魔之魂" handbook = "1" rare = "6"></list></data> 
+<data id = "15119" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "永冬之匣" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "巫妖之匣" handbook = "1" rare = "6"></list></data> 
+<data id = "15120" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "堕天使之翼" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "死亡天使" handbook = "1" rare = "6"></list></data> 
+<data id = "15121" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "九头龙王头盔" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "修吉的龙王头盔" handbook = "1" rare = "6"></list></data> 
+<data id = "15122" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "大力龙王铠甲" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "摩那斯的龙王铠甲" handbook = "1" rare = "6"></list></data> 
+<data id = "15123" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "青莲龙王护靴" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "优婆罗的龙王护靴" handbook = "1" rare = "6"></list></data> 
+<data id = "15124" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "欢喜龙王戒指" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "难陀的龙王戒指" handbook = "1" rare = "6"></list></data> 
+<data id = "15125" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "海龙王项链" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "沙迦罗的龙王项链" handbook = "1" rare = "6"></list></data> 
+<data id = "15126" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "毒龙王手镯" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "德叉伽的龙王手镯" handbook = "1" rare = "6"></list></data> 
+<data id = "15127" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "暗杀者" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "鬼魅暗杀" handbook = "1" rare = "6"></list></data> 
+<data id = "15128" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "守护者" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "烈阳守护" handbook = "1" rare = "6"></list></data> 
+<data id = "15129" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "苦修者" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "神圣苦修" handbook = "1" rare = "6"></list></data> 
+<data id = "15130" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "狩猎者" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "荒野狩猎" handbook = "1" rare = "6"></list></data> 
+<data id = "15131" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "祈求者" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "光芒祈求" handbook = "1" rare = "6"></list></data> 
+<data id = "15132" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "传承者" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "鲜血传承" handbook = "1" rare = "6"></list></data> 
+<data id = "15133" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "挥剑斩断万里空" type = "11" >
+	<list order = "1" name = "交响曲" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "命运交响曲" handbook = "1" rare = "6"></list></data> 
+<data id = "15134" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "挥剑斩断万里空" type = "12" >
+	<list order = "1" name = "协奏曲" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "灵魂协奏曲" handbook = "1" rare = "6"></list></data> 
+<data id = "15135" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "挥剑斩断万里空" type = "13" >
+	<list order = "1" name = "圆舞曲" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "晓月圆舞曲" handbook = "1" rare = "6"></list></data> 
+<data id = "15136" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "挥剑斩断万里空" type = "14" >
+	<list order = "1" name = "狂想曲" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "Spain狂想曲" handbook = "1" rare = "6"></list></data> 
+<data id = "15137" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "挥剑斩断万里空" type = "15" >
+	<list order = "1" name = "幻想曲" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "Hungary幻想曲" handbook = "1" rare = "6"></list></data> 
+<data id = "15138" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "挥剑斩断万里空" type = "16" >
+	<list order = "1" name = "随想曲" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "Italy随想曲" handbook = "1" rare = "6"></list></data> 
+<data id = "15139" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "天帝战盔" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "昊天盔" handbook = "1" rare = "6"></list></data> 
+<data id = "15140" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "黄帝战甲" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "轩辕甲" handbook = "1" rare = "6"></list></data> 
+<data id = "15141" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "炎帝战靴" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "神农靴" handbook = "1" rare = "6"></list></data> 
+<data id = "15142" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "青帝戒指" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "伏羲戒" handbook = "1" rare = "6"></list></data> 
+<data id = "15143" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "黑帝项链" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "颛顼链" handbook = "1" rare = "6"></list></data> 
+<data id = "15144" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "白帝手镯" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "少昊环" handbook = "1" rare = "6"></list></data> 
+<data id = "15145" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "奥术核心" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "奥术巨人心眼" handbook = "1" rare = "6"></list></data> 
+<data id = "15146" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "黄金动力炉" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "黄金巨人核心" handbook = "1" rare = "6"></list></data> 
+<data id = "15147" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "岩石助推器" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "岩石巨人之足" handbook = "1" rare = "6"></list></data> 
+<data id = "15148" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "冰霜指环" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "冰霜巨人之戒" handbook = "1" rare = "6"></list></data> 
+<data id = "15149" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "熔岩火链" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "熔岩巨人项链" handbook = "1" rare = "6"></list></data> 
+<data id = "15150" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "双子手镯" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "双子巨人手环" handbook = "1" rare = "6"></list></data> 
+<data id = "15151" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "认真的空白" type = "11" >
+	<list order = "1" name = "愚者的流浪" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "愚者的追求" handbook = "1" rare = "6"></list></data> 
+<data id = "15152" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "认真的空白" type = "12" >
+	<list order = "1" name = "教皇的援助" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "教皇的同情" handbook = "1" rare = "6"></list></data> 
+<data id = "15153" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "认真的空白" type = "13" >
+	<list order = "1" name = "恋人的结合" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "恋人的魅力" handbook = "1" rare = "6"></list></data> 
+<data id = "15154" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "认真的空白" type = "14" >
+	<list order = "1" name = "隐者的探索" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "隐者的享受" handbook = "1" rare = "6"></list></data> 
+<data id = "15155" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "认真的空白" type = "15" >
+	<list order = "1" name = "魔术师的创造" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "魔术师的纯洁" handbook = "1" rare = "6"></list></data> 
+<data id = "15156" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "认真的空白" type = "16" >
+	<list order = "1" name = "女祭司的智慧" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "女祭司的潜力" handbook = "1" rare = "6"></list></data> 
+<data id = "15157" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "小猴子111" type = "11" >
+	<list order = "1" name = "狼之力" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "狼之坚毅" handbook = "1" rare = "6"></list></data> 
+<data id = "15158" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "小猴子111" type = "12" >
+	<list order = "1" name = "虎之力" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "虎之威武" handbook = "1" rare = "6"></list></data> 
+<data id = "15159" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "小猴子111" type = "13" >
+	<list order = "1" name = "兔之力" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "兔之灵敏" handbook = "1" rare = "6"></list></data> 
+<data id = "15160" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "小猴子111" type = "14" >
+	<list order = "1" name = "猫之力" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "猫之优雅" handbook = "1" rare = "6"></list></data> 
+<data id = "15161" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "小猴子111" type = "15" >
+	<list order = "1" name = "狐之力" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "狐之诡诈" handbook = "1" rare = "6"></list></data> 
+<data id = "15162" ilevel = "30" irare = "5" level = "30" kind = "1" heroid = "0" author = "小猴子111" type = "16" >
+	<list order = "1" name = "熊之力" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "熊之狂暴" handbook = "1" rare = "6"></list></data> 
+<data id = "15163" ilevel = "20" irare = "4" level = "20" kind = "0" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "角斗士的面甲" handbook = "1" rare = "2"></list> 
+	<list order = "2" name = "角斗士的钢盔" handbook = "1" rare = "3"></list> 
+	<list order = "3" name = "角斗士的战盔" handbook = "1" rare = "3"></list></data> 
+<data id = "15164" ilevel = "20" irare = "4" level = "20" kind = "0" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "角斗士的长袍" handbook = "1" rare = "2"></list> 
+	<list order = "2" name = "角斗士的战衣" handbook = "1" rare = "3"></list> 
+	<list order = "3" name = "角斗士的钢甲" handbook = "1" rare = "3"></list></data> 
+<data id = "15165" ilevel = "20" irare = "4" level = "20" kind = "0" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "角斗士的足具" handbook = "1" rare = "2"></list> 
+	<list order = "2" name = "角斗士的筒靴" handbook = "1" rare = "3"></list> 
+	<list order = "3" name = "角斗士的胫甲" handbook = "1" rare = "3"></list></data> 
+<data id = "15166" ilevel = "20" irare = "4" level = "20" kind = "0" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "角斗士的指环" handbook = "1" rare = "2"></list> 
+	<list order = "2" name = "角斗士的胜利指环" handbook = "1" rare = "3"></list> 
+	<list order = "3" name = "角斗士的荣耀指环" handbook = "1" rare = "3"></list></data> 
+<data id = "15167" ilevel = "20" irare = "4" level = "20" kind = "0" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "角斗士的挂坠" handbook = "1" rare = "2"></list> 
+	<list order = "2" name = "角斗士的水晶挂坠" handbook = "1" rare = "3"></list> 
+	<list order = "3" name = "角斗士的荣誉挂坠" handbook = "1" rare = "3"></list></data> 
+<data id = "15168" ilevel = "20" irare = "4" level = "20" kind = "0" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "角斗士的手镯" handbook = "1" rare = "2"></list> 
+	<list order = "2" name = "角斗士的胜利手镯" handbook = "1" rare = "3"></list> 
+	<list order = "3" name = "角斗士的荣耀手镯" handbook = "1" rare = "3"></list></data> 
+<data id = "15169" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "搬走服务器的清洁工" type = "11" >
+	<list order = "1" name = "魔物角盔" handbook = "0" rare = "4"></list> 
+	<list order = "2" name = "魔物角盔" handbook = "0" rare = "4"></list> 
+	<list order = "3" name = "魔物角盔" handbook = "0" rare = "4"></list></data> 
+<data id = "15170" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "搬走服务器的保安" type = "12" >
+	<list order = "1" name = "魔物披甲" handbook = "0" rare = "4"></list> 
+	<list order = "2" name = "魔物披甲" handbook = "0" rare = "4"></list> 
+	<list order = "3" name = "魔物披甲" handbook = "0" rare = "4"></list></data> 
+<data id = "15171" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "搬走服务器的策划" type = "13" >
+	<list order = "1" name = "魔物长靴" handbook = "0" rare = "4"></list> 
+	<list order = "2" name = "魔物长靴" handbook = "0" rare = "4"></list> 
+	<list order = "3" name = "魔物长靴" handbook = "0" rare = "4"></list></data> 
+<data id = "15172" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "搬走服务器的CEO" type = "14" >
+	<list order = "1" name = "魔物指虎" handbook = "0" rare = "4"></list> 
+	<list order = "2" name = "魔物指虎" handbook = "0" rare = "4"></list> 
+	<list order = "3" name = "魔物指虎" handbook = "0" rare = "4"></list></data> 
+<data id = "15173" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "搬走服务器的投资人" type = "15" >
+	<list order = "1" name = "魔物项圈" handbook = "0" rare = "4"></list> 
+	<list order = "2" name = "魔物项圈" handbook = "0" rare = "4"></list> 
+	<list order = "3" name = "魔物项圈" handbook = "0" rare = "4"></list></data> 
+<data id = "15174" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "搬走服务器的美工" type = "16" >
+	<list order = "1" name = "魔物护腕" handbook = "0" rare = "4"></list> 
+	<list order = "2" name = "魔物护腕" handbook = "0" rare = "4"></list> 
+	<list order = "3" name = "魔物护腕" handbook = "0" rare = "4"></list></data> 
+<data id = "15175" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "黑龙战盔" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "黑龙战盔" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "黑龙战盔" handbook = "1" rare = "5"></list></data> 
+<data id = "15176" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "黑龙战袍" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "黑龙战袍" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "黑龙战袍" handbook = "1" rare = "5"></list></data> 
+<data id = "15177" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "黑龙战靴" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "黑龙战靴" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "黑龙战靴" handbook = "1" rare = "5"></list></data> 
+<data id = "15178" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "黑龙戒指" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "黑龙戒指" handbook = "1" rare = "5"></list> 
+	<list order = "3" name = "黑龙戒指" handbook = "1" rare = "6"></list></data> 
+<data id = "15179" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "黑龙项链" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "黑龙项链" handbook = "1" rare = "5"></list> 
+	<list order = "3" name = "黑龙项链" handbook = "1" rare = "6"></list></data> 
+<data id = "15180" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "黑龙手镯" handbook = "1" rare = "5"></list> 
+	<list order = "2" name = "黑龙手镯" handbook = "1" rare = "5"></list> 
+	<list order = "3" name = "黑龙手镯" handbook = "1" rare = "6"></list></data> 
+<data id = "15181" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "七彩之雾-神隐" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "七彩之雾-神隐" handbook = "1" rare = "5"></list> 
+	<list order = "3" name = "七彩之雾-神隐" handbook = "1" rare = "6"></list></data> 
+<data id = "15182" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "七彩之雾-庇护" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "七彩之雾-庇护" handbook = "1" rare = "5"></list> 
+	<list order = "3" name = "七彩之雾-庇护" handbook = "1" rare = "6"></list></data> 
+<data id = "15183" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "七彩之雾-迷踪" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "七彩之雾-迷踪" handbook = "1" rare = "5"></list> 
+	<list order = "3" name = "七彩之雾-迷踪" handbook = "1" rare = "6"></list></data> 
+<data id = "15184" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "七彩之雾-祝福" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "七彩之雾-祝福" handbook = "1" rare = "5"></list> 
+	<list order = "3" name = "七彩之雾-祝福" handbook = "1" rare = "6"></list></data> 
+<data id = "15185" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "七彩之雾-静心" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "七彩之雾-静心" handbook = "1" rare = "5"></list> 
+	<list order = "3" name = "七彩之雾-静心" handbook = "1" rare = "6"></list></data> 
+<data id = "15186" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "七彩之雾-冥想" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "七彩之雾-冥想" handbook = "1" rare = "5"></list> 
+	<list order = "3" name = "七彩之雾-冥想" handbook = "1" rare = "6"></list></data> 
+<data id = "15187" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "狂暴之盔" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "狂暴之盔" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "狂暴之盔" handbook = "1" rare = "5"></list></data> 
+<data id = "15188" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "狂暴之甲" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "狂暴之甲" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "狂暴之甲" handbook = "1" rare = "5"></list></data> 
+<data id = "15189" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "狂暴之靴" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "狂暴之靴" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "狂暴之靴" handbook = "1" rare = "5"></list></data> 
+<data id = "15190" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "狂暴之心" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "狂暴之心" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "狂暴之心" handbook = "1" rare = "5"></list></data> 
+<data id = "15191" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "狂暴之怒" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "狂暴之怒" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "狂暴之怒" handbook = "1" rare = "5"></list></data> 
+<data id = "15192" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "狂暴之魂" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "狂暴之魂" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "狂暴之魂" handbook = "1" rare = "5"></list></data> 
+<data id = "15193" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "18" >
+	<list order = "1" name = "魔物之源-霉毒" handbook = "0" rare = "4"></list> 
+	<list order = "2" name = "魔物之源-霉毒" handbook = "0" rare = "4"></list> 
+	<list order = "3" name = "魔物之源-霉毒" handbook = "0" rare = "5"></list></data> 
+<data id = "15194" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "18" >
+	<list order = "1" name = "魔物之源-发烧" handbook = "0" rare = "4"></list> 
+	<list order = "2" name = "魔物之源-发烧" handbook = "0" rare = "4"></list> 
+	<list order = "3" name = "魔物之源-发烧" handbook = "0" rare = "5"></list></data> 
+<data id = "15195" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "18" >
+	<list order = "1" name = "魔物之源-感染" handbook = "0" rare = "4"></list> 
+	<list order = "2" name = "魔物之源-感染" handbook = "0" rare = "4"></list> 
+	<list order = "3" name = "魔物之源-感染" handbook = "0" rare = "5"></list></data> 
+<data id = "15196" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "18" >
+	<list order = "1" name = "魔物之源-食屎" handbook = "0" rare = "4"></list> 
+	<list order = "2" name = "魔物之源-食屎" handbook = "0" rare = "4"></list> 
+	<list order = "3" name = "魔物之源-食屎" handbook = "0" rare = "5"></list></data> 
+<data id = "15197" ilevel = "20" irare = "5" level = "30" kind = "0" heroid = "0" author = "官方游戏制作人" type = "18" >
+	<list order = "1" name = "魔物之源-出汗" handbook = "0" rare = "4"></list> 
+	<list order = "2" name = "魔物之源-出汗" handbook = "0" rare = "4"></list> 
+	<list order = "3" name = "魔物之源-出汗" handbook = "0" rare = "5"></list></data> 
+<data id = "15201" ilevel = "20" irare = "6" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "至尊帝王华冠" handbook = "1" rare = "6"></list></data> 
+<data id = "15202" ilevel = "20" irare = "6" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "至尊帝王加护" handbook = "1" rare = "6"></list></data> 
+<data id = "15203" ilevel = "20" irare = "6" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "至尊帝王飞升" handbook = "1" rare = "6"></list></data> 
+<data id = "15204" ilevel = "20" irare = "6" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "至尊帝王闪耀" handbook = "1" rare = "6"></list></data> 
+<data id = "15205" ilevel = "20" irare = "6" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "至尊帝王威仪" handbook = "1" rare = "6"></list></data> 
+<data id = "15206" ilevel = "20" irare = "6" level = "0" kind = "0" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "至尊帝王光环" handbook = "1" rare = "6"></list></data> 
+<data id = "16001" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "神之恩赐头盔" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·神之恩赐头盔" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·神之恩赐头盔" handbook = "1" rare = "5"></list></data> 
+<data id = "16002" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "神之恩赐胸甲" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·神之恩赐胸甲" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·神之恩赐胸甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16003" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "神之恩赐护靴" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·神之恩赐护靴" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·神之恩赐护靴" handbook = "1" rare = "5"></list></data> 
+<data id = "16004" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "神之恩赐戒指" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·神之恩赐戒指" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·神之恩赐戒指" handbook = "1" rare = "5"></list></data> 
+<data id = "16005" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "神之恩赐项链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·神之恩赐项链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·神之恩赐项链" handbook = "1" rare = "5"></list></data> 
+<data id = "16006" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "神之恩赐手镯" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·神之恩赐手镯" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·神之恩赐手镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16007" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "开拓者之盔" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·开拓者之盔" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·开拓者之盔" handbook = "1" rare = "5"></list></data> 
+<data id = "16008" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "开拓者之甲" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·开拓者之甲" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·开拓者之甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16009" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "开拓者之靴" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·开拓者之靴" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·开拓者之靴" handbook = "1" rare = "5"></list></data> 
+<data id = "16010" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "开拓者之戒" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·开拓者之戒" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·开拓者之戒" handbook = "1" rare = "5"></list></data> 
+<data id = "16011" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "开拓者之链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·开拓者之链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·开拓者之链" handbook = "1" rare = "5"></list></data> 
+<data id = "16012" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "开拓者之镯" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·开拓者之镯" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·开拓者之镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16013" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "天启者之冠" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·天启者之冠" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·天启者之冠" handbook = "1" rare = "5"></list></data> 
+<data id = "16014" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "统治者之甲" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·统治者之甲" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·统治者之甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16015" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "引导者之靴" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·引导者之靴" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·引导者之靴" handbook = "1" rare = "5"></list></data> 
+<data id = "16016" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "处刑者之纹" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·处刑者之纹" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·处刑者之纹" handbook = "1" rare = "5"></list></data> 
+<data id = "16017" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "断罪者之徽" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·断罪者之徽" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·断罪者之徽" handbook = "1" rare = "5"></list></data> 
+<data id = "16018" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-6" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "审判者之环" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·审判者之环" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·审判者之环" handbook = "1" rare = "5"></list></data> 
+<data id = "16019" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "鲜血渴望战盔" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·鲜血渴望战盔" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·鲜血渴望战盔" handbook = "1" rare = "5"></list></data> 
+<data id = "16020" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "鲜血渴望战甲" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·鲜血渴望战甲" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·鲜血渴望战甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16021" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "鲜血渴望战靴" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·鲜血渴望战靴" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·鲜血渴望战靴" handbook = "1" rare = "5"></list></data> 
+<data id = "16022" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "鲜血渴望指环" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·鲜血渴望指环" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·鲜血渴望指环" handbook = "1" rare = "5"></list></data> 
+<data id = "16023" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "鲜血渴望项链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·鲜血渴望项链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·鲜血渴望项链" handbook = "1" rare = "5"></list></data> 
+<data id = "16024" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "鲜血渴望手镯" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·鲜血渴望手镯" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·鲜血渴望手镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16025" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "无限强袭之盔" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·无限强袭之盔" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·无限强袭之盔" handbook = "1" rare = "5"></list></data> 
+<data id = "16026" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "无限强袭之甲" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·无限强袭之甲" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·无限强袭之甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16027" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "无限强袭之靴" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·无限强袭之靴" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·无限强袭之靴" handbook = "1" rare = "5"></list></data> 
+<data id = "16028" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "无限强袭之戒" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·无限强袭之戒" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·无限强袭之戒" handbook = "1" rare = "5"></list></data> 
+<data id = "16029" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "无限强袭之链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·无限强袭之链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·无限强袭之链" handbook = "1" rare = "5"></list></data> 
+<data id = "16030" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "无限强袭之镯" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·无限强袭之镯" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·无限强袭之镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16031" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "暗魅之影" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·暗魅之影" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·暗魅之影" handbook = "1" rare = "5"></list></data> 
+<data id = "16032" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "亡灵之帐" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·亡灵之帐" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·亡灵之帐" handbook = "1" rare = "5"></list></data> 
+<data id = "16033" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "黄泉之风" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·黄泉之风" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·黄泉之风" handbook = "1" rare = "5"></list></data> 
+<data id = "16034" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "地狱之眼" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·地狱之眼" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·地狱之眼" handbook = "1" rare = "5"></list></data> 
+<data id = "16035" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "冥狱之瞳" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·冥狱之瞳" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·冥狱之瞳" handbook = "1" rare = "5"></list></data> 
+<data id = "16036" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-1" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "血舞之牙" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·血舞之牙" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·血舞之牙" handbook = "1" rare = "5"></list></data> 
+<data id = "16037" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "苍鹰之眸头盔" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·苍鹰之眸头盔" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·苍鹰之眸头盔" handbook = "1" rare = "5"></list></data> 
+<data id = "16038" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "苍鹰之眸胸甲" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·苍鹰之眸胸甲" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·苍鹰之眸胸甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16039" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "苍鹰之眸护靴" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·苍鹰之眸护靴" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·苍鹰之眸护靴" handbook = "1" rare = "5"></list></data> 
+<data id = "16040" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "苍鹰之眸戒指" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·苍鹰之眸戒指" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·苍鹰之眸戒指" handbook = "1" rare = "5"></list></data> 
+<data id = "16041" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "苍鹰之眸项链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·苍鹰之眸项链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·苍鹰之眸项链" handbook = "1" rare = "5"></list></data> 
+<data id = "16042" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "苍鹰之眸手镯" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·苍鹰之眸手镯" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·苍鹰之眸手镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16043" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "风行者之盔" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·风行者之盔" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·风行者之盔" handbook = "1" rare = "5"></list></data> 
+<data id = "16044" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "风行者之甲" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·风行者之甲" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·风行者之甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16045" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "风行者之靴" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·风行者之靴" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·风行者之靴" handbook = "1" rare = "5"></list></data> 
+<data id = "16046" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "风行者之戒" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·风行者之戒" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·风行者之戒" handbook = "1" rare = "5"></list></data> 
+<data id = "16047" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "风行者之链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·风行者之链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·风行者之链" handbook = "1" rare = "5"></list></data> 
+<data id = "16048" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "风行者之镯" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·风行者之镯" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·风行者之镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16049" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "混沌钟" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·混沌钟" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·混沌钟" handbook = "1" rare = "5"></list></data> 
+<data id = "16050" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "魔神铠" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·魔神铠" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·魔神铠" handbook = "1" rare = "5"></list></data> 
+<data id = "16051" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "逐日靴" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·逐日靴" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·逐日靴" handbook = "1" rare = "5"></list></data> 
+<data id = "16052" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "补天石" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·补天石" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·补天石" handbook = "1" rare = "5"></list></data> 
+<data id = "16053" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "玲珑塔" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·玲珑塔" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·玲珑塔" handbook = "1" rare = "5"></list></data> 
+<data id = "16054" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-2" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "昆仑镜" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·昆仑镜" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·昆仑镜" handbook = "1" rare = "5"></list></data> 
+<data id = "16055" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "元素共鸣毡帽" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·元素共鸣毡帽" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·元素共鸣毡帽" handbook = "1" rare = "5"></list></data> 
+<data id = "16056" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "元素共鸣长袍" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·元素共鸣长袍" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·元素共鸣长袍" handbook = "1" rare = "5"></list></data> 
+<data id = "16057" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "元素共鸣布靴" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·元素共鸣布靴" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·元素共鸣布靴" handbook = "1" rare = "5"></list></data> 
+<data id = "16058" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "元素共鸣戒指" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·元素共鸣戒指" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·元素共鸣戒指" handbook = "1" rare = "5"></list></data> 
+<data id = "16059" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "元素共鸣项链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·元素共鸣项链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·元素共鸣项链" handbook = "1" rare = "5"></list></data> 
+<data id = "16060" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "元素共鸣手镯" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·元素共鸣手镯" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·元素共鸣手镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16061" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "奥术帝国之帽" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·奥术帝国之帽" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·奥术帝国之帽" handbook = "1" rare = "5"></list></data> 
+<data id = "16062" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "奥术帝国之袍" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·奥术帝国之袍" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·奥术帝国之袍" handbook = "1" rare = "5"></list></data> 
+<data id = "16063" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "奥术帝国之靴" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·奥术帝国之靴" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·奥术帝国之靴" handbook = "1" rare = "5"></list></data> 
+<data id = "16064" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "奥术帝国之戒" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·奥术帝国之戒" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·奥术帝国之戒" handbook = "1" rare = "5"></list></data> 
+<data id = "16065" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "奥术帝国之链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·奥术帝国之链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·奥术帝国之链" handbook = "1" rare = "5"></list></data> 
+<data id = "16066" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "奥术帝国之镯" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·奥术帝国之镯" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·奥术帝国之镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16067" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "蚀日无辉帽" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·蚀日无辉帽" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·蚀日无辉帽" handbook = "1" rare = "5"></list></data> 
+<data id = "16068" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "残月惊天袍" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·残月惊天袍" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·残月惊天袍" handbook = "1" rare = "5"></list></data> 
+<data id = "16069" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "闲云碎步靴" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·闲云碎步靴" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·闲云碎步靴" handbook = "1" rare = "5"></list></data> 
+<data id = "16070" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "冰霜雪影戒" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·冰霜雪影戒" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·冰霜雪影戒" handbook = "1" rare = "5"></list></data> 
+<data id = "16071" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "火殒灭炎链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·火殒灭炎链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·火殒灭炎链" handbook = "1" rare = "5"></list></data> 
+<data id = "16072" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-3" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "暗影绝殇镯" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·暗影绝殇镯" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·暗影绝殇镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16073" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "混沌之源头盔" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·混沌之源头盔" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·混沌之源头盔" handbook = "1" rare = "5"></list></data> 
+<data id = "16074" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "混沌之源轻甲" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·混沌之源轻甲" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·混沌之源轻甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16075" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "混沌之源足具" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·混沌之源足具" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·混沌之源足具" handbook = "1" rare = "5"></list></data> 
+<data id = "16076" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "混沌之源戒指" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·混沌之源戒指" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·混沌之源戒指" handbook = "1" rare = "5"></list></data> 
+<data id = "16077" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "混沌之源项链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·混沌之源项链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·混沌之源项链" handbook = "1" rare = "5"></list></data> 
+<data id = "16078" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "混沌之源手镯" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·混沌之源手镯" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·混沌之源手镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16079" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "末日天启之盔" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·末日天启之盔" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·末日天启之盔" handbook = "1" rare = "5"></list></data> 
+<data id = "16080" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "末日天启之甲" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·末日天启之甲" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·末日天启之甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16081" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "末日天启之靴" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·末日天启之靴" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·末日天启之靴" handbook = "1" rare = "5"></list></data> 
+<data id = "16082" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "末日天启之戒" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·末日天启之戒" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·末日天启之戒" handbook = "1" rare = "5"></list></data> 
+<data id = "16083" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "末日天启之链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·末日天启之链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·末日天启之链" handbook = "1" rare = "5"></list></data> 
+<data id = "16084" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "末日天启之镯" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·末日天启之镯" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·末日天启之镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16085" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "傲慢之眼" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·傲慢之眼" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·傲慢之眼" handbook = "1" rare = "5"></list></data> 
+<data id = "16086" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "贪婪之手" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·贪婪之手" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·贪婪之手" handbook = "1" rare = "5"></list></data> 
+<data id = "16087" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "怠惰之足" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·怠惰之足" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·怠惰之足" handbook = "1" rare = "5"></list></data> 
+<data id = "16088" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "愤怒之瞳" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·愤怒之瞳" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·愤怒之瞳" handbook = "1" rare = "5"></list></data> 
+<data id = "16089" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "暴食之口" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·暴食之口" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·暴食之口" handbook = "1" rare = "5"></list></data> 
+<data id = "16090" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-9" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "嫉妒之舌" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·嫉妒之舌" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·嫉妒之舌" handbook = "1" rare = "5"></list></data> 
+<data id = "16091" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "光明顶" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·光明顶" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·光明顶" handbook = "1" rare = "5"></list></data> 
+<data id = "16092" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "光明布袍" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·光明布袍" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·光明布袍" handbook = "1" rare = "5"></list></data> 
+<data id = "16093" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "光明长筒靴" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·光明长筒靴" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·光明长筒靴" handbook = "1" rare = "5"></list></data> 
+<data id = "16094" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "光明印戒" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·光明印戒" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·光明印戒" handbook = "1" rare = "5"></list></data> 
+<data id = "16095" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "光明项链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·光明项链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·光明项链" handbook = "1" rare = "5"></list></data> 
+<data id = "16096" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "光明手链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·光明手链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·光明手链" handbook = "1" rare = "5"></list></data> 
+<data id = "16097" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "神圣之冠" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·神圣之冠" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·神圣之冠" handbook = "1" rare = "5"></list></data> 
+<data id = "16098" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "神圣法衣" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·神圣法衣" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·神圣法衣" handbook = "1" rare = "5"></list></data> 
+<data id = "16099" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "神圣绑腿" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·神圣绑腿" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·神圣绑腿" handbook = "1" rare = "5"></list></data> 
+<data id = "16100" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "神圣能量指环" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·神圣能量指环" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·神圣能量指环" handbook = "1" rare = "5"></list></data> 
+<data id = "16101" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "神圣金项链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·神圣金项链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·神圣金项链" handbook = "1" rare = "5"></list></data> 
+<data id = "16102" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "神圣护手" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·神圣护手" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·神圣护手" handbook = "1" rare = "5"></list></data> 
+<data id = "16103" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "天罚" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·天罚" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·天罚" handbook = "1" rare = "5"></list></data> 
+<data id = "16104" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "审判之姿" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·审判之姿" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·审判之姿" handbook = "1" rare = "5"></list></data> 
+<data id = "16105" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "堕落的步伐" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·堕落的步伐" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·堕落的步伐" handbook = "1" rare = "5"></list></data> 
+<data id = "16106" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "疯狂的低语" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·疯狂的低语" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·疯狂的低语" handbook = "1" rare = "5"></list></data> 
+<data id = "16107" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "祭司之证" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·祭司之证" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·祭司之证" handbook = "1" rare = "5"></list></data> 
+<data id = "16108" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-8" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "理智束腕" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·理智束腕" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·理智束腕" handbook = "1" rare = "5"></list></data> 
+<data id = "16109" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "无尽杀机面罩" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·无尽杀机面罩" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·无尽杀机面罩" handbook = "1" rare = "5"></list></data> 
+<data id = "16110" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "无尽杀机胸甲" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·无尽杀机胸甲" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·无尽杀机胸甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16111" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "无尽杀机护腿" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·无尽杀机护腿" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·无尽杀机护腿" handbook = "1" rare = "5"></list></data> 
+<data id = "16112" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "无尽杀机戒指" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·无尽杀机戒指" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·无尽杀机戒指" handbook = "1" rare = "5"></list></data> 
+<data id = "16113" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "无尽杀机项链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·无尽杀机项链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·无尽杀机项链" handbook = "1" rare = "5"></list></data> 
+<data id = "16114" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "无尽杀机手镯" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·无尽杀机手镯" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·无尽杀机手镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16115" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "地狱之眼" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·地狱之眼" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·地狱之眼" handbook = "1" rare = "5"></list></data> 
+<data id = "16116" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "地狱之缚" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·地狱之缚" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·地狱之缚" handbook = "1" rare = "5"></list></data> 
+<data id = "16117" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "地狱之速" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·地狱之速" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·地狱之速" handbook = "1" rare = "5"></list></data> 
+<data id = "16118" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "地狱炎金指环" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·地狱炎金指环" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·地狱炎金指环" handbook = "1" rare = "5"></list></data> 
+<data id = "16119" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "地狱大门钥匙" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·地狱大门钥匙" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·地狱大门钥匙" handbook = "1" rare = "5"></list></data> 
+<data id = "16120" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "地狱锁链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·地狱锁链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·地狱锁链" handbook = "1" rare = "5"></list></data> 
+<data id = "16121" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "虚无面具" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·虚无面具" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·虚无面具" handbook = "1" rare = "5"></list></data> 
+<data id = "16122" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "鲜血伪装" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·鲜血伪装" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·鲜血伪装" handbook = "1" rare = "5"></list></data> 
+<data id = "16123" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "静谧" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·静谧" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·静谧" handbook = "1" rare = "5"></list></data> 
+<data id = "16124" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "轮回灌注" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·轮回灌注" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·轮回灌注" handbook = "1" rare = "5"></list></data> 
+<data id = "16125" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "限刻的十字架" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·限刻的十字架" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·限刻的十字架" handbook = "1" rare = "5"></list></data> 
+<data id = "16126" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-5" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "咒腕" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·咒腕" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·咒腕" handbook = "1" rare = "5"></list></data> 
+<data id = "16127" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "亡魂的惊悚" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·亡魂的惊悚" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·亡魂的惊悚" handbook = "1" rare = "5"></list></data> 
+<data id = "16128" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "亡魂的欺凌" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·亡魂的欺凌" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·亡魂的欺凌" handbook = "1" rare = "5"></list></data> 
+<data id = "16129" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "亡魂的纠缠" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·亡魂的纠缠" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·亡魂的纠缠" handbook = "1" rare = "5"></list></data> 
+<data id = "16130" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "亡魂的回响" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·亡魂的回响" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·亡魂的回响" handbook = "1" rare = "5"></list></data> 
+<data id = "16131" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "亡魂的束缚" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·亡魂的束缚" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·亡魂的束缚" handbook = "1" rare = "5"></list></data> 
+<data id = "16132" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "亡魂的诡诈" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·亡魂的诡诈" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·亡魂的诡诈" handbook = "1" rare = "5"></list></data> 
+<data id = "16133" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "教徒巫帽" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·教徒巫帽" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·教徒巫帽" handbook = "1" rare = "5"></list></data> 
+<data id = "16134" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "教徒长袍" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·教徒长袍" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·教徒长袍" handbook = "1" rare = "5"></list></data> 
+<data id = "16135" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "教徒皮靴" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·教徒皮靴" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·教徒皮靴" handbook = "1" rare = "5"></list></data> 
+<data id = "16136" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "教徒印记" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·教徒印记" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·教徒印记" handbook = "1" rare = "5"></list></data> 
+<data id = "16137" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "教徒十字" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·教徒十字" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·教徒十字" handbook = "1" rare = "5"></list></data> 
+<data id = "16138" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "教徒咒令" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·教徒咒令" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·教徒咒令" handbook = "1" rare = "5"></list></data> 
+<data id = "16139" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "叫我方头" type = "11" >
+	<list order = "1" name = "观死" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·观死" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·观死" handbook = "1" rare = "5"></list></data> 
+<data id = "16140" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "叫我方头" type = "12" >
+	<list order = "1" name = "裹尸布" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·裹尸布" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·裹尸布" handbook = "1" rare = "5"></list></data> 
+<data id = "16141" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "叫我方头" type = "13" >
+	<list order = "1" name = "灵魂漂移" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·灵魂漂移" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·灵魂漂移" handbook = "1" rare = "5"></list></data> 
+<data id = "16142" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "叫我方头" type = "14" >
+	<list order = "1" name = "通灵" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·通灵" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·通灵" handbook = "1" rare = "5"></list></data> 
+<data id = "16143" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "叫我方头" type = "15" >
+	<list order = "1" name = "镇魂" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·镇魂" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·镇魂" handbook = "1" rare = "5"></list></data> 
+<data id = "16144" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-7" author = "叫我方头" type = "16" >
+	<list order = "1" name = "转生" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·转生" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·转生" handbook = "1" rare = "5"></list></data> 
+<data id = "16145" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "战地重盔" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·战地重盔" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·战地重盔" handbook = "1" rare = "5"></list></data> 
+<data id = "16146" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "战地铁甲" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·战地铁甲" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·战地铁甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16147" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "战地钢胫" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·战地钢胫" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·战地钢胫" handbook = "1" rare = "5"></list></data> 
+<data id = "16148" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "战地铁戒" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·战地铁戒" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·战地铁戒" handbook = "1" rare = "5"></list></data> 
+<data id = "16149" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "战地铭牌" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·战地铭牌" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·战地铭牌" handbook = "1" rare = "5"></list></data> 
+<data id = "16150" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "战地护腕" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·战地护腕" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·战地护腕" handbook = "1" rare = "5"></list></data> 
+<data id = "16151" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "复仇之眼" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·复仇之眼" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·复仇之眼" handbook = "1" rare = "5"></list></data> 
+<data id = "16152" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "复仇之欲" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·复仇之欲" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·复仇之欲" handbook = "1" rare = "5"></list></data> 
+<data id = "16153" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "复仇之路" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·复仇之路" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·复仇之路" handbook = "1" rare = "5"></list></data> 
+<data id = "16154" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "复仇的渴望" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·复仇的渴望" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·复仇的渴望" handbook = "1" rare = "5"></list></data> 
+<data id = "16155" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "复仇的决心" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·复仇的决心" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·复仇的决心" handbook = "1" rare = "5"></list></data> 
+<data id = "16156" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "复仇的诅咒" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·复仇的诅咒" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·复仇的诅咒" handbook = "1" rare = "5"></list></data> 
+<data id = "16157" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "怒冠" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·怒冠" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·怒冠" handbook = "1" rare = "5"></list></data> 
+<data id = "16158" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "鲜血拥抱" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·鲜血拥抱" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·鲜血拥抱" handbook = "1" rare = "5"></list></data> 
+<data id = "16159" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "血足" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·血足" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·血足" handbook = "1" rare = "5"></list></data> 
+<data id = "16160" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "鲜血继承者" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·鲜血继承者" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·鲜血继承者" handbook = "1" rare = "5"></list></data> 
+<data id = "16161" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "家族的信条" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·家族的信条" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·家族的信条" handbook = "1" rare = "5"></list></data> 
+<data id = "16162" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-4" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "远古诅咒" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·远古诅咒" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·远古诅咒" handbook = "1" rare = "5"></list></data> 
+<data id = "16163" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "华冠" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·华冠" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·华冠" handbook = "1" rare = "5"></list></data> 
+<data id = "16164" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "华服" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·华服" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·华服" handbook = "1" rare = "5"></list></data> 
+<data id = "16165" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "华胫" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·华胫" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·华胫" handbook = "1" rare = "5"></list></data> 
+<data id = "16166" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "华戒" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·华戒" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·华戒" handbook = "1" rare = "5"></list></data> 
+<data id = "16167" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "华链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·华链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·华链" handbook = "1" rare = "5"></list></data> 
+<data id = "16168" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "华腕" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·华腕" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·华腕" handbook = "1" rare = "5"></list></data> 
+<data id = "16169" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "贤者之帽" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·贤者之帽" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·贤者之帽" handbook = "1" rare = "5"></list></data> 
+<data id = "16170" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "贤者护胸" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·贤者护胸" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·贤者护胸" handbook = "1" rare = "5"></list></data> 
+<data id = "16171" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "贤者皮裤" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·贤者皮裤" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·贤者皮裤" handbook = "1" rare = "5"></list></data> 
+<data id = "16172" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "贤者之扣" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·贤者之扣" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·贤者之扣" handbook = "1" rare = "5"></list></data> 
+<data id = "16173" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "贤者项链" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·贤者项链" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·贤者项链" handbook = "1" rare = "5"></list></data> 
+<data id = "16174" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "贤者手镯" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·贤者手镯" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·贤者手镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16175" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "起点" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·起点" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·起点" handbook = "1" rare = "5"></list></data> 
+<data id = "16176" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "旅途" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·旅途" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·旅途" handbook = "1" rare = "5"></list></data> 
+<data id = "16177" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "终点" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·终点" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·终点" handbook = "1" rare = "5"></list></data> 
+<data id = "16178" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "时光慢游" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·时光慢游" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·时光慢游" handbook = "1" rare = "5"></list></data> 
+<data id = "16179" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "旅者之誓" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·旅者之誓" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·旅者之誓" handbook = "1" rare = "5"></list></data> 
+<data id = "16180" ilevel = "20" irare = "4" level = "20" kind = "5" heroid = "-10" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "零次集束" handbook = "1" rare = "4"></list> 
+	<list order = "2" name = "精·零次集束" handbook = "1" rare = "4"></list> 
+	<list order = "3" name = "极·零次集束" handbook = "1" rare = "5"></list></data> 
+<data id = "16301" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "斗师的紫杉头盔" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的紫杉头盔" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的紫杉头盔" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的紫杉头盔" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的紫杉头盔" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的紫杉头盔" handbook = "1" rare = "5"></list></data> 
+<data id = "16302" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "斗师的紫杉胸甲" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的紫杉胸甲" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的紫杉胸甲" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的紫杉胸甲" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的紫杉胸甲" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的紫杉胸甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16303" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "斗师的紫杉护腿" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的紫杉护腿" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的紫杉护腿" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的紫杉护腿" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的紫杉护腿" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的紫杉护腿" handbook = "1" rare = "5"></list></data> 
+<data id = "16304" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "斗师的紫杉戒指" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的紫杉戒指" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的紫杉戒指" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的紫杉戒指" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的紫杉戒指" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的紫杉戒指" handbook = "1" rare = "5"></list></data> 
+<data id = "16305" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "斗师的紫杉项链" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的紫杉项链" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的紫杉项链" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的紫杉项链" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的紫杉项链" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的紫杉项链" handbook = "1" rare = "5"></list></data> 
+<data id = "16306" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "斗师的紫杉手镯" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的紫杉手镯" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的紫杉手镯" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的紫杉手镯" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的紫杉手镯" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的紫杉手镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16307" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "斗师的精铁战盔" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的精铁战盔" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的精铁战盔" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的精铁战盔" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的精铁战盔" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的精铁战盔" handbook = "1" rare = "5"></list></data> 
+<data id = "16308" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "斗师的精铁战甲" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的精铁战甲" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的精铁战甲" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的精铁战甲" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的精铁战甲" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的精铁战甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16309" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "斗师的精铁战靴" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的精铁战靴" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的精铁战靴" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的精铁战靴" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的精铁战靴" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的精铁战靴" handbook = "1" rare = "5"></list></data> 
+<data id = "16310" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "斗师的精铁戒指" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的精铁戒指" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的精铁戒指" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的精铁戒指" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的精铁戒指" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的精铁戒指" handbook = "1" rare = "5"></list></data> 
+<data id = "16311" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "斗师的精铁项链" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的精铁项链" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的精铁项链" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的精铁项链" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的精铁项链" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的精铁项链" handbook = "1" rare = "5"></list></data> 
+<data id = "16312" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "斗师的精铁手镯" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的精铁手镯" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的精铁手镯" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的精铁手镯" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的精铁手镯" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的精铁手镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16313" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "斗师的熊皮护额" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的熊皮护额" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的熊皮护额" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的熊皮护额" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的熊皮护额" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的熊皮护额" handbook = "1" rare = "5"></list></data> 
+<data id = "16314" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "斗师的熊皮革甲" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的熊皮革甲" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的熊皮革甲" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的熊皮革甲" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的熊皮革甲" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的熊皮革甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16315" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "斗师的熊皮绑腿" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的熊皮绑腿" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的熊皮绑腿" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的熊皮绑腿" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的熊皮绑腿" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的熊皮绑腿" handbook = "1" rare = "5"></list></data> 
+<data id = "16316" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "斗师的熊皮戒指" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的熊皮戒指" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的熊皮戒指" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的熊皮戒指" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的熊皮戒指" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的熊皮戒指" handbook = "1" rare = "5"></list></data> 
+<data id = "16317" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "斗师的熊皮项链" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的熊皮项链" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的熊皮项链" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的熊皮项链" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的熊皮项链" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的熊皮项链" handbook = "1" rare = "5"></list></data> 
+<data id = "16318" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "斗师的熊皮手镯" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的熊皮手镯" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的熊皮手镯" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的熊皮手镯" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的熊皮手镯" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的熊皮手镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16319" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "斗师的矽钢面甲" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的矽钢面甲" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的矽钢面甲" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的矽钢面甲" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的矽钢面甲" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的矽钢面甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16320" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "斗师的矽钢板甲" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的矽钢板甲" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的矽钢板甲" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的矽钢板甲" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的矽钢板甲" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的矽钢板甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16321" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "斗师的矽钢腿甲" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的矽钢腿甲" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的矽钢腿甲" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的矽钢腿甲" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的矽钢腿甲" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的矽钢腿甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16322" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "斗师的矽钢戒指" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的矽钢戒指" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的矽钢戒指" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的矽钢戒指" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的矽钢戒指" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的矽钢戒指" handbook = "1" rare = "5"></list></data> 
+<data id = "16323" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "斗师的矽钢项链" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的矽钢项链" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的矽钢项链" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的矽钢项链" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的矽钢项链" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的矽钢项链" handbook = "1" rare = "5"></list></data> 
+<data id = "16324" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "斗师的矽钢手镯" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的矽钢手镯" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的矽钢手镯" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的矽钢手镯" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的矽钢手镯" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的矽钢手镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16325" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "斗师的虎皮护额" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的虎皮护额" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的虎皮护额" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的虎皮护额" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的虎皮护额" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的虎皮护额" handbook = "1" rare = "5"></list></data> 
+<data id = "16326" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "斗师的虎皮胸甲" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的虎皮胸甲" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的虎皮胸甲" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的虎皮胸甲" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的虎皮胸甲" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的虎皮胸甲" handbook = "1" rare = "5"></list></data> 
+<data id = "16327" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "斗师的虎皮绑腿" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的虎皮绑腿" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的虎皮绑腿" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的虎皮绑腿" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的虎皮绑腿" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的虎皮绑腿" handbook = "1" rare = "5"></list></data> 
+<data id = "16328" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "斗师的虎皮戒指" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的虎皮戒指" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的虎皮戒指" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的虎皮戒指" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的虎皮戒指" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的虎皮戒指" handbook = "1" rare = "5"></list></data> 
+<data id = "16329" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "斗师的虎皮项链" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的虎皮项链" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的虎皮项链" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的虎皮项链" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的虎皮项链" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的虎皮项链" handbook = "1" rare = "5"></list></data> 
+<data id = "16330" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "斗师的虎皮手镯" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的虎皮手镯" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的虎皮手镯" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的虎皮手镯" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的虎皮手镯" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的虎皮手镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16331" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "斗师的绸布兜帽" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的绸布兜帽" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的绸布兜帽" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的绸布兜帽" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的绸布兜帽" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的绸布兜帽" handbook = "1" rare = "5"></list></data> 
+<data id = "16332" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "斗师的绸布法袍" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的绸布法袍" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的绸布法袍" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的绸布法袍" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的绸布法袍" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的绸布法袍" handbook = "1" rare = "5"></list></data> 
+<data id = "16333" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "斗师的绸布长靴" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的绸布长靴" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的绸布长靴" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的绸布长靴" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的绸布长靴" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的绸布长靴" handbook = "1" rare = "5"></list></data> 
+<data id = "16334" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "斗师的绸布戒指" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的绸布戒指" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的绸布戒指" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的绸布戒指" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的绸布戒指" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的绸布戒指" handbook = "1" rare = "5"></list></data> 
+<data id = "16335" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "斗师的绸布项链" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的绸布项链" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的绸布项链" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的绸布项链" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的绸布项链" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的绸布项链" handbook = "1" rare = "5"></list></data> 
+<data id = "16336" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "斗师的绸布手镯" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的绸布手镯" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的绸布手镯" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的绸布手镯" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的绸布手镯" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的绸布手镯" handbook = "1" rare = "5"></list></data> 
+<data id = "16337" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "11" >
+	<list order = "1" name = "斗师的蚕丝罩帽" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的蚕丝罩帽" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的蚕丝罩帽" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的蚕丝罩帽" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的蚕丝罩帽" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的蚕丝罩帽" handbook = "1" rare = "5"></list></data> 
+<data id = "16338" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "12" >
+	<list order = "1" name = "斗师的蚕丝上衣" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的蚕丝上衣" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的蚕丝上衣" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的蚕丝上衣" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的蚕丝上衣" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的蚕丝上衣" handbook = "1" rare = "5"></list></data> 
+<data id = "16339" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "13" >
+	<list order = "1" name = "斗师的蚕丝布鞋" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的蚕丝布鞋" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的蚕丝布鞋" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的蚕丝布鞋" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的蚕丝布鞋" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的蚕丝布鞋" handbook = "1" rare = "5"></list></data> 
+<data id = "16340" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "14" >
+	<list order = "1" name = "斗师的蚕丝戒指" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的蚕丝戒指" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的蚕丝戒指" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的蚕丝戒指" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的蚕丝戒指" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的蚕丝戒指" handbook = "1" rare = "5"></list></data> 
+<data id = "16341" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "15" >
+	<list order = "1" name = "斗师的蚕丝项链" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的蚕丝项链" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的蚕丝项链" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的蚕丝项链" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的蚕丝项链" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的蚕丝项链" handbook = "1" rare = "5"></list></data> 
+<data id = "16342" ilevel = "10" irare = "1" level = "10" kind = "3" heroid = "0" author = "官方游戏制作人" type = "16" >
+	<list order = "1" name = "斗师的蚕丝手镯" handbook = "1" rare = "1"></list> 
+	<list order = "2" name = "斗宗的蚕丝手镯" handbook = "1" rare = "2"></list> 
+	<list order = "3" name = "斗灵的蚕丝手镯" handbook = "1" rare = "3"></list> 
+	<list order = "4" name = "斗尊的蚕丝手镯" handbook = "1" rare = "4"></list> 
+	<list order = "5" name = "斗皇的蚕丝手镯" handbook = "1" rare = "5"></list> 
+	<list order = "6" name = "斗帝的蚕丝手镯" handbook = "1" rare = "5"></list></data></data>

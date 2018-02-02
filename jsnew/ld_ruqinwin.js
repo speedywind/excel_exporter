@@ -1,0 +1,15 @@
+module.exports = {
+1:{id:1, 
+	reward:{{itemid:1000, count:300000}, {itemid:28001, count:60}}}, 
+2:{id:2, 
+	reward:{{itemid:1000, count:400000}, {itemid:28001, count:60}}}, 
+3:{id:3, 
+	reward:{{itemid:1000, count:500000}, {itemid:28001, count:60}}}, 
+4:{id:4, 
+	reward:{{itemid:1000, count:600000}, {itemid:28001, count:60}}}, 
+5:{id:5, 
+	reward:{{itemid:1000, count:700000}, {itemid:28001, count:60}}}, 
+6:{id:6, 
+	reward:{{itemid:1000, count:800000}, {itemid:28001, count:60}}}, 
+7:{id:7, 
+	reward:{{itemid:1000, count:900000}, {itemid:28001, count:60}}}}

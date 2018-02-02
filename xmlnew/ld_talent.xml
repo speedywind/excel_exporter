@@ -1,0 +1,111 @@
+<data>
+<data id = "1" order = "2" name = "激进驯龙师" des = "重装战士主角，无畏攻击的英雄，并且越战越强" position = "1" img = "17" health = "114" vit = "11" str = "14" inte = "14" spi = "11" ad = "114" ap = "107" arm = "53" mr = "53" >
+	<skill order = "1" skill1 = "40101" skill2 = "0"></skill> 
+	<skill order = "2" skill1 = "40102" skill2 = "40103"></skill> 
+	<skill order = "3" skill1 = "40104" skill2 = "40106"></skill> 
+	<skill order = "4" skill1 = "40105" skill2 = "40107"></skill> 
+	<skill order = "5" skill1 = "40109" skill2 = "40108"></skill> 
+	<skill order = "6" skill1 = "40110" skill2 = "40111"></skill> 
+	<skill order = "7" skill1 = "40112" skill2 = "40113"></skill> 
+	<skill order = "8" skill1 = "40115" skill2 = "40114"></skill> 
+	<skill order = "9" skill1 = "40116" skill2 = "40118"></skill> 
+	<skill order = "10" skill1 = "40117" skill2 = "0"></skill></data> 
+<data id = "2" order = "3" name = "风暴驯龙师" des = "无情射手主角，通过不断强化普通攻击来获得强大的输出，但是防御能力较弱" position = "2" img = "40002" health = "107" vit = "11" str = "14" inte = "14" spi = "11" ad = "121" ap = "107" arm = "53" mr = "53" >
+	<skill order = "1" skill1 = "40201" skill2 = "0"></skill> 
+	<skill order = "2" skill1 = "40203" skill2 = "40202"></skill> 
+	<skill order = "3" skill1 = "40204" skill2 = "40206"></skill> 
+	<skill order = "4" skill1 = "40207" skill2 = "40205"></skill> 
+	<skill order = "5" skill1 = "40211" skill2 = "40208"></skill> 
+	<skill order = "6" skill1 = "40212" skill2 = "40209"></skill> 
+	<skill order = "7" skill1 = "40213" skill2 = "40210"></skill> 
+	<skill order = "8" skill1 = "40215" skill2 = "40214"></skill> 
+	<skill order = "9" skill1 = "40218" skill2 = "40216"></skill> 
+	<skill order = "10" skill1 = "40217" skill2 = "0"></skill></data> 
+<data id = "3" order = "4" name = "智慧驯龙师" des = "爆发法术主角，通过蓄力后的巨大法术伤害来一举击溃敌人" position = "5" img = "40003" health = "107" vit = "11" str = "12" inte = "12" spi = "11" ad = "107" ap = "121" arm = "53" mr = "56" >
+	<skill order = "1" skill1 = "40301" skill2 = "0"></skill> 
+	<skill order = "2" skill1 = "40303" skill2 = "40302"></skill> 
+	<skill order = "3" skill1 = "40305" skill2 = "40304"></skill> 
+	<skill order = "4" skill1 = "40306" skill2 = "40307"></skill> 
+	<skill order = "5" skill1 = "40311" skill2 = "40308"></skill> 
+	<skill order = "6" skill1 = "40312" skill2 = "40309"></skill> 
+	<skill order = "7" skill1 = "40313" skill2 = "40310"></skill> 
+	<skill order = "8" skill1 = "40314" skill2 = "40315"></skill> 
+	<skill order = "9" skill1 = "40318" skill2 = "40316"></skill> 
+	<skill order = "10" skill1 = "40317" skill2 = "0"></skill></data> 
+<data id = "4" order = "9" name = "重装驯龙师" des = "站在我身后！" position = "3" img = "38" health = "121" vit = "11" str = "11" inte = "11" spi = "11" ad = "107" ap = "107" arm = "56" mr = "56" >
+	<skill order = "1" skill1 = "40401" skill2 = "0"></skill> 
+	<skill order = "2" skill1 = "40402" skill2 = "40403"></skill> 
+	<skill order = "3" skill1 = "40405" skill2 = "40406"></skill> 
+	<skill order = "4" skill1 = "40413" skill2 = "40409"></skill> 
+	<skill order = "5" skill1 = "40404" skill2 = "40407"></skill> 
+	<skill order = "6" skill1 = "40411" skill2 = "40412"></skill> 
+	<skill order = "7" skill1 = "40418" skill2 = "40414"></skill> 
+	<skill order = "8" skill1 = "40416" skill2 = "40415"></skill> 
+	<skill order = "9" skill1 = "40410" skill2 = "40417"></skill> 
+	<skill order = "10" skill1 = "40408" skill2 = "0"></skill></data> 
+<data id = "5" order = "7" name = "神秘驯龙师" des = "我从阴影中降临。" position = "4" img = "158" health = "107" vit = "11" str = "14" inte = "14" spi = "11" ad = "114" ap = "114" arm = "53" mr = "53" >
+	<skill order = "1" skill1 = "40503" skill2 = "0"></skill> 
+	<skill order = "2" skill1 = "40501" skill2 = "40502"></skill> 
+	<skill order = "3" skill1 = "40504" skill2 = "40505"></skill> 
+	<skill order = "4" skill1 = "40507" skill2 = "40509"></skill> 
+	<skill order = "5" skill1 = "40510" skill2 = "40512"></skill> 
+	<skill order = "6" skill1 = "40513" skill2 = "40515"></skill> 
+	<skill order = "7" skill1 = "40516" skill2 = "40506"></skill> 
+	<skill order = "8" skill1 = "40508" skill2 = "40511"></skill> 
+	<skill order = "9" skill1 = "40514" skill2 = "40517"></skill> 
+	<skill order = "10" skill1 = "40518" skill2 = "0"></skill></data> 
+<data id = "6" order = "1" name = "冒险驯龙师" des = "最普通的主角，攻守平衡，但是全面的技能组合让他有无限的潜力" position = "0" img = "157" health = "114" vit = "12" str = "12" inte = "12" spi = "12" ad = "107" ap = "107" arm = "53" mr = "53" >
+	<skill order = "1" skill1 = "40601" skill2 = "0"></skill> 
+	<skill order = "2" skill1 = "40602" skill2 = "40605"></skill> 
+	<skill order = "3" skill1 = "40603" skill2 = "40607"></skill> 
+	<skill order = "4" skill1 = "40604" skill2 = "40609"></skill> 
+	<skill order = "5" skill1 = "40606" skill2 = "40610"></skill> 
+	<skill order = "6" skill1 = "40608" skill2 = "40612"></skill> 
+	<skill order = "7" skill1 = "40611" skill2 = "40613"></skill> 
+	<skill order = "8" skill1 = "40615" skill2 = "40614"></skill> 
+	<skill order = "9" skill1 = "40616" skill2 = "40618"></skill> 
+	<skill order = "10" skill1 = "40617" skill2 = "0"></skill></data> 
+<data id = "7" order = "8" name = "暗无驯龙师" des = "你有成为死者的觉悟么？" position = "5" img = "8" health = "114" vit = "11" str = "12" inte = "12" spi = "12" ad = "107" ap = "114" arm = "53" mr = "53" >
+	<skill order = "1" skill1 = "40705" skill2 = "0"></skill> 
+	<skill order = "2" skill1 = "40702" skill2 = "40706"></skill> 
+	<skill order = "3" skill1 = "40707" skill2 = "40708"></skill> 
+	<skill order = "4" skill1 = "40718" skill2 = "40711"></skill> 
+	<skill order = "5" skill1 = "40714" skill2 = "40715"></skill> 
+	<skill order = "6" skill1 = "40701" skill2 = "40704"></skill> 
+	<skill order = "7" skill1 = "40710" skill2 = "40717"></skill> 
+	<skill order = "8" skill1 = "40713" skill2 = "40716"></skill> 
+	<skill order = "9" skill1 = "40709" skill2 = "40712"></skill> 
+	<skill order = "10" skill1 = "40703" skill2 = "0"></skill></data> 
+<data id = "8" order = "6" name = "光明驯龙师" des = "我所信仰的光明，会照亮这里！" position = "6" img = "137" health = "107" vit = "14" str = "12" inte = "12" spi = "12" ad = "107" ap = "107" arm = "53" mr = "53" >
+	<skill order = "1" skill1 = "40803" skill2 = "0"></skill> 
+	<skill order = "2" skill1 = "40801" skill2 = "40802"></skill> 
+	<skill order = "3" skill1 = "40804" skill2 = "40805"></skill> 
+	<skill order = "4" skill1 = "40806" skill2 = "40817"></skill> 
+	<skill order = "5" skill1 = "40807" skill2 = "40809"></skill> 
+	<skill order = "6" skill1 = "40808" skill2 = "40811"></skill> 
+	<skill order = "7" skill1 = "40810" skill2 = "40814"></skill> 
+	<skill order = "8" skill1 = "40813" skill2 = "40812"></skill> 
+	<skill order = "9" skill1 = "40816" skill2 = "40815"></skill> 
+	<skill order = "10" skill1 = "40818" skill2 = "0"></skill></data> 
+<data id = "9" order = "5" name = "炼金驯龙师" des = "来一瓶，再来一瓶！" position = "6" img = "42" health = "114" vit = "12" str = "12" inte = "12" spi = "11" ad = "107" ap = "107" arm = "56" mr = "56" >
+	<skill order = "1" skill1 = "40901" skill2 = "0"></skill> 
+	<skill order = "2" skill1 = "40902" skill2 = "40905"></skill> 
+	<skill order = "3" skill1 = "40903" skill2 = "40906"></skill> 
+	<skill order = "4" skill1 = "40904" skill2 = "40908"></skill> 
+	<skill order = "5" skill1 = "40907" skill2 = "40909"></skill> 
+	<skill order = "6" skill1 = "40910" skill2 = "40911"></skill> 
+	<skill order = "7" skill1 = "40913" skill2 = "40916"></skill> 
+	<skill order = "8" skill1 = "40914" skill2 = "40917"></skill> 
+	<skill order = "9" skill1 = "40915" skill2 = "40918"></skill> 
+	<skill order = "10" skill1 = "40912" skill2 = "0"></skill></data> 
+<data id = "10" order = "10" name = "吟游驯龙师" des = "让我为你唱一首歌~" position = "6" img = "40010" health = "107" vit = "11" str = "11" inte = "11" spi = "11" ad = "107" ap = "107" arm = "60" mr = "60" >
+	<skill order = "1" skill1 = "41003" skill2 = "0"></skill> 
+	<skill order = "2" skill1 = "41001" skill2 = "41002"></skill> 
+	<skill order = "3" skill1 = "41004" skill2 = "41005"></skill> 
+	<skill order = "4" skill1 = "41007" skill2 = "41006"></skill> 
+	<skill order = "5" skill1 = "41008" skill2 = "41009"></skill> 
+	<skill order = "6" skill1 = "41010" skill2 = "41011"></skill> 
+	<skill order = "7" skill1 = "41013" skill2 = "41012"></skill> 
+	<skill order = "8" skill1 = "41016" skill2 = "41018"></skill> 
+	<skill order = "9" skill1 = "41014" skill2 = "41015"></skill> 
+	<skill order = "10" skill1 = "41017" skill2 = "0"></skill></data></data>

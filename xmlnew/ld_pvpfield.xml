@@ -1,0 +1,67 @@
+<data>
+<data fieldid = "1" name = "弗莱斯森林" img = "pvp101" yield = "15" bufflimit = "300" merlevel = "1" buffid = "75001" buffimg = "70001" >
+<daguanreward itemid = "24001" count = "1" countb = "0.1"></daguanreward> 
+	<lootlist itemid = "1003" count = "1" weight = "2500" weightb = "3.0"></lootlist> 
+	<lootlist itemid = "28001" count = "1" weight = "100" weightb = "0.1"></lootlist> 
+	<lootlist itemid = "24001" count = "1" weight = "500" weightb = "5.0"></lootlist> 
+	<lootlist itemid = "15007" count = "1" weight = "1" weightb = "0.0"></lootlist> 
+	<lootlist itemid = "15076" count = "1" weight = "-99" weightb = "1.0"></lootlist> 
+	<kuangdian id = "101" x = "172" y = "733" type = "1" yield = "5" img = "kd101"></kuangdian> 
+	<kuangdian id = "102" x = "440" y = "685" type = "1" yield = "5" img = "kd101"></kuangdian> 
+	<kuangdian id = "103" x = "246" y = "359" type = "1" yield = "5" img = "kd101"></kuangdian> 
+	<kuangdian id = "104" x = "189" y = "547" type = "2" yield = "10" img = "kd202"></kuangdian> 
+	<event eventid = "20001" weight = "80" buffcount = "1"></event> 
+	<event eventid = "20002" weight = "15" buffcount = "2"></event> 
+	<event eventid = "20003" weight = "5" buffcount = "5"></event></data> 
+<data fieldid = "2" name = "幽影沼泽" img = "pvp102" yield = "10" bufflimit = "300" merlevel = "2" buffid = "75002" buffimg = "70002" >
+<daguanreward itemid = "24002" count = "0" countb = "0.1"></daguanreward> 
+	<lootlist itemid = "1003" count = "1" weight = "2500" weightb = "3.0"></lootlist> 
+	<lootlist itemid = "28001" count = "1" weight = "100" weightb = "0.1"></lootlist> 
+	<lootlist itemid = "24002" count = "1" weight = "500" weightb = "4.0"></lootlist> 
+	<lootlist itemid = "15008" count = "1" weight = "1" weightb = "0.0"></lootlist> 
+	<lootlist itemid = "15077" count = "1" weight = "-149" weightb = "1.0"></lootlist> 
+	<kuangdian id = "201" x = "192" y = "398" type = "1" yield = "5" img = "kd101"></kuangdian> 
+	<kuangdian id = "202" x = "386" y = "718" type = "1" yield = "5" img = "kd101"></kuangdian> 
+	<kuangdian id = "203" x = "118" y = "632" type = "2" yield = "10" img = "kd202"></kuangdian> 
+	<kuangdian id = "204" x = "359" y = "464" type = "2" yield = "10" img = "kd202"></kuangdian> 
+	<event eventid = "20004" weight = "80" buffcount = "1"></event> 
+	<event eventid = "20005" weight = "15" buffcount = "2"></event> 
+	<event eventid = "20006" weight = "5" buffcount = "5"></event></data> 
+<data fieldid = "3" name = "元素大陆" img = "pvp103" yield = "5" bufflimit = "300" merlevel = "4" buffid = "75003" buffimg = "70003" >
+<daguanreward itemid = "24003" count = "0" countb = "0.1"></daguanreward> 
+	<lootlist itemid = "1003" count = "1" weight = "2500" weightb = "3.0"></lootlist> 
+	<lootlist itemid = "28001" count = "1" weight = "100" weightb = "0.1"></lootlist> 
+	<lootlist itemid = "24003" count = "1" weight = "500" weightb = "5.0"></lootlist> 
+	<lootlist itemid = "15009" count = "1" weight = "1" weightb = "0.0"></lootlist> 
+	<lootlist itemid = "15078" count = "1" weight = "-199" weightb = "1.0"></lootlist> 
+	<kuangdian id = "301" x = "106" y = "653" type = "1" yield = "5" img = "kd101"></kuangdian> 
+	<kuangdian id = "302" x = "511" y = "685" type = "1" yield = "5" img = "kd101"></kuangdian> 
+	<kuangdian id = "303" x = "313" y = "496" type = "2" yield = "10" img = "kd202"></kuangdian> 
+	<kuangdian id = "304" x = "202" y = "294" type = "3" yield = "15" img = "kd201"></kuangdian> 
+	<event eventid = "20007" weight = "80" buffcount = "1"></event> 
+	<event eventid = "20008" weight = "15" buffcount = "2"></event> 
+	<event eventid = "20009" weight = "5" buffcount = "5"></event></data> 
+<data fieldid = "4" name = "苍穹高原" img = "pvp104" yield = "5" bufflimit = "300" merlevel = "5" buffid = "75004" buffimg = "70004" >
+<daguanreward itemid = "24004" count = "-1" countb = "0.1"></daguanreward> 
+	<lootlist itemid = "1003" count = "1" weight = "2500" weightb = "3.0"></lootlist> 
+	<lootlist itemid = "28001" count = "1" weight = "100" weightb = "0.1"></lootlist> 
+	<lootlist itemid = "24004" count = "1" weight = "500" weightb = "5.0"></lootlist> 
+	<kuangdian id = "401" x = "142" y = "578" type = "2" yield = "10" img = "kd202"></kuangdian> 
+	<kuangdian id = "402" x = "472" y = "782" type = "2" yield = "10" img = "kd202"></kuangdian> 
+	<kuangdian id = "403" x = "225" y = "239" type = "3" yield = "15" img = "kd201"></kuangdian> 
+	<kuangdian id = "404" x = "335" y = "538" type = "4" yield = "20" img = "kd401"></kuangdian> 
+	<event eventid = "20010" weight = "80" buffcount = "1"></event> 
+	<event eventid = "20011" weight = "15" buffcount = "2"></event> 
+	<event eventid = "20012" weight = "5" buffcount = "5"></event></data> 
+<data fieldid = "5" name = "巨龙山" img = "pvp105" yield = "5" bufflimit = "300" merlevel = "6" buffid = "75005" buffimg = "70005" >
+<daguanreward itemid = "24005" count = "-4" countb = "0.1"></daguanreward> 
+	<lootlist itemid = "1003" count = "1" weight = "2500" weightb = "3.0"></lootlist> 
+	<lootlist itemid = "28001" count = "1" weight = "100" weightb = "0.1"></lootlist> 
+	<lootlist itemid = "24005" count = "1" weight = "100" weightb = "2.0"></lootlist> 
+	<kuangdian id = "501" x = "532" y = "337" type = "2" yield = "10" img = "kd202"></kuangdian> 
+	<kuangdian id = "502" x = "131" y = "479" type = "3" yield = "15" img = "kd201"></kuangdian> 
+	<kuangdian id = "503" x = "451" y = "700" type = "3" yield = "15" img = "kd201"></kuangdian> 
+	<kuangdian id = "504" x = "333" y = "471" type = "4" yield = "20" img = "kd401"></kuangdian> 
+	<event eventid = "20013" weight = "80" buffcount = "1"></event> 
+	<event eventid = "20014" weight = "15" buffcount = "2"></event> 
+	<event eventid = "20015" weight = "5" buffcount = "5"></event></data></data>

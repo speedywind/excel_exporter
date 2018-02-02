@@ -1,0 +1,9 @@
+<data>
+<data order = "1" >
+	<task targetcount = "1" >
+		<reward itemid = "1000" count = "1000"></reward> 
+		<reward itemid = "1001" count = "1000"></reward></task> 
+	<task targetcount = "4" >
+		<reward itemid = "32102" count = "1"></reward></task> 
+	<task targetcount = "9" >
+		<reward itemid = "35201" count = "1"></reward></task></data></data>

@@ -1,0 +1,8 @@
+<data>
+<data order = "1" >
+	<loot limit = "6" >
+	<reward itemid = "24201" count = "1"></reward></loot> 
+	<loot limit = "-1" >
+	<reward itemid = "1000" count = "10000"></reward></loot> 
+	<loot limit = "-1" >
+	<reward itemid = "1001" count = "1000"></reward></loot></data></data>

@@ -1,0 +1,21 @@
+<data>
+<data id = "1" name = "太阳" rare = "6" count = "1" itemid = "15054" time = "30" img = "icon9_81"></data> 
+<data id = "2" name = "月亮" rare = "6" count = "1" itemid = "15055" time = "30" img = "icon9_82"></data> 
+<data id = "3" name = "恶魔" rare = "6" count = "1" itemid = "15056" time = "30" img = "icon9_84"></data> 
+<data id = "4" name = "天使" rare = "6" count = "1" itemid = "15057" time = "30" img = "icon9_83"></data> 
+<data id = "5" name = "白羊座" rare = "5" count = "1" itemid = "15058" time = "30" img = "icon9_102"></data> 
+<data id = "6" name = "金牛座" rare = "5" count = "1" itemid = "15059" time = "30" img = "icon9_103"></data> 
+<data id = "7" name = "双子座" rare = "5" count = "1" itemid = "15060" time = "30" img = "icon9_104"></data> 
+<data id = "8" name = "巨蟹座" rare = "5" count = "1" itemid = "15061" time = "30" img = "icon9_113"></data> 
+<data id = "9" name = "狮子座" rare = "5" count = "1" itemid = "15062" time = "30" img = "icon9_114"></data> 
+<data id = "10" name = "处女座" rare = "5" count = "1" itemid = "15063" time = "30" img = "icon9_115"></data> 
+<data id = "11" name = "天秤座" rare = "5" count = "1" itemid = "15064" time = "30" img = "icon9_116"></data> 
+<data id = "12" name = "天蝎座" rare = "5" count = "1" itemid = "15065" time = "30" img = "icon9_117"></data> 
+<data id = "13" name = "射手座" rare = "5" count = "1" itemid = "15066" time = "30" img = "icon9_118"></data> 
+<data id = "14" name = "摩羯座" rare = "5" count = "1" itemid = "15067" time = "30" img = "icon9_119"></data> 
+<data id = "15" name = "水瓶座" rare = "5" count = "1" itemid = "15068" time = "30" img = "icon9_120"></data> 
+<data id = "16" name = "双鱼座" rare = "5" count = "1" itemid = "15069" time = "30" img = "icon10_1"></data> 
+<data id = "17" name = "烈火骑士" rare = "2" count = "16" itemid = "15070" time = "30" img = "icon10_51"></data> 
+<data id = "18" name = "厚土骑士" rare = "2" count = "16" itemid = "15071" time = "30" img = "icon10_53"></data> 
+<data id = "19" name = "疾风骑士" rare = "2" count = "16" itemid = "15072" time = "30" img = "icon10_54"></data> 
+<data id = "20" name = "壬水骑士" rare = "2" count = "116" itemid = "15073" time = "30" img = "icon10_55"></data></data>

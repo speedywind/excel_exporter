@@ -1,0 +1,56 @@
+<data>
+<data id = "1" type = "1" merlevel = "2" level = "12" members = "4" randcount = "2" count = "2" starttime = "" endtime = "" >
+	<lootlist itemid = "1001" count = "25000"></lootlist> 
+	<lootlist itemid = "33399" count = "1"></lootlist> 
+	<lootlist itemid = "24006" count = "1"></lootlist> 
+	<event eventid = "40001"></event> 
+	<event eventid = "40002"></event> 
+	<event eventid = "40003"></event> 
+	<event eventid = "40004"></event> 
+	<event eventid = "40005"></event> 
+	<event eventid = "40006"></event></data> 
+<data id = "2" type = "1" merlevel = "5" level = "25" members = "4" randcount = "2" count = "2" starttime = "" endtime = "" >
+	<lootlist itemid = "1001" count = "50000"></lootlist> 
+	<lootlist itemid = "33399" count = "1"></lootlist> 
+	<lootlist itemid = "24006" count = "2"></lootlist> 
+	<event eventid = "40011"></event> 
+	<event eventid = "40012"></event> 
+	<event eventid = "40013"></event> 
+	<event eventid = "40014"></event> 
+	<event eventid = "40015"></event> 
+	<event eventid = "40016"></event> 
+	<event eventid = "40017"></event> 
+	<event eventid = "40018"></event></data> 
+<data id = "3" type = "1" merlevel = "7" level = "40" members = "4" randcount = "2" count = "2" starttime = "" endtime = "" >
+	<lootlist itemid = "1001" count = "100000"></lootlist> 
+	<lootlist itemid = "33399" count = "1"></lootlist> 
+	<lootlist itemid = "24006" count = "3"></lootlist> 
+	<event eventid = "40021"></event> 
+	<event eventid = "40022"></event> 
+	<event eventid = "40023"></event> 
+	<event eventid = "40024"></event> 
+	<event eventid = "40025"></event> 
+	<event eventid = "40026"></event> 
+	<event eventid = "40027"></event> 
+	<event eventid = "40028"></event></data> 
+<data id = "4" type = "2" merlevel = "4" level = "25" members = "4" randcount = "1" count = "-1" starttime = "" endtime = "" >
+	<lootlist itemid = "33503" count = "1"></lootlist> 
+	<event eventid = "40041"></event> 
+	<event eventid = "40042"></event> 
+	<event eventid = "40043"></event> 
+	<event eventid = "40044"></event></data> 
+<data id = "5" type = "2" merlevel = "6" level = "50" members = "4" randcount = "1" count = "-1" starttime = "" endtime = "" >
+	<lootlist itemid = "33504" count = "1"></lootlist> 
+	<lootlist itemid = "28003" count = "1"></lootlist> 
+	<event eventid = "40051"></event> 
+	<event eventid = "40052"></event> 
+	<event eventid = "40053"></event> 
+	<event eventid = "40054"></event></data> 
+<data id = "6" type = "3" merlevel = "1" level = "40" members = "0" randcount = "1" count = "2" starttime = "" endtime = "" >
+	<lootlist itemid = "1001" count = "100"></lootlist> 
+	<event eventid = "40031"></event> 
+	<event eventid = "40032"></event> 
+	<event eventid = "40033"></event></data> 
+<data id = "7" type = "3" merlevel = "1" level = "20" members = "0" randcount = "1" count = "4" starttime = "" endtime = "" >
+	<lootlist itemid = "1001" count = "100"></lootlist> 
+	<event eventid = "40034"></event></data></data>

@@ -1,0 +1,92 @@
+<data>
+<data id = "200001" >
+	<rank rank = "1" rank1 = "1" des = "公会boss伤害排名第1名奖励" >
+		<reward itemid = "1000" count = "30000"></reward> 
+		<reward itemid = "28001" count = "20"></reward></rank> 
+	<rank rank = "2" rank1 = "2" des = "公会boss伤害排名第2名奖励" >
+		<reward itemid = "1000" count = "24000"></reward> 
+		<reward itemid = "28001" count = "15"></reward></rank> 
+	<rank rank = "3" rank1 = "3" des = "公会boss伤害排名第3名奖励" >
+		<reward itemid = "1000" count = "18000"></reward> 
+		<reward itemid = "28001" count = "10"></reward></rank> 
+	<rank rank = "4" rank1 = "10" des = "公会boss伤害排名4-10名奖励" >
+		<reward itemid = "1000" count = "12000"></reward> 
+		<reward itemid = "28001" count = "5"></reward></rank> 
+	<rank rank = "11" rank1 = "999" des = "公会boss伤害排名奖励" >
+		<reward itemid = "1000" count = "8000"></reward> 
+		<reward itemid = "28001" count = "3"></reward></rank></data> 
+<data id = "200002" >
+	<rank rank = "1" rank1 = "1" des = "公会boss伤害排名第1名奖励" >
+		<reward itemid = "1001" count = "5000"></reward> 
+		<reward itemid = "34091" count = "2"></reward></rank> 
+	<rank rank = "2" rank1 = "2" des = "公会boss伤害排名第2名奖励" >
+		<reward itemid = "1001" count = "4000"></reward> 
+		<reward itemid = "34091" count = "2"></reward></rank> 
+	<rank rank = "3" rank1 = "3" des = "公会boss伤害排名第3名奖励" >
+		<reward itemid = "1001" count = "3000"></reward> 
+		<reward itemid = "34091" count = "2"></reward></rank> 
+	<rank rank = "4" rank1 = "10" des = "公会boss伤害排名4-10名奖励" >
+		<reward itemid = "1001" count = "2000"></reward> 
+		<reward itemid = "34091" count = "1"></reward></rank> 
+	<rank rank = "11" rank1 = "999" des = "公会boss伤害排名奖励" >
+		<reward itemid = "1001" count = "1000"></reward></rank></data> 
+<data id = "200003" >
+	<rank rank = "1" rank1 = "1" des = "公会boss伤害排名第1名奖励" >
+		<reward itemid = "1002" count = "100"></reward></rank> 
+	<rank rank = "2" rank1 = "2" des = "公会boss伤害排名第2名奖励" >
+		<reward itemid = "1002" count = "80"></reward></rank> 
+	<rank rank = "3" rank1 = "3" des = "公会boss伤害排名第3名奖励" >
+		<reward itemid = "1002" count = "60"></reward></rank> 
+	<rank rank = "4" rank1 = "10" des = "公会boss伤害排名4-10名奖励" >
+		<reward itemid = "1002" count = "40"></reward></rank> 
+	<rank rank = "11" rank1 = "999" des = "公会boss伤害排名奖励" >
+		<reward itemid = "1002" count = "20"></reward></rank></data> 
+<data id = "200004" >
+	<rank rank = "1" rank1 = "1" des = "公会boss伤害排名第1名奖励" >
+		<reward itemid = "1000" count = "80000"></reward> 
+		<reward itemid = "28201" count = "100"></reward></rank> 
+	<rank rank = "2" rank1 = "2" des = "公会boss伤害排名第2名奖励" >
+		<reward itemid = "1000" count = "70000"></reward> 
+		<reward itemid = "28201" count = "90"></reward></rank> 
+	<rank rank = "3" rank1 = "3" des = "公会boss伤害排名第3名奖励" >
+		<reward itemid = "1000" count = "50000"></reward> 
+		<reward itemid = "28201" count = "80"></reward></rank> 
+	<rank rank = "4" rank1 = "10" des = "公会boss伤害排名4-10名奖励" >
+		<reward itemid = "1000" count = "30000"></reward> 
+		<reward itemid = "28201" count = "70"></reward></rank> 
+	<rank rank = "11" rank1 = "999" des = "公会boss伤害排名奖励" >
+		<reward itemid = "1000" count = "20000"></reward> 
+		<reward itemid = "28201" count = "60"></reward></rank></data> 
+<data id = "200005" >
+	<rank rank = "1" rank1 = "1" des = "公会boss伤害排名第1名奖励" >
+		<reward itemid = "33018" count = "5"></reward></rank> 
+	<rank rank = "2" rank1 = "2" des = "公会boss伤害排名第2名奖励" >
+		<reward itemid = "33018" count = "4"></reward></rank> 
+	<rank rank = "3" rank1 = "3" des = "公会boss伤害排名第3名奖励" >
+		<reward itemid = "33018" count = "3"></reward></rank> 
+	<rank rank = "4" rank1 = "10" des = "公会boss伤害排名4-10名奖励" >
+		<reward itemid = "33018" count = "2"></reward></rank> 
+	<rank rank = "11" rank1 = "999" des = "公会boss伤害排名奖励" >
+		<reward itemid = "33018" count = "1"></reward></rank></data> 
+<data id = "200006" >
+	<rank rank = "1" rank1 = "1" des = "公会boss伤害排名第1名奖励" >
+		<reward itemid = "32104" count = "5"></reward></rank> 
+	<rank rank = "2" rank1 = "2" des = "公会boss伤害排名第2名奖励" >
+		<reward itemid = "32104" count = "4"></reward></rank> 
+	<rank rank = "3" rank1 = "3" des = "公会boss伤害排名第3名奖励" >
+		<reward itemid = "32104" count = "3"></reward></rank> 
+	<rank rank = "4" rank1 = "10" des = "公会boss伤害排名4-10名奖励" >
+		<reward itemid = "32104" count = "2"></reward></rank> 
+	<rank rank = "11" rank1 = "999" des = "公会boss伤害排名奖励" >
+		<reward itemid = "32104" count = "1"></reward></rank></data> 
+<data id = "200007" >
+	<rank rank = "1" rank1 = "1" des = "公会boss伤害排名第1名奖励" >
+		<reward itemid = "1009" count = "5"></reward></rank> 
+	<rank rank = "2" rank1 = "2" des = "公会boss伤害排名第2名奖励" >
+		<reward itemid = "1009" count = "4"></reward></rank> 
+	<rank rank = "3" rank1 = "3" des = "公会boss伤害排名第3名奖励" >
+		<reward itemid = "1009" count = "3"></reward></rank> 
+	<rank rank = "4" rank1 = "10" des = "公会boss伤害排名4-10名奖励" >
+		<reward itemid = "1009" count = "2"></reward></rank> 
+	<rank rank = "11" rank1 = "999" des = "公会boss伤害排名奖励" >
+		<reward itemid = "1009" count = "1"></reward></rank></data></data>

@@ -1,0 +1,22 @@
+<data>
+<data id = "1" >
+	<reward itemid = "1000" count = "300000"></reward> 
+	<reward itemid = "28001" count = "60"></reward></data> 
+<data id = "2" >
+	<reward itemid = "1000" count = "400000"></reward> 
+	<reward itemid = "28001" count = "60"></reward></data> 
+<data id = "3" >
+	<reward itemid = "1000" count = "500000"></reward> 
+	<reward itemid = "28001" count = "60"></reward></data> 
+<data id = "4" >
+	<reward itemid = "1000" count = "600000"></reward> 
+	<reward itemid = "28001" count = "60"></reward></data> 
+<data id = "5" >
+	<reward itemid = "1000" count = "700000"></reward> 
+	<reward itemid = "28001" count = "60"></reward></data> 
+<data id = "6" >
+	<reward itemid = "1000" count = "800000"></reward> 
+	<reward itemid = "28001" count = "60"></reward></data> 
+<data id = "7" >
+	<reward itemid = "1000" count = "900000"></reward> 
+	<reward itemid = "28001" count = "60"></reward></data></data>

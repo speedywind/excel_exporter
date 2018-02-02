@@ -1,0 +1,335 @@
+<data>
+<data enemyid = "1001" enemyname = "副栉龙" img = "1" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "1002" enemyname = "剑龙" img = "2" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "1003" enemyname = "三角龙" img = "3" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "1004" enemyname = "甲龙" img = "4" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "1005" enemyname = "霸王龙" img = "5" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "1006" enemyname = "巨龟忍者" img = "106" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "1007" enemyname = "头盔人" img = "107" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "1008" enemyname = "钢盔人" img = "108" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "1009" enemyname = "帽子人" img = "109" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "1010" enemyname = "魔沼蛙养殖人" img = "110" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "1011" enemyname = "魔沼巨蛙养殖人" img = "111" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "1012" enemyname = "巨蛙领主" img = "112" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "1013" enemyname = "幽灵" img = "113" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "1014" enemyname = "大幽灵" img = "114" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "1015" enemyname = "千年幽灵" img = "115" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "2001" enemyname = "王牌大兵" img = "209" lootweight = "100" loot = "21009" ad = "0" ap = "0"></data> 
+<data enemyid = "2002" enemyname = "酿酒大师" img = "18" lootweight = "100" loot = "21023" ad = "0" ap = "0"></data> 
+<data enemyid = "2003" enemyname = "科学怪人" img = "262" lootweight = "100" loot = "21062" ad = "0" ap = "0"></data> 
+<data enemyid = "2004" enemyname = "圆桌武士" img = "240" lootweight = "100" loot = "21040" ad = "0" ap = "0"></data> 
+<data enemyid = "3001" enemyname = "仲夏夜少女" img = "155" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "3002" enemyname = "呆毛王" img = "156" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "3003" enemyname = "修仙大佬" img = "1402" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "3004" enemyname = "小僵尸" img = "125" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "3005" enemyname = "闪金少年" img = "149" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10001" enemyname = "僵尸" img = "125" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10002" enemyname = "溺薨僵尸" img = "324" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10003" enemyname = "瘟疫僵尸" img = "325" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10004" enemyname = "饥饿行者" img = "326" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10005" enemyname = "尸体发火" img = "327" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10006" enemyname = "僵尸伯爵阿谢" img = "373" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10007" enemyname = "僵尸之王罗波皮" img = "374" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10011" enemyname = "巫妖" img = "371" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10012" enemyname = "冰霜巫妖" img = "370" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10013" enemyname = "死魂巫妖" img = "372" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10101" enemyname = "魔犬" img = "316" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10102" enemyname = "极速魔犬" img = "328" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10103" enemyname = "盗宝地精" img = "328" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10201" enemyname = "黑暗弓箭手" img = "329" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10202" enemyname = "黑色流浪者" img = "330" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10203" enemyname = "血腥弓箭手" img = "331" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10204" enemyname = "亚马逊杀手" img = "332" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10205" enemyname = "血鸟" img = "333" lootweight = "10" loot = "34201" ad = "0" ap = "0"></data> 
+<data enemyid = "10206" enemyname = "飓风游侠" img = "40002" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10301" enemyname = "怒兽" img = "317" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10302" enemyname = "雅提" img = "334" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10303" enemyname = "压碎者" img = "335" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10401" enemyname = "吸血鬼" img = "132" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10402" enemyname = "吸血鬼伯爵" img = "336" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10403" enemyname = "吸血鬼公爵" img = "337" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10501" enemyname = "树精" img = "58" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10502" enemyname = "树精长老" img = "338" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10503" enemyname = "火焰巨树" img = "340" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10504" enemyname = "树精王木卡利欧" img = "339" lootweight = "10" loot = "34201" ad = "0" ap = "0"></data> 
+<data enemyid = "10601" enemyname = "巨人" img = "57" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10602" enemyname = "重锤" img = "341" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10603" enemyname = "大笨兽" img = "342" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10604" enemyname = "巨人王布欧利斯" img = "343" lootweight = "10" loot = "34201" ad = "0" ap = "0"></data> 
+<data enemyid = "10701" enemyname = "法师" img = "1304" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10702" enemyname = "火焰法师" img = "344" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10703" enemyname = "冰法" img = "345" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10704" enemyname = "光法" img = "346" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10705" enemyname = "黑暗大法师" img = "347" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10706" enemyname = "大魔导师牙皮" img = "348" lootweight = "10" loot = "34201" ad = "0" ap = "0"></data> 
+<data enemyid = "10707" enemyname = "大法师" img = "40003" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10801" enemyname = "基础元素" img = "366" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10802" enemyname = "火元素之魂" img = "365" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10803" enemyname = "水元素之魂" img = "367" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10804" enemyname = "光元素之魂" img = "368" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10805" enemyname = "暗元素之魂" img = "369" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10806" enemyname = "火元素使" img = "349" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10807" enemyname = "水元素使" img = "350" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10808" enemyname = "光元素使" img = "351" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10809" enemyname = "暗元素使" img = "352" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10901" enemyname = "战士" img = "308" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10902" enemyname = "盗贼" img = "362" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10903" enemyname = "重甲战士" img = "353" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10904" enemyname = "游侠" img = "361" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10905" enemyname = "杀手" img = "364" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10906" enemyname = "暴躁外皮" img = "363" lootweight = "15" loot = "34201" ad = "0" ap = "0"></data> 
+<data enemyid = "10907" enemyname = "欧泽布鲁斯" img = "363" lootweight = "15" loot = "34201" ad = "0" ap = "0"></data> 
+<data enemyid = "10908" enemyname = "冒险家" img = "157" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10909" enemyname = "狂战士" img = "40001" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10910" enemyname = "重甲骑士" img = "40004" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10911" enemyname = "吟游诗人" img = "40010" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "11001" enemyname = "祭祀" img = "129" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "11002" enemyname = "光明祭祀" img = "354" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "11003" enemyname = "神圣祭祀" img = "356" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "11004" enemyname = "暗影祭祀" img = "355" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "11101" enemyname = "龙" img = "60" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "11102" enemyname = "魔龙" img = "319" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "11103" enemyname = "锋龙" img = "360" lootweight = "5" loot = "34201" ad = "0" ap = "0"></data> 
+<data enemyid = "11104" enemyname = "灵龙" img = "320" lootweight = "5" loot = "34201" ad = "0" ap = "0"></data> 
+<data enemyid = "11105" enemyname = "火焰龙" img = "321" lootweight = "5" loot = "34201" ad = "0" ap = "0"></data> 
+<data enemyid = "11106" enemyname = "龙王" img = "321" lootweight = "5" loot = "34201" ad = "0" ap = "0"></data> 
+<data enemyid = "11201" enemyname = "机械生物" img = "104" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "11202" enemyname = "暴走机器人" img = "358" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "11203" enemyname = "木桩" img = "359" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "11301" enemyname = "自动火炮" img = "357" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "11302" enemyname = "寒冬火炮" img = "55" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "11303" enemyname = "闪电炮" img = "55" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "12001" enemyname = "魔物" img = "317" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "12002" enemyname = "魔物先锋" img = "323" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "12003" enemyname = "黑龙傀儡" img = "322" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "1" enemyname = "亚伯" img = "201" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "2" enemyname = "该隐" img = "202" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "3" enemyname = "美杜莎" img = "203" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "4" enemyname = "达摩" img = "15" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "5" enemyname = "塔纳托斯" img = "265" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "6" enemyname = "阿尔忒弥斯" img = "206" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "7" enemyname = "开膛手杰克" img = "207" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "8" enemyname = "叶卡捷琳娜二世" img = "208" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "9" enemyname = "盖瑞" img = "209" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "10" enemyname = "孙悟空" img = "33" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "11" enemyname = "范海辛" img = "211" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "12" enemyname = "凯撒大帝" img = "212" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "13" enemyname = "圣女贞德" img = "213" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "14" enemyname = "湿婆" img = "214" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "15" enemyname = "织田信长" img = "215" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "16" enemyname = "许褚" img = "216" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "17" enemyname = "典韦" img = "217" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "18" enemyname = "爱迪生" img = "218" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "19" enemyname = "聂隐娘" img = "44" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "20" enemyname = "阿瑞斯" img = "29" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "21" enemyname = "卡戎" img = "221" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "22" enemyname = "马可·波罗" img = "3" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "23" enemyname = "狄俄尼索斯" img = "18" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "24" enemyname = "土方岁三" img = "224" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "25" enemyname = "赫菲斯托斯" img = "43" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "26" enemyname = "阿芙洛狄忒" img = "226" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "27" enemyname = "麦哲伦" img = "40006" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "28" enemyname = "乌尔班二世" img = "228" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "29" enemyname = "风魔小太郎" img = "12" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "30" enemyname = "服部半藏" img = "36" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "31" enemyname = "猿飞佐助" img = "231" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "32" enemyname = "丰臣秀吉" img = "232" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "33" enemyname = "秦琼" img = "233" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "34" enemyname = "李逵" img = "234" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "35" enemyname = "阿喀琉斯" img = "235" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "36" enemyname = "宙斯" img = "236" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "37" enemyname = "天照大神" img = "237" lootweight = "20" loot = "34201" ad = "0" ap = "0"></data> 
+<data enemyid = "38" enemyname = "小丑皇" img = "238" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "39" enemyname = "普罗米修斯" img = "239" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "40" enemyname = "兰斯洛特" img = "240" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "41" enemyname = "亚瑟" img = "241" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "42" enemyname = "霍去病" img = "242" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "43" enemyname = "姜子牙" img = "243" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "44" enemyname = "释尊" img = "244" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "45" enemyname = "爱德华蒂奇" img = "245" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "46" enemyname = "雅典娜" img = "45" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "47" enemyname = "奥丁" img = "247" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "48" enemyname = "洛基" img = "248" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "49" enemyname = "索尔" img = "249" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "50" enemyname = "所罗门" img = "250" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "51" enemyname = "路西法" img = "251" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "52" enemyname = "加百列" img = "252" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "53" enemyname = "米迦勒" img = "253" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "54" enemyname = "关羽" img = "254" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "55" enemyname = "吕布" img = "16" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "56" enemyname = "专诸" img = "256" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "57" enemyname = "佐罗" img = "257" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "58" enemyname = "金刚夜叉明王" img = "258" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "59" enemyname = "张飞" img = "259" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "60" enemyname = "波塞冬" img = "23" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "61" enemyname = "暗夜骑士" img = "261" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "62" enemyname = "弗兰肯斯坦" img = "262" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "63" enemyname = "阿努比斯" img = "27" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "64" enemyname = "哈迪斯" img = "264" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "201" enemyname = "最强男军人" img = "1102" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "202" enemyname = "最强女军人" img = "1103" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "203" enemyname = "男警察" img = "1306" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "204" enemyname = "女警察" img = "1307" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "205" enemyname = "男战士" img = "1302" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "206" enemyname = "女战士" img = "1303" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "207" enemyname = "皇后" img = "1404" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "208" enemyname = "国王" img = "1406" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "209" enemyname = "黄精灵" img = "126" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "210" enemyname = "红精灵" img = "127" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "211" enemyname = "吱吱" img = "123" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "212" enemyname = "咩咩" img = "124" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "213" enemyname = "火法" img = "1301" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "214" enemyname = "奥法" img = "1304" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "215" enemyname = "魔化老太婆" img = "1205" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "216" enemyname = "阿拉伯" img = "1401" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "217" enemyname = "老太婆" img = "1403" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "218" enemyname = "老头" img = "1402" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "219" enemyname = "绿发游侠" img = "1203" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "220" enemyname = "黄发游侠" img = "1204" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "221" enemyname = "黑皮少女" img = "1202" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "222" enemyname = "黑皮少年" img = "1201" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "223" enemyname = "汪汪" img = "121" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "224" enemyname = "喵喵" img = "122" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "225" enemyname = "武道家" img = "1104" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "226" enemyname = "女武道家" img = "1105" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "227" enemyname = "头盔人" img = "107" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "228" enemyname = "钢盔人" img = "108" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "229" enemyname = "哥布林" img = "118" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "230" enemyname = "牛头怪" img = "119" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "231" enemyname = "方块勇士" img = "301" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "232" enemyname = "大福勇士" img = "302" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "233" enemyname = "塑料构造体" img = "104" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "234" enemyname = "实习程序员" img = "304" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "235" enemyname = "矮人矿工" img = "305" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "236" enemyname = "地精海贼" img = "306" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "237" enemyname = "隐匿者" img = "307" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "238" enemyname = "亚马逊杀手" img = "308" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "239" enemyname = "黑衣人" img = "309" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "240" enemyname = "外星人" img = "310" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "241" enemyname = "小混混" img = "311" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "242" enemyname = "恐龙妹" img = "312" lootweight = "0" loot = "0" ad = "0" ap = "0"></data> 
+<data enemyid = "1037" enemyname = "天照大神X" img = "237" lootweight = "20" loot = "34201" ad = "0" ap = "0"></data> 
+<data enemyid = "243" enemyname = "龙的跟班" img = "312" lootweight = "0" loot = "0" ad = "0" ap = "0"></data>,
+<data enemyid = "20001" enemyname = "魔化巨蜥" img = "112" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20002" enemyname = "魔改僵尸" img = "125" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20003" enemyname = "基柯·驯犬者" img = "100013" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20004" enemyname = "不稳定实验体" img = "2201" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20005" enemyname = "实验改造体" img = "154" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20006" enemyname = "弗莱斯博士" img = "100006" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20007" enemyname = "火焰使者拉斐尔" img = "365" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20008" enemyname = "冰霜使者达芬奇" img = "366" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20009" enemyname = "光明使者米开朗基罗" img = "368" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20010" enemyname = "黑暗使者多纳泰罗" img = "369" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20011" enemyname = "齿轮守护者" img = "57" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20012" enemyname = "克莱因男爵" img = "200001" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20013" enemyname = "速之极4000型" img = "341" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20014" enemyname = "玛顿·樱之时" img = "100013" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20015" enemyname = "虚空灵核" img = "2201" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20016" enemyname = "笨重的虚灵" img = "2401" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20017" enemyname = "亡命之灵" img = "130" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20018" enemyname = "剑术大师" img = "211" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20019" enemyname = "法术大牛" img = "348" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20020" enemyname = "自闭骑士" img = "240" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20021" enemyname = "影子牧师" img = "347" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20022" enemyname = "防暴部队" img = "144" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20023" enemyname = "怒火" img = "321" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20024" enemyname = "魔泉" img = "320" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20025" enemyname = "冰" img = "322" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20026" enemyname = "互搏机器人" img = "342" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20027" enemyname = "自动维修机体" img = "359" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20028" enemyname = "笑里藏刀" img = "219" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20029" enemyname = "刺杀者晓布" img = "230" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20030" enemyname = "苟活的椰壳" img = "40007" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20031" enemyname = "智慧之眼" img = "341" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20032" enemyname = "洞察之眼" img = "343" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20033" enemyname = "理查一世" img = "390" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20034" enemyname = "神关羽" img = "391" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20035" enemyname = "尤瑞艾莉" img = "392" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "20036" enemyname = "诸葛孔明" img = "393" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "22001" enemyname = "汗流浃·贝塔斯托斯" img = "375" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "22002" enemyname = "超能之·子芭芭拉" img = "376" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "22003" enemyname = "噩梦传染嗨巨人" img = "377" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "22004" enemyname = "感染·火之高兴" img = "378" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "22005" enemyname = "不存在的毒" img = "379" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "22006" enemyname = "呜喵之王艾里蒙特西" img = "380" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "22007" enemyname = "螺丝钉红火恍惚" img = "381" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "22008" enemyname = "沙拉特内伤" img = "324" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "22009" enemyname = "库尔斯火树" img = "340" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "22010" enemyname = "德雷克二哈" img = "334" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "22011" enemyname = "巴比特阿强" img = "222" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "22012" enemyname = "斯皮德雷光" img = "202" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "22013" enemyname = "克鲁斯·肃正巨盾" img = "38" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "22014" enemyname = "行政前台阿布特罗斯" img = "8" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "22015" enemyname = "施密特·轮回之眼" img = "377" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "22016" enemyname = "阿拉法特里奥" img = "100022" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "30001" enemyname = "聪聪酱" img = "117" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "250000"></data> 
+<data enemyid = "30002" enemyname = "三眼会的奴仆" img = "228" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "1000000"></data> 
+<data enemyid = "100001" enemyname = "永生者提姆" img = "100001" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "100002" enemyname = "长眠的恩底弥翁" img = "100002" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "100003" enemyname = "悲惨的提米" img = "100003" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "100004" enemyname = "库兰的猛犬" img = "100004" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "100005" enemyname = "欧皇特使" img = "100005" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "100006" enemyname = "狄米莉亚" img = "100008" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "110001" enemyname = "永生者提姆" img = "100001" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "110002" enemyname = "长眠的恩底弥翁" img = "100002" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "110003" enemyname = "悲惨的提米" img = "100003" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "110004" enemyname = "库兰的猛犬" img = "100004" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "110005" enemyname = "欧皇特使" img = "100005" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "110006" enemyname = "狄米莉亚" img = "100008" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "110007" enemyname = "风之棉被王" img = "100007" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "110008" enemyname = "巴萨卡" img = "100009" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "120001" enemyname = "永生者提姆" img = "100001" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "120002" enemyname = "长眠的恩底弥翁" img = "100002" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "120003" enemyname = "悲惨的提米" img = "100003" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "120004" enemyname = "库兰的猛犬" img = "100004" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "120005" enemyname = "欧皇特使" img = "100005" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "120006" enemyname = "狄米莉亚" img = "100008" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "120007" enemyname = "风之棉被王" img = "100007" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "120008" enemyname = "巴萨卡" img = "100009" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "130001" enemyname = "星座战士" img = "301" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "130002" enemyname = "星座法师" img = "1203" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "130003" enemyname = "星座射手" img = "1304" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "130004" enemyname = "无限之境" img = "2401" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "140001" enemyname = "三相·马克之风" img = "100010" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "140002" enemyname = "托马斯·绿林" img = "100011" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "140003" enemyname = "墨菲斯托·邪火" img = "100012" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "140004" enemyname = "德累斯顿·磐石" img = "100013" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "140009" enemyname = "魔·三相·马克之风" img = "100010" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "140010" enemyname = "魔·托马斯·绿林" img = "100011" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "140011" enemyname = "魔·墨菲斯托·邪火" img = "100012" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "140012" enemyname = "魔·德累斯顿·磐石" img = "100013" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "140013" enemyname = "深渊·马克之风" img = "100010" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "140014" enemyname = "深渊·绿林" img = "100011" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "140015" enemyname = "深渊·邪火" img = "100012" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "140016" enemyname = "深渊·磐石" img = "100013" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "150001" enemyname = "我不是蛇" img = "100013" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "150002" enemyname = "火焰君主丹罗格" img = "100013" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "150003" enemyname = "蓝色风暴" img = "100013" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "150004" enemyname = "岩浆喷涌者" img = "100013" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "150005" enemyname = "独影" img = "100013" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "150006" enemyname = "传说的意志" img = "100013" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "150007" enemyname = "古厄尔" img = "100013" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "150008" enemyname = "大河之主" img = "308" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "160001" enemyname = "天翼·霓虹" img = "100014" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "160002" enemyname = "天翼·原谅" img = "100015" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "160003" enemyname = "天翼·绚蓝" img = "100016" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "160004" enemyname = "镜像-阿尔忒弥斯" img = "100019" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "160005" enemyname = "镜像-服部半藏" img = "100020" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "160006" enemyname = "镜像-关羽" img = "100021" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "160007" enemyname = "镜像-凯撒大帝" img = "100022" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "160008" enemyname = "镜像-天照大神" img = "100023" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "160009" enemyname = "镜像-聂隐娘" img = "100024" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "160010" enemyname = "守护精灵之根" img = "100017" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "160011" enemyname = "布格拉斯·洗脑" img = "100018" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "200001" enemyname = "灵能之神" img = "200001" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "200002" enemyname = "海滩巨人" img = "200002" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "200003" enemyname = "土地精" img = "200003" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "200004" enemyname = "灵能大神" img = "200004" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "200005" enemyname = "海岸巨人" img = "200005" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "200006" enemyname = "大地精" img = "200006" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "200007" enemyname = "灵能巨神" img = "200007" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "200008" enemyname = "海浪巨人" img = "200008" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "200009" enemyname = "地精王" img = "200009" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "200010" enemyname = "青鸾" img = "2301" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "200011" enemyname = "火凤" img = "2302" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data> 
+<data enemyid = "200012" enemyname = "幽魂之主" img = "2101" lootweight = "0" loot = "0" ad = "0" ap = "0" health = "0"></data></data>

@@ -1,0 +1,32 @@
+<data>
+<data id = "19001" level = "30" name = "战斗鸡" des = "我只是一只鸡" handbook = "1" rare = "1" hp = "10000" img = "382" >
+	<skills skill = "35001" skilllevel = "1"></skills></data> 
+<data id = "19002" level = "30" name = "爪黄飞电" des = "蹄似披金，飞如闪电" handbook = "1" rare = "3" hp = "30000" img = "383" >
+	<skills skill = "35002" skilllevel = "1"></skills></data> 
+<data id = "19003" level = "30" name = "吸血蝙蝠" des = "我渴望鲜血" handbook = "1" rare = "4" hp = "50000" img = "116" >
+	<skills skill = "35003" skilllevel = "1"></skills> 
+	<skills skill = "35004" skilllevel = "1"></skills></data> 
+<data id = "19004" level = "30" name = "粉红骷髅" des = "戴着粉红头饰的骷髅" handbook = "1" rare = "4" hp = "50000" img = "131" >
+	<skills skill = "35005" skilllevel = "1"></skills> 
+	<skills skill = "35006" skilllevel = "1"></skills></data> 
+<data id = "19005" level = "30" name = "狂暴狼人" des = "月圆之夜就会化身为狼" handbook = "1" rare = "5" hp = "100000" img = "384" >
+	<skills skill = "35007" skilllevel = "1"></skills> 
+	<skills skill = "35008" skilllevel = "1"></skills></data> 
+<data id = "19006" level = "30" name = "肖gay" des = "我只是来卖萌的" handbook = "0" rare = "6" hp = "200000" img = "134" >
+	<skills skill = "0" skilllevel = "1"></skills></data> 
+<data id = "19007" level = "30" name = "诡异气球" des = "气球上散发着诡异的光" handbook = "1" rare = "4" hp = "70000" img = "385" >
+	<skills skill = "35009" skilllevel = "1"></skills> 
+	<skills skill = "35010" skilllevel = "1"></skills></data> 
+<data id = "19008" level = "30" name = "大霸空艇" des = "举办祭典指定直播用空艇" handbook = "1" rare = "5" hp = "120000" img = "386" >
+	<skills skill = "35011" skilllevel = "1"></skills> 
+	<skills skill = "35012" skilllevel = "1"></skills></data> 
+<data id = "19009" level = "30" name = "烈火之魂" des = "烈火正在熊熊燃烧" handbook = "1" rare = "5" hp = "150000" img = "388" >
+	<skills skill = "35013" skilllevel = "1"></skills></data> 
+<data id = "19010" level = "30" name = "灵火之魂" des = "冥界之火" handbook = "1" rare = "6" hp = "200000" img = "389" >
+	<skills skill = "35014" skilllevel = "1"></skills></data> 
+<data id = "19011" level = "30" name = "傻蛋" des = "吾乃大恶魔是也" handbook = "1" rare = "6" hp = "240000" img = "394" >
+	<skills skill = "35015" skilllevel = "1"></skills> 
+	<skills skill = "35016" skilllevel = "1"></skills></data> 
+<data id = "19012" level = "30" name = "圣洁之翼" des = "用我的光辉净化一切" handbook = "1" rare = "6" hp = "300000" img = "387" >
+	<skills skill = "35017" skilllevel = "1"></skills> 
+	<skills skill = "35018" skilllevel = "1"></skills></data></data>
