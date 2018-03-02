@@ -366,12 +366,14 @@ def CheckChunk(parses, sheet, row1, row2, col, indent, nodename):
 	global imglacks
 	luachunks = []
 	jschunks = []
+	jsonchunks = []
 	xmlchunks = []
 	while row1 < row2:
 		myrow = row1
 		col1 = col
 		luachunk = []
 		jschunk = []
+		jsonchunk = []
 		xmlchunk = []
 		majorkey = None
 		newrow2 = GetNextRow(sheet, row1 + 1, row2, col)
@@ -386,6 +388,7 @@ def CheckChunk(parses, sheet, row1, row2, col, indent, nodename):
 				if key.find("weight") == -1:
 					luachunk.append(key + " = " + parse["default"])
 					jschunk.append(key + ":" + parse["default"])
+					jsonchunk.append("\""+key + "\":" + parse["default"])
 				xmlchunk.append(key + " = " + Quotes(parse["default"]))
 				continue
 			elif parse["func"] == TInt:
@@ -393,6 +396,7 @@ def CheckChunk(parses, sheet, row1, row2, col, indent, nodename):
 				if key.find("weight") == -1 and (field or not key in ["fordiamond", "skill", "skill1", "skill2"]):
 					luachunk.append(key and key + " = " + val or val)
 					jschunk.append(key and key + ":" + val or val)
+					jsonchunk.append(key and "\""+key + "\":" + val or val)
 				# else:
 				# 	print "ignoring "+key+" = "+val
 				if  filename != "ld_armor" or not key in ["equiplevel", "zhanli", "skill", "skilllevel"]:
@@ -404,11 +408,13 @@ def CheckChunk(parses, sheet, row1, row2, col, indent, nodename):
 			elif parse["func"] == TBool:
 				luachunk.append(key and key + " = " + CheckBool(field, parse["default"]) or CheckBool(field, parse["default"]))
 				jschunk.append(key and key + ":" + CheckBool(field, parse["default"]) or CheckBool(field, parse["default"]))
+				jsonchunk.append(key and "\""+key + "\":" + CheckBool(field, parse["default"]) or CheckBool(field, parse["default"]))
 				xmlchunk.append(key and key + " = " + Quotes(CheckBool(field, parse["default"])) or Quotes(CheckBool(field, parse["default"])))
 				col1 += 1
 			elif parse["func"] == TFloat:
 				luachunk.append(key and key + " = " + CheckFloat(field, parse["default"]) or CheckFloat(field, parse["default"]))
 				jschunk.append(key and key + ":" + CheckFloat(field, parse["default"]) or CheckFloat(field, parse["default"]))
+				jsonchunk.append(key and "\""+key + "\":" + CheckFloat(field, parse["default"]) or CheckFloat(field, parse["default"]))
 				xmlchunk.append(key and key + " = " + Quotes(CheckFloat(field, parse["default"])) or Quotes(CheckFloat(field, parse["default"])))
 				col1 += 1
 			elif parse["func"] == TString:
@@ -441,6 +447,7 @@ def CheckChunk(parses, sheet, row1, row2, col, indent, nodename):
 				if val != "\"\"" or not key in ["img", "ccbi", "starttime", "endtime"]:
 					luachunk.append(key and key + " = " + val or val)
 					jschunk.append(key and key + ":" + val or val)
+					jsonchunk.append(key and "\""+key + "\":" + Quotes(val) or Quotes(val))
 				if  not filename in ["ld_armor", "ld_event", "ld_package"] or not key in ["img", "des", "answer"]:
 					xmlchunk.append(key and key + " = " + Quotes(CheckString(field, parse["default"])) or Quotes(CheckString(field, parse["default"])))
 				col1 += 1
@@ -448,31 +455,36 @@ def CheckChunk(parses, sheet, row1, row2, col, indent, nodename):
 				if not GetValue(sheet, row1, col1) and parse["args"][0]["default"] == None:
 					col1 += GetCols(parse["args"])
 				else:
-					col1, lua, js, xml = CheckChunk(parse["args"], sheet, row1, newrow2, col1, indent, key and key or nodename)
+					col1, lua, js, json, xml = CheckChunk(parse["args"], sheet, row1, newrow2, col1, indent, key and key or nodename)
 					if lua.find("lootshow = ") >= 0:
 						if lua.find("lootshow = 1") >= 0:
 							lua = lua.replace(", lootshow = 1", "")
 							js = js.replace(", lootshow:1", "")
+							json = json.replace(", lootshow:1", "")
 						else:
 							debug("Removing lootshow: "+lua)
 							lua = ""
 							js = ""
+							json = ""
 					if lua[len(indent)+1:len(indent)+2] == "[":
 						luachunk.append(lua)
 						jschunk.append(js)
+						jsonchunk.append(json)
 					elif lua:
 						luachunk.append(key and key + " = {" + lua + "}" or "{" + lua + "}")
 						jschunk.append(key and key + ":{" + js + "}" or "{" + js + "}")
+						jsonchunk.append(key and "\""+key + "\":{" + json + "}" or "{" + json + "}")
 					if xml != "" and (filename == "ld_hero" or filename == "ld_talent" or not (key and key or nodename) in ["increase", "states", "skill"]):
 						xmlchunk.append((len(xmlchunk) > 0 and xmlchunk[len(xmlchunk)-1][-1:] != ">") and ">" + xml or xml)
 			elif parse["func"] == TList:
-				col1, lua, js, xml = CheckChunk(parse["args"], sheet, row1, newrow2, col1, indent+"\t", key)
+				col1, lua, js, json, xml = CheckChunk(parse["args"], sheet, row1, newrow2, col1, indent+"\t", key)
 				if xml != "":
 					xmlchunk.append((len(xmlchunk) > 0 and xmlchunk[len(xmlchunk)-1][-1:] != ">") and ">" + xml or xml)
 				if parse["default"] == "key":
 					key =  ValToKey(CheckInt(field))
 				luachunk.append("\n"+indent+"\t" + key + " = {" + lua + "}")
 				jschunk.append("\n"+indent+"\t" + key + ":{" + js + "}")
+				jsonchunk.append("\n"+indent+"\t" + "\""+key + "\":[" + json + "]")
 			else: #跳过空字段
 				assert parse["func"] == None, "Error[非法的字段名]: near " + sheetname + filename + "("+GetColNum(mycol)+str(myrow+1)+")"
 				col1 += 1
@@ -484,11 +496,13 @@ def CheckChunk(parses, sheet, row1, row2, col, indent, nodename):
 		if majorkey:
 			luachunks.append("\n" + indent + "[" + majorkey + "]" + " = {" + ", ".join(luachunk) + "}")
 			jschunks.append("\n" + indent + majorkey + ":{" + ", ".join(jschunk) + "}")
+			jsonchunks.append("\n" + indent + "\""+majorkey + "\":{" + ", ".join(jsonchunk) + "}")
 		elif len(luachunk) > 0: #列表比如{1,2,3}
 			luachunks.append(", ".join(luachunk))
 			jschunks.append(", ".join(jschunk))
+			jsonchunks.append(", ".join(jsonchunk))
 		row1 = newrow2
-	return col1, ", ".join(luachunks),", ".join(jschunks), " ".join(xmlchunks)
+	return col1, ", ".join(luachunks),", ".join(jschunks),", ".join(jsonchunks), " ".join(xmlchunks)
 
 def Quotes(val):
 	if val[:1] == '"':
@@ -535,12 +549,12 @@ def ExportFile(xlsx):
 			newlua = lua
 			newjs = js
 			newxml = xml
-			col, lua, js, xml = CheckChunk(parses, sheet, 2, sheet.nrows, 0, "", "data")
+			col, lua, js, json, xml = CheckChunk(parses, sheet, 2, sheet.nrows, 0, "", "data")
 			lua = newlua + "," + lua
 			js = newjs + "," + js
 			xml = newxml + "," + xml
 		else:
-			col, lua, js, xml = CheckChunk(parses, sheet, 2, sheet.nrows, 0, "", "data")
+			col, lua, js, json, xml = CheckChunk(parses, sheet, 2, sheet.nrows, 0, "", "data")
 		#在此进行文件内容的校验
 		# if filename == "ld_ladderseason":
 		# 	ckladderseason.check(sheet, parses);
@@ -556,6 +570,9 @@ def ExportFile(xlsx):
 		if not filename in ["ld_fenjie"]:
 			with codecs.open("../jsnew/" + filename + ".js", "w", "utf-8") as f:
 				f.write("module.exports = {" + js + "}")
+		if not filename in ["ld_fenjie"]:
+			with codecs.open("../jsonnew/" + filename + ".json", "w", "utf-8") as f:
+				f.write("{" + json + "}")
 		if not filename in ["ld_lvattribute"]:
 			with codecs.open("../xmlnew/" + filename + ".xml", "w", "utf-8") as f:
 				f.write("<data>" + xml + "</data>")
