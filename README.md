@@ -1,7 +1,6 @@
 # Excel exporter
 
-## commit_excel.bat
-将NAS中的excel直接拖拽到此脚本上进行提交实现自动提交
+支持导出json/lua/xml/js格式的配置文件方便在项目中直接引用
 
 ## Example
 
